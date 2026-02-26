@@ -1,0 +1,1 @@
+Set heartbeat notifications to only alert if there are issues with the service.
