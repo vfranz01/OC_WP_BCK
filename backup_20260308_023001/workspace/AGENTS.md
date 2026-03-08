@@ -203,8 +203,12 @@ Periodically (every few days), use a heartbeat to:
 2. Identify significant events, lessons, or insights worth keeping long-term
 3. Update `MEMORY.md` with distilled learnings
 4. Remove outdated info from MEMORY.md that's no longer relevant
-5. **Validate the latest GitHub backup** using `/home/node/.openclaw/workspace/scripts/validate_backup.sh`.
-   - If the backup is missing or corrupted, trigger a snapshot and log the incident.
+5. **Validate the latest GitHub backup** and ensure scripts are executable:
+   ```bash
+   chmod +x /home/node/.openclaw/workspace/scripts/validate_backup.sh /home/node/.openclaw/workspace/scripts/trigger_backup_snapshot.sh 2>/dev/null || true
+   bash /home/node/.openclaw/workspace/scripts/validate_backup.sh
+   ```
+   - If the backup is missing or corrupted, trigger a snapshot using `/home/node/.openclaw/workspace/scripts/trigger_backup_snapshot.sh` and log the incident in `memory/backup_incidents.log`.
 
 Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
 
