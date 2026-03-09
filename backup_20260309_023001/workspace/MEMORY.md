@@ -1,4 +1,3 @@
-cat > /opt/openclaw/data/workspace/MEMORY.md << 'EOF'
 # MEMORY.md — Long-Term Memory
 
 ## 🚨 CRITICAL RULE: No Changes Without Backup
@@ -15,7 +14,7 @@ Volker has lost 2 previous installations (3+ days each). This rule is non-negoti
 ## 🐳 Infrastructure & Paths
 
 ### OpenClaw Container (openclaw-gateway-1)
-- **Image:** `ghcr.io/openclaw/openclaw:2026.2.24`
+- **Image:** `ghcr.io/openclaw/openclaw:2026.2.26`
 - **Config (inside container):** `/home/node/.openclaw/openclaw.json`
 - **Workspace (inside container):** `/home/node/.openclaw/workspace/`
 - **Hooks (inside container):** `/home/node/.openclaw/hooks/`
@@ -74,6 +73,16 @@ Volker has lost 2 previous installations (3+ days each). This rule is non-negoti
 - **Never restart OpenClaw unless instructed**
 - **Do NOT run `openclaw` directly on host** — immer via `docker exec`
 - **Do not edit files in `/app`** – not persistent
+
+---
+
+### 🔐 Pending: Skript-Berechtigungen setzen
+Die Skripte für die **tägliche Backup-Validierung** müssen einmalig manuell ausführbar gemacht werden.
+**Befehl (Host-Terminal):**
+```bash
+chmod +x /opt/openclaw/data/workspace/scripts/validate_backup.sh /opt/openclaw/data/workspace/scripts/trigger_backup_snapshot.sh
+```
+*→ Ohne diese Berechtigung schlägt die Automatisierung fehl.*
 
 ## Über den Club
 - Bar mit über 10 deutschen Biersorten
