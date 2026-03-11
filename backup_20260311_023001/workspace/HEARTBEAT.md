@@ -3,8 +3,9 @@
 ## Daily Tasks
 
 ### 1. Backup Validation
-Run the backup validation script to ensure critical files are intact:
+Ensure backup scripts are executable and validate critical files:
 ```bash
+chmod +x /home/node/.openclaw/workspace/scripts/validate_backup.sh /home/node/.openclaw/workspace/scripts/trigger_backup_snapshot.sh 2>/dev/null || true
 bash /home/node/.openclaw/workspace/scripts/validate_backup.sh
 ```
 

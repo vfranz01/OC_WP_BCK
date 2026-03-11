@@ -1,4 +1,3 @@
-cat > /opt/openclaw/data/workspace/MEMORY.md << 'EOF'
 # MEMORY.md — Long-Term Memory
 
 ## 🚨 CRITICAL RULE: No Changes Without Backup
@@ -34,7 +33,7 @@ Volker has lost 2 previous installations (3+ days each). This rule is non-negoti
 ## ⚙️ Current Configuration
 
 ### LLM Model
-- **Primary:** `openrouter/mistralai/mistral-large`
+- **Primary:** `openrouter/mistralai/mistral-large-2411`
 - **Fallback:** `anthropic/claude-3-5-sonnet`
 - **OpenRouter:** $10 Guthaben aufgeladen (2026-02-26)
 
@@ -60,6 +59,7 @@ Volker has lost 2 previous installations (3+ days each). This rule is non-negoti
 - **Container:** `brain-brain-1` (Next.js app)
 - **URL:** `https://brain.ecomunivers.cloud`
 - **Status:** ✅ Läuft — via Cloudflare Tunnel auf Port 3000
+- **Issue Resolved (2026-02-26):** `better-sqlite3` bindings mismatch due to musl vs glibc. Fixed by rebuilding native modules inside the container with `npm install --build-from-source`.
 - **Mount:** `/opt/openclaw/data` → `/home/node/.openclaw/` im Brain Container
 - **DB:** SQLite `brain.db` mit FTS + ChromaDB für vector search
 
@@ -80,14 +80,6 @@ Volker has lost 2 previous installations (3+ days each). This rule is non-negoti
 ### 🔐 Pending: Skript-Berechtigungen setzen
 Die Skripte für die **tägliche Backup-Validierung** müssen einmalig manuell ausführbar gemacht werden.
 **Befehl (Host-Terminal):**
-```bash
-chmod +x /opt/openclaw/data/workspace/scripts/validate_backup.sh /opt/openclaw/data/workspace/scripts/trigger_backup_snapshot.sh
-```
-*→ Ohne diese Berechtigung schlägt die Automatisierung fehl.*
-
-### 🔐 Pending: Skript-Berechtigungen setzen
-Die Skripte für die **tägliche Backup-Validierung** müssen einmalig manuell ausführbar gemacht werden.
-**Befehl (Host-Terminal):
 ```bash
 chmod +x /opt/openclaw/data/workspace/scripts/validate_backup.sh /opt/openclaw/data/workspace/scripts/trigger_backup_snapshot.sh
 ```

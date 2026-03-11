@@ -1,4 +1,5 @@
 'use client';
+
 import { useEffect, useState } from 'react';
 
 function Card({ title, children }: { title: string; children: React.ReactNode }) {
@@ -47,6 +48,9 @@ export default function Dashboard() {
             </dl>
           ) : <p className="text-gray-500 text-sm">Loading...</p>}
         </Card>
+        
+
+
         <Card title="Recent Snapshots">
           {snapshots.length === 0 ? <p className="text-gray-500 text-sm">No snapshots found</p> : (
             <ul className="text-sm space-y-1 text-gray-300 max-h-48 overflow-auto">
