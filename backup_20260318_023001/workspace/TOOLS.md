@@ -35,6 +35,16 @@ Things like:
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
+## WordPress
+
+### digital.ecomunivers.com
+- **URL:** https://digital.ecomunivers.com
+- **User:** supchief
+- **Application Password:** XgBBjURcKvD8MGBYDEP9wkdr
+- **API:** /wp-json/wp/v2/
+- **Auth:** Basic Auth (Username:ApplicationPassword)
+- **Zugang:** curl -u "supchief:XgBBjURcKvD8MGBYDEP9wkdr" "https://digital.ecomunivers.com/wp-json/wp/v2/..."
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
