@@ -85,6 +85,70 @@ chmod +x /opt/openclaw/data/workspace/scripts/validate_backup.sh /opt/openclaw/d
 ```
 *→ Ohne diese Berechtigung schlägt die Automatisierung fehl.*
 
+## Ecomunivers Digital — WordPress Blog
+- **URL:** https://digital.ecomunivers.com
+- **WordPress:** User: supchief, Yoast SEO installiert
+- **API:** /wp-json/wp/v2/ (Basic Auth in TOOLS.md)
+- **Nische:** AI E-Books, English
+- **Target Audience:** Entrepreneurs, Marketers, Content Creators, Developers
+- **Zielgruppe:** Männer 25-50
+
+### Pages
+- Home (ID 41, slug: digital-products)
+- Blog (ID 73, slug: blog)
+- Shop (ID 55, slug: shop)
+- Contact Us (ID 73, slug: contact-us)
+- My Account (ID 22, slug: my-account)
+
+### WordPress Blog Categories
+- News (ID 17)
+- SEO (ID 57)
+- **AI eBooks & Guides (ID 212) — Blog Category** ✅
+
+### WooCommerce Product Categories (wichtig für CTA-Links!)
+- **AI eBooks & Guides (ID: 211, slug: ai-ebooks) → /product-category/ai-ebooks/** — 6 Produkte ✅
+- Business & Making Money (ID: 39) — 105 Produkte
+- Productivity & Self Help (ID: 48) — 125 Produkte
+- Marketing & Promotion (ID: 46) — 45 Produkte
+- **⚠️ Blog-CTA-Links → `/product-category/ai-ebooks/`**
+
+### Published Posts
+| ID | Title | Status | Date |
+|----|-------|--------|------|
+| 9463 | The AI Agent Revolution: 7 Tools... | Draft | 2026-03-17 |
+| 9464 | Prompt Engineering Mastery... | Draft | 2026-03-17 |
+| 9465 | AI Automation for Small Business... | Draft | 2026-03-17 |
+
+### Content Calendar
+- **File:** `ecomunivers/CONTENT-CALENDAR.md`
+- **Schedule:** Mo/Mi/Fr, 9:00 AM AEST
+- **Mo+Mi:** SEO Posts (Category 57)
+- **Fr:** News Posts (Category 17)
+- **Target:** 1200-1500 words, English, SEO-optimized
+
+### Cron Jobs (automatisch)
+| Job | Schedule | Category |
+|-----|----------|----------|
+| Monday Post | 0 9 * * 1 | SEO (57) |
+| Wednesday Post | 0 9 * * 3 | SEO (57) |
+| Friday Post | 0 9 * * 5 | News (17) |
+
+### Blog Content Files
+- `ecomunivers/posts/post-1-ai-agent-tools.json`
+- `ecomunivers/posts/post-2-prompt-engineering-mastery.json`
+- `ecomunivers/posts/post-3-ai-automation-small-business.json`
+
+### ⚠️ Content-Regeln (von Volker gewünscht)
+1. **IMMER erst Seiten-Slugs + Kategorien prüfen** bevor Links in Posts eingebaut werden
+2. **CTA-Links → WooCommerce Product Category** (`/product-category/{slug}/`) — auf Kategorie mit echten Produkten
+3. **Keine generischen Links** — nur auf existierende Seiten/Kategorien verlinken
+4. **Draft-Status** — niemals direkt veröffentlichen
+5. **Yoast Meta-Daten** setzen (Focus Keyword, Meta Title, Meta Description)
+6. **Automatisch ins Menü** — jeder neue Post als Sub-Item unter "Blog" (Menu ID: 18, Parent: 9470)
+7. **Nur existierende Kategorien** — keine neuen Kategorien erstellen (haben keine Produkte)
+
+---
+
 ## Über den Club
 - Bar mit über 10 deutschen Biersorten
 - Deutsche Küche: Schnitzel, Holzfällersteaks, Bratwurst, Gulasch, Spätzle, Chips
@@ -130,7 +194,45 @@ JSON: { "id": "evt1234567890" }
 - Wenn Volker "ja" oder "ok" sagt, schicke den Webhook SOFORT ab
 - Frage NICHT mehrfach nach Bestätigung
 
+### 🤖 Telegram Bots
+
+| Bot | Username | Agent | Funktion |
+|-----|----------|-------|----------|
+| **Claiborne** | @Cortexcraftbot | Main | Haupt-Bot für Volker |
+| **Kimi** | @Muxers_bot | Coder | Coding-Aufgaben |
+
+- **Bot Token (Claiborne):** 8391830666:AAGwJroEnbZdnnTQqzfqiJwxUrRI0XZhNEA
+- **Bot Token (Kimi):** in openclaw.json unter accounts.coder
+- **Issue gelöst (2026-03-18):** Claiborne antwortete nicht → Token fehlte im Config
+
+---
+
+## 🛍️ Shopify POD Shop — T-ShirtBull
+
+### Shop Info
+- **URL:** t-shirtbull.de
+- **Nische:** Lustige T-Shirts & Hoodies (Bier, Sprüche, Humor)
+- **Target:** Männer 25-55, Bierfans, Geschenke suchende
+- **Print Provider:** Printful
+
+### Social Media Accounts
+- **Facebook:** facebook.com/T-Shirtbull
+- **Instagram:** @t_shirtbull
+- **Pinterest:** noch zu prüfen
+
+### Content Strategy
+- **Datei:** `/tshirtbull/CONTENT-STRATEGY.md`
+- **Posting:** 3x pro Woche (Mo/Mi/Fr)
+- **Content Types:** Produkt Showcase (Mo), Lifestyle/Humor (Mi), Geschenk-Idee (Fr)
+- **Automation:** geplant via n8n (Meta API)
+
+### Performance (2026-03-18)
+- Apps entfernt: WhatsApp Button, GetSiteControl, Hextom
+- HTML: 307KB → 296KB (-11KB)
+- TTFB: 41ms → 34ms
+
 ## 📅 Last Updated
+- 2026-03-18 — Telegram Bot (Claiborne) Token hinzugefügt, Performance-Optimierung Shopify (3 Apps entfernt)
 - 2026-02-26 — Version update 2026.2.24, Brain läuft wieder, NVIDIA Provider hinzugefügt, OpenRouter aufgeladen
 EOF
 ## 🤖 Agent Routing
