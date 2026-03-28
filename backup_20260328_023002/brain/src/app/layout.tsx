@@ -8,6 +8,8 @@ export const metadata: Metadata = { title: 'Brain Dashboard' };
 const nav = [
   { href: '/', label: '🏠 Dashboard' },
   { href: '/kb', label: '📚 Knowledge Base' },
+  { href: '/memory', label: '🧠 Memory' },
+  { href: '/memory/stats', label: '📊 Memory Stats' },
 ];
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
