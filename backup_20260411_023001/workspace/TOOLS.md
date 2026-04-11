@@ -35,16 +35,20 @@ Things like:
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
-## WordPress
+## WooCommerce
 
 ### digital.ecomunivers.com
-- **URL:** https://digital.ecomunivers.com
-- **User:** supchief
-- **Application Password:** XgBBjURcKvD8MGBYDEP9wkdr
-- **API:** /wp-json/wp/v2/
-- **Auth:** Basic Auth (Username:ApplicationPassword)
-- **Zugang:** curl -u "supchief:XgBBjURcKvD8MGBYDEP9wkdr" "https://digital.ecomunivers.com/wp-json/wp/v2/..."
+- **Consumer Key:** ck_ff625a0fdddb27ead9b4942c166de9f443a4e2ef
+- **Consumer Secret:** cs_91199d05bf058072a0ee283807417dc37773fe38
+- **API:** /wp-json/wc/v3/
+- **Auth:** Basic Auth (Consumer Key:Consumer Secret)
+- **Zugang:** curl -u "ck_ff625a0fdddb27ead9b4942c166de9f443a4e2ef:cs_91199d05bf058072a0ee283807417dc37773fe38" "https://digital.ecomunivers.com/wp-json/wc/v3/products?per_page=100"
 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## ⚠️ Nach Openclaw Updates
+Nach jedem Update prüfen ob curl allowedDomains noch gesetzt ist:
+cat /opt/openclaw/data/openclaw.json | python3 -m json.tool | grep -A10 "safeBinProfiles"
+Wenn leer → Fix: python3 script in /opt/openclaw-snapshots/v2026.3.28/NOTES.md
