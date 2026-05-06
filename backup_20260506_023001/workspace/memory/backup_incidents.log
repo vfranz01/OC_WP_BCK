@@ -1,0 +1,34 @@
+2026-05-04 00:01:04 - Log rotated. Archived: backup_incidents-20260504-000104.log (was 2630 lines)
+2026-05-04 00:01:04 - === Starting backup validation ===
+2026-05-04 00:01:04 - OK: MEMORY.md validated.
+2026-05-04 00:01:04 - OK: AGENTS.md validated.
+2026-05-04 00:01:04 - OK: TOOLS.md validated.
+2026-05-04 00:01:04 - OK: HEARTBEAT.md validated.
+2026-05-04 00:01:04 - OK: SOUL.md validated.
+2026-05-04 00:01:04 - OK: USER.md validated.
+2026-05-04 00:01:28 - OK: Snapshot script is executable.
+2026-05-04 00:01:28 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:01:28 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:01:28 - Validation passed. All critical checks successful.
+2026-05-04 00:01:41 - === Starting backup validation ===
+2026-05-04 00:01:41 - OK: MEMORY.md validated.
+2026-05-04 00:01:41 - OK: AGENTS.md validated.
+2026-05-04 00:01:41 - OK: TOOLS.md validated.
+2026-05-04 00:01:41 - OK: HEARTBEAT.md validated.
+2026-05-04 00:01:41 - OK: SOUL.md validated.
+2026-05-04 00:01:41 - OK: USER.md validated.
+2026-05-04 00:01:57 - OK: Snapshot script is executable.
+2026-05-04 00:01:57 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:01:57 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:01:57 - Validation passed. All critical checks successful.
+2026-05-04 00:02:51 - === Starting backup validation ===
+2026-05-04 00:02:51 - OK: MEMORY.md validated.
+2026-05-04 00:02:51 - OK: AGENTS.md validated.
+2026-05-04 00:02:51 - OK: TOOLS.md validated.
+2026-05-04 00:02:51 - OK: HEARTBEAT.md validated.
+2026-05-04 00:02:51 - OK: SOUL.md validated.
+2026-05-04 00:02:51 - OK: USER.md validated.
+2026-05-04 00:03:07 - OK: Snapshot script is executable.
+2026-05-04 00:03:07 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:03:07 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:03:07 - Validation passed. All critical checks successful.
