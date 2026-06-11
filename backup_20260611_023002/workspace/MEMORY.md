@@ -95,11 +95,6 @@ Skills laden: `read workspace/skills/<name>/SKILL.md`
 ## 📅 Last Updated
 2026-05-13 — MEMORY.md cleanup: Removed 40+ outdated "promoted from short-term memory" entries (old Apr-May logs). Restored file to maintainable state (<5000 chars).
 
-## Promoted From Short-Term Memory (2026-05-27)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-05-11.md:30:52 -->
-- - 05:00 UTC: Backup validation - 12:00 UTC: Daily status summary - 14:00 UTC (Mon/Wed/Fri): Blog post validation - 10:00 UTC (Sundays): Weekly safety audit ## Documentation Updates - Updated `scripts/README.md` with new cron setup section - Added critical setup warning to AGENTS.md - Documented proper container/host cron distinction ## Impact ✅ Automation infrastructure now has a clear installation path ✅ Daily backups can now run automatically ✅ System health checks enabled ✅ Weekly safety audits can be scheduled ✅ One command activates all automation: `bash HOST-SETUP-CRON.sh` (on VPS host) ## Next Steps for User Run on Hostinger VPS host (NOT in container): ```bash bash /home/node/.openclaw/workspace/scripts/HOST-SETUP-CRON.sh ``` [score=0.903 recalls=5 avg=0.451 source=memory/2026-05-11.md:30-52]
-
 ## Promoted From Short-Term Memory (2026-05-28)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-13.md:36:53 -->
@@ -123,3 +118,8 @@ Skills laden: `read workspace/skills/<name>/SKILL.md`
 
 <!-- openclaw-memory-promotion:memory:memory/2026-05-24.md:1:2 -->
 - - `scripts/daily-status-summary.sh`: Modified to use `memory/template.md` and generate the daily log file with correct frontmatter. - `memory/template.md`: Created a template file for daily memory logs with necessary frontmatter. [score=1.000 recalls=6 avg=0.539 source=memory/2026-05-24.md:1-2]
+
+## Promoted From Short-Term Memory (2026-06-03)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-01.md:1:1 -->
+- Improved WooCommerce API key rotation by adding a script to document the process and generate new keys. Modified TOOLS.md to include the script reference. [score=0.836 recalls=3 avg=0.658 source=memory/2026-06-01.md:1-1]
