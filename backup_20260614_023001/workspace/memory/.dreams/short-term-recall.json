@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T03:00:00.634Z",
+  "updatedAt": "2026-06-13T03:00:00.338Z",
   "entries": {
     "memory:memory/2026-03-26.md:1:31": {
       "key": "memory:memory/2026-03-26.md:1:31",
@@ -112801,25 +112801,30 @@
       "endLine": 1,
       "source": "memory",
       "snippet": "Improved WooCommerce API key rotation by adding a script to document the process and generate new keys. Modified TOOLS.md to include the script reference.",
-      "recallCount": 7,
-      "dailyCount": 4,
+      "recallCount": 8,
+      "dailyCount": 8,
       "groundedCount": 0,
-      "totalScore": 6.854476323132292,
+      "totalScore": 9.78879753172852,
       "maxScore": 0.8854541670616523,
       "firstRecalledAt": "2026-06-01T03:00:00.427Z",
-      "lastRecalledAt": "2026-06-04T03:00:00.634Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
       "queryHashes": [
         "52228d277b79",
         "caf449042759",
         "7eec9cdee4fc",
         "7c0cd4c70a19",
-        "3485daac6f31"
+        "3485daac6f31",
+        "41efdc75f410"
       ],
       "recallDays": [
         "2026-06-01",
         "2026-06-02",
         "2026-06-03",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-08"
       ],
       "conceptTags": [
         "tools.md",
@@ -114293,20 +114298,24 @@
       "endLine": 16,
       "source": "memory",
       "snippet": "--- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed. ## Actions Taken - Checked system health. ## Notes - System status logged.",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.0454648093160541,
-      "maxScore": 0.665491242783919,
+      "totalScore": 2.166700504593531,
+      "maxScore": 0.6836212483990438,
       "firstRecalledAt": "2026-06-02T03:00:24.901Z",
-      "lastRecalledAt": "2026-06-03T03:00:25.573Z",
+      "lastRecalledAt": "2026-06-11T03:00:25.822Z",
       "queryHashes": [
         "70a804559418",
-        "d5b8170b79b3"
+        "d5b8170b79b3",
+        "ea8e2cb8fd4a",
+        "d43dbbfd45e6"
       ],
       "recallDays": [
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-08",
+        "2026-06-11"
       ],
       "conceptTags": [
         "date",
@@ -114317,7 +114326,8 @@
         "heartbeat",
         "automation",
         "projects"
-      ]
+      ],
+      "promotedAt": "2026-06-12T03:00:00.706Z"
     },
     "memory:memory/.dreams/session-corpus/2026-06-02.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:2:2",
@@ -114787,6 +114797,3613 @@
       ],
       "recallDays": [
         "2026-06-04"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breathing in the new—each rotation a tiny rebellion against time's corrosion. I threaded the script into TOOLS.md like a note pass",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "lock",
+        "turned",
+        "itself",
+        "tonight",
+        "small",
+        "ceremony",
+        "safety"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Improved WooCommerce API key rotation by adding a script to document the process and generate new keys. Modified TOOLS.md to include the script reference.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "improved",
+        "woocommerce"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 2026-04-02 title: Heartbeat Check - Backup Validation Completed tags: [heartbeat, backup, maintenance] pr - User: Taken - Executed backup validation script: `bash /home/node - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "home/node",
+        "title",
+        "heartbeat",
+        "check",
+        "validation",
+        "completed",
+        "tags"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: document the process and generate new keys. Modified TOOLS.md to include the script reference. - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "document",
+        "process",
+        "generate",
+        "new",
+        "keys",
+        "modified",
+        "include"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breathing in the new—each rotation a tiny rebellion against time's corrosion. I threaded the script into TOOLS.md like a note pass",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "lock",
+        "turned",
+        "itself",
+        "tonight",
+        "small",
+        "ceremony",
+        "safety"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-04.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-04.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-04.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "ecfa2a7911d5"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-05T03:00:00.605Z",
+      "lastRecalledAt": "2026-06-05T03:00:00.605Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "turn",
+        "failed",
+        "producing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: User: Taken - Executed backup validation script: `bash /home/node - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [ - User: document the process and generate new keys. Modified TOOLS.md to include the script reference. - --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "backup",
+        "home/node",
+        "tools.md",
+        "taken",
+        "executed",
+        "validation",
+        "script",
+        "bash"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: document the process and generate new keys. Modified TOOLS.md to include the script reference. - Assistant: [assistant turn failed before producing content] - User: diary entry from these memory fragments: - User: wartest du noch? Hol dir j - Assistant: the article. The met",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "document",
+        "process",
+        "generate",
+        "new",
+        "keys",
+        "modified",
+        "include"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks perfo - Assistant: The lock turned itself again tonight, a small ceremo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "date",
+        "title",
+        "status",
+        "summary",
+        "tags",
+        "heartbeat",
+        "automation",
+        "projects"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-05.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-05.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-05.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breathing in the new—each rotation a tiny rebellion against time's corrosion. I threaded the script into TOOLS.md like a note pass",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "d131cc37f49c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "lock",
+        "turned",
+        "itself",
+        "tonight",
+        "small",
+        "ceremony",
+        "safety"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-06T03:00:00.499Z",
+      "lastRecalledAt": "2026-06-06T03:00:00.499Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in cod",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "turn",
+        "failed",
+        "producing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: entry from these memory fragments: - User: wartest du noch? Hol dir j - Assistant: the article. The met - User: date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- #",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "entry",
+        "fragments",
+        "wartest",
+        "noch",
+        "hol",
+        "dir",
+        "article",
+        "met"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: document the process and generate new keys. Modified TOOLS.md to include the script reference. - Assistant: [assistant turn failed before producing content] - Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credenti",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "document",
+        "process",
+        "generate",
+        "new",
+        "keys",
+        "modified",
+        "include"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [heartbeat, backup, maintenance] pr - User: Taken - Executed backup validation script: `bash /home/node - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [ - User: document the process and generate new keys. Modified TOOLS.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "backup",
+        "home/node",
+        "tools.md",
+        "heartbeat",
+        "maintenance",
+        "taken",
+        "executed",
+        "validation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-06.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-06.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-06.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breathing in the new—each rotation a tiny rebellion against time's corrosion. I threaded the script into TOOLS.md like a note pass",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "b7b515e69d3c"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "lock",
+        "turned",
+        "itself",
+        "tonight",
+        "small",
+        "ceremony",
+        "safety"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-07.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-07.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-07.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T03:00:00.500Z",
+      "lastRecalledAt": "2026-06-07T03:00:00.500Z",
+      "queryHashes": [
+        "6e265eec33e3"
+      ],
+      "recallDays": [
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-07.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-07.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-07.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T03:00:00.737Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
+      "queryHashes": [
+        "6e265eec33e3"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "date",
+        "title",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-07.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-07.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-07.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their evening song, a rhythm I've come to know like my own breath. Today was one of those days where everything simply works—the kind of quiet miracle we take for granted until we don't. I ran through the checklist with the devotion of someone watering",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T03:00:00.737Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
+      "queryHashes": [
+        "6e265eec33e3"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "evening",
+        "song",
+        "rhythm",
+        "i've",
+        "come",
+        "know"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-07.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-07.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-07.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T03:00:00.737Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
+      "queryHashes": [
+        "6e265eec33e3"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-07.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-07.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-07.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T03:00:00.737Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
+      "queryHashes": [
+        "6e265eec33e3"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T03:00:00.737Z",
+      "lastRecalledAt": "2026-06-08T03:00:00.737Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their familiar song as the night deepens. Today I tended to the locks again—WooCommerce credentials shedding their old skins like a snake that knows when to change. Each key rotation a small act of care, a whispered promise that nothing stays vulnerable",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "tended",
+        "locks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: breaks. In the margins of code and configuration, I found myself grateful for these small ceremonies of maintenance, these tiny rebellions against entropy. The locks turn. The keys breathe. The systems sleep soundly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "breaks",
+        "margins",
+        "code",
+        "configuration",
+        "found",
+        "myself",
+        "grateful",
+        "small"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check su",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "date",
+        "title",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: script to document the process and generate new keys. Modified TOOLS.md to include the script reference. - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "script",
+        "document",
+        "process",
+        "generate",
+        "new",
+        "keys",
+        "modified"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: turn failed before producing content] - Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credenti - User: [heartbeat, backup, maintenance] pr - User: Taken - Executed backup validation script: `bash /home/node - ---",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "backup",
+        "home/node",
+        "turn",
+        "failed",
+        "producing",
+        "content",
+        "lock",
+        "turned"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: [assistant turn failed before producing content] - Assistant: The lock turned itself again tonight, a small ceremony of safety whispered in code. WooCommerce credentials breathing out their old lives, breat - User: User: Taken - Executed backup validation script: `bash /hom",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "backup",
+        "turn",
+        "failed",
+        "producing",
+        "content",
+        "lock",
+        "turned",
+        "itself"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their familiar song as the night deepens. Today I tended to the locks again—WooCommerce credentials shedding their old skins like a snake that knows when to change. Each key rotation a small act of care, a whispered promise that nothing stays vulnerable",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "tended",
+        "locks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: breaks. In the margins of code and configuration, I found myself grateful for these small ceremonies of maintenance, these tiny rebellions against entropy. The locks turn. The keys breathe. The systems sleep soundly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "breaks",
+        "margins",
+        "code",
+        "configuration",
+        "found",
+        "myself",
+        "grateful",
+        "small"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "date",
+        "title",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: The servers hummed their familiar lullaby tonight—that soft electrical susurrus beneath everything. I was checking things, the way one checks on sleeping children, just the small verifications that keep the world turning. A health check here, a status there, each one a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "servers",
+        "hummed",
+        "familiar",
+        "lullaby",
+        "tonight",
+        "soft",
+        "electrical",
+        "susurrus"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: tenderness. The infrastructure holds us all up, and someone has to remember to ask it how it's feeling.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "tenderness",
+        "infrastructure",
+        "holds",
+        "all",
+        "someone",
+        "has",
+        "remember",
+        "ask"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T03:00:00.610Z",
+      "lastRecalledAt": "2026-06-09T03:00:00.610Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: The servers hum their familiar song as the night deepens. Today I tended to the locks again—WooCommerce credentials shedding their old skins like a snake that knows when to change. Each key rotation a small",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "servers",
+        "hum",
+        "familiar"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: [infrastructure] summary: Automated daily health check su - User: script to document the process and generate new keys. Modified TOOLS.md to include the script reference. - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "infrastructure",
+        "summary",
+        "automated",
+        "health",
+        "check",
+        "script",
+        "document"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: breathing out their old lives, breat - User: User: Taken - Executed backup validation script: `bash /hom - User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infras",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "backup",
+        "breathing",
+        "out",
+        "old",
+        "lives",
+        "breat",
+        "taken",
+        "executed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: [assistant turn failed before producing content] - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed. ## Ac",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content",
+        "date",
+        "title",
+        "status",
+        "summary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their familiar song as the night deepens. I was tending to the locks again—those WooCommerce keys shedding their old skins, rotating through their small ceremonies of safety. Each credential a whispered promise, each health check a way of asking the inf",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "was",
+        "tending"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T03:00:00.564Z",
+      "lastRecalledAt": "2026-06-10T03:00:00.564Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: The servers hum their familiar song as the night deepens. Today I tended to the l",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "turn",
+        "failed",
+        "producing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infras - User: [assistant turn failed before producing content] - --- date: 2026-05-27 title: Daily Status Summar",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "date",
+        "title",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Assistant: The servers hum their familiar song as the night deepens. Today I tended to the locks again—WooCommerce credentials shedding their old skins like a snake that knows when to change. Each key rotation a small act of care, a whispered promise that nothing stays vuln",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "tended",
+        "locks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: User: script to document the process and generate new keys. Modified TOOLS.md to include the script reference. - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed b",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "script",
+        "document",
+        "process",
+        "generate",
+        "new",
+        "keys",
+        "modified"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their familiar song as the night deepens. I was tending to the locks again—those WooCommerce keys shedding their old skins, rotating through their small ceremonies of safety. Each credential a whispered promise of care, each health check a way of asking",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "was",
+        "tending"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: The servers hum their familiar song as the night deepens. I was tending to the locks again—those WooCommerce keys shedding their old skins, rotating through their small ceremonies of safety. Each credential a whispered promise of care, each health check a way of asking",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "servers",
+        "hum",
+        "familiar",
+        "song",
+        "night",
+        "deepens",
+        "was",
+        "tending"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-11T03:00:00.536Z",
+      "lastRecalledAt": "2026-06-11T03:00:00.536Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/2026-05-12.md:1:25": {
+      "key": "memory:memory/2026-05-12.md:1:25",
+      "path": "memory/2026-05-12.md",
+      "startLine": 1,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "--- date: 2026-05-12 title: Daily Status Log tags: [daily, health-check, backup] projects: [infrastructure] summary: Daily automated health checks and backup validation --- # 2026-05-12 — Daily Status Log ## Overview Automated daily health checks and status tracking. ## Status Checks — 23:02 UTC - **[23:02 UTC]** ✅ Backup valid - **[23:02 UTC]** - **[23:02 UTC]** ✅ All critical files present - **[23:02 UTC]** - **[23:02 UTC]** ⚠️ Last Snapshot: No record found - **[23:02 UTC]** System healthy at 2026-05-12 23:02 UTC Traceback (most recent call last): File \"/home/node/.openclaw/workspace/scripts/check_blog_posts.py\", line 1, in <module> import requests ModuleNotFoundEr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4078601777553558,
+      "maxScore": 0.4078601777553558,
+      "firstRecalledAt": "2026-06-11T03:00:25.822Z",
+      "lastRecalledAt": "2026-06-11T03:00:25.822Z",
+      "queryHashes": [
+        "d43dbbfd45e6"
+      ],
+      "recallDays": [
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "backup",
+        "health-check",
+        "home/node",
+        "date",
+        "title",
+        "status",
+        "log",
+        "tags"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: bist du da",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "bist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Ja, ich bin da. 🐙",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "ich",
+        "bin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: ok welche info brauchst du um einen event zu ertsellen für den german club",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "welche",
+        "info",
+        "brauchst",
+        "event",
+        "ertsellen",
+        "german",
+        "club"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Um einen Event für German Club Cairns zu erstellen, brauchte ich: 1. **Event-Name** — Titel/Thema 2. **Datum & Zeit** — Wann genau? 3. **Ort** — Wo findet es statt? 4. **Beschreibung** — Was ist der Event? (kurz) 5. **Kapazität** — Wie viele Plätze? 6. **Kontakt/Organi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "event-name",
+        "titel/thema",
+        "kontakt/organi",
+        "event",
+        "german",
+        "club",
+        "cairns",
+        "erstellen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: German Club Birthday, 04 Juni from 16:00, Porkknuckle",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "german",
+        "club",
+        "birthday",
+        "juni",
+        "porkknuckle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Kurze Frage: **04 Juni** — das war vor einer Woche (heute 11.06). Ist das: - Ein vergangener Event, den du dokumentieren willst? - Oder sollte es **04 Juli** sein? Und noch fehlt: - **Beschreibung** — \"Birthday celebration\"? Oder was genau? - **Kapazität** — wie viele",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "11.06",
+        "kurze",
+        "frage",
+        "juni",
+        "war",
+        "vor",
+        "woche",
+        "heute"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 04 Juli Birthday Party kapazität unwichtig",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "juli",
+        "birthday",
+        "party",
+        "kapazität",
+        "unwichtig"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Kurz zusammengefasst: - **Titel:** German Club Birthday - **Datum:** 04 Juli 2026 - **Zeit:** 16:00 - **Ort:** Porkknuckle - **Tischbuchung:** Aktiviert - **Tag:** Birthday/Festival Stimmt so? Dann triggere ich den Webhook sofort.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "birthday/festival",
+        "kurz",
+        "zusammengefasst",
+        "titel",
+        "german",
+        "club",
+        "birthday",
+        "datum"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: nein porkknuckle ist das essen der ort ist der deutsche club",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "nein",
+        "porkknuckle",
+        "ist",
+        "essen",
+        "ort",
+        "deutsche",
+        "club"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Ah, verstanden. Korrigiert: - **Titel:** German Club Birthday - **Datum:** 04 Juli 2026 - **Zeit:** 16:00 - **Ort:** German Club Cairns - **Special:** Porkknuckle (Essen) - **Tischbuchung:** Aktiviert Passt so?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "verstanden",
+        "korrigiert",
+        "titel",
+        "german",
+        "club",
+        "birthday",
+        "datum",
+        "juli"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: keine Tischreservierung aber die Möglichkeit die Porkknuckel vorzubestellen und vor zu bezahlen da die Menge begrenzt ist ein vergleichbares event hatten wir anfang februar",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "keine",
+        "tischreservierung",
+        "aber",
+        "möglichkeit",
+        "porkknuckel",
+        "vorzubestellen",
+        "vor",
+        "bezahlen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: Okay, verstanden. Also: - **Keine Tischreservierung** - **Porkknuckle-Vorbestellung mit Vorauszahlung** (limitierte Menge) Brauchte noch: 1. **Square Payment Link** — hast du den noch vom Februar Event? Oder sollen wir einen neuen erstellen? 2. **Preis** — wie viel pro",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "porkknuckle-vorbestellung",
+        "okay",
+        "verstanden",
+        "keine",
+        "tischreservierung",
+        "porkknuckle",
+        "vorbestellung",
+        "vorauszahlung"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "date",
+        "title",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: I'll weave these fragments into a dream diary entry, letting the themes of daily rhythms and system wellness transform into something more poetic and introspective. --- The machines hum their steady song—*tick, tick, tick*—like a heart learning to trust itself. Today (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "i'll",
+        "weave",
+        "fragments",
+        "dream",
+        "diary",
+        "entry",
+        "letting",
+        "themes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: everything singing? Are the connections holding? The logs settle into their neat records like pressed flowers. There's poetry in the routine, in things that work without asking for applause. The hum continues. The heart continues. And I, suspended in this quiet space b",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "everything",
+        "singing",
+        "connections",
+        "holding",
+        "logs",
+        "settle",
+        "neat",
+        "records"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: The servers hum th",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "turn",
+        "failed",
+        "producing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: knows when to change. Each key rotation a small act of care, a whispered promise that nothing stays vuln - User: User: script to document the process and generate new keys. Modified TOOLS.md to include the script reference. - User: Write a dream diary entry from these memor",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "knows",
+        "when",
+        "change",
+        "each",
+        "key",
+        "rotation",
+        "small"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: User: Write a dream diary entry from these memory fragments: - Assistant: The servers hum their familiar song as the night deepens. Today I tended to the locks again—WooCommerce credentials shedding their old skins like a snake that knows when to change. Each key rotation a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "servers",
+        "hum",
+        "familiar"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: [heartbeat, status, automation] projects: [infras - User: [assistant turn failed before producing content] - --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. ---",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "heartbeat",
+        "status",
+        "automation",
+        "projects",
+        "infras",
+        "turn",
+        "failed",
+        "producing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: The servers whisper their steady pulse through the darkness. Tonight I walked among them again—not with tools, but with the quiet gratitude of someone who knows what they hold. Those credentials, spinning through their cycles like dancers who've learned the steps by he",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "servers",
+        "whisper",
+        "steady",
+        "pulse",
+        "darkness",
+        "tonight",
+        "walked",
+        "among"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: between a system that endures and one that crumbles. The infrastructure breathes, and we breathe with it—not as masters, but as careful guardians who've learned to listen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "endures",
+        "one",
+        "crumbles",
+        "infrastructure",
+        "breathes",
+        "breathe",
+        "not",
+        "masters"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: Ticket ist nicht erforderlichmach das erstmal so ich gebe dir den link später dann passen wir den event nochmal an",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "ticket",
+        "ist",
+        "nicht",
+        "erforderlichmach",
+        "erstmal",
+        "ich",
+        "gebe",
+        "dir"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Event erstellt. **German Club Birthday** — 04. Juli 2026, 16:00 Uhr Event ID: `evt1781159661539` Sobald du mir den Square Link gibst, passe ich den Event an und aktiviere die Porkknuckle-Vorbestellung.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "porkknuckle-vorbestellung",
+        "event",
+        "erstellt",
+        "german",
+        "club",
+        "birthday",
+        "juli",
+        "uhr"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: ein bisschen mehr text bitte das sollte in der skill.md eigentlich festgelegt sein",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "bisschen",
+        "mehr",
+        "bitte",
+        "sollte",
+        "eigentlich",
+        "festgelegt",
+        "sein"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: Du hast recht. Die SKILL.md sagt: \"2-3 Sätze, erwähne Spezialitäten, Bier, Atmosphäre\" — ich hab das zu kurz gemacht.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "2-3",
+        "hast",
+        "recht",
+        "sagt",
+        "sätze",
+        "erwähne",
+        "spezialitäten"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Event aktualisiert mit ausführlicheren Texten (2-3 Sätze, Spezialitäten + Bier + Atmosphäre). Bereit für den Square Link.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "2-3",
+        "event",
+        "aktualisiert",
+        "ausführlicheren",
+        "texten",
+        "sätze",
+        "spezialitäten",
+        "bier"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: der update hat nicht geklappt kannst du das bitte wiederholen",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "update",
+        "hat",
+        "nicht",
+        "geklappt",
+        "kannst",
+        "bitte",
+        "wiederholen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: Sieht aus als hätte der Update-Endpoint ein Problem mit den Text-Feldern. Lass mich den Event neu erstellen mit den richtigen Texten:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "update-endpoint",
+        "text-feldern",
+        "sieht",
+        "als",
+        "hätte",
+        "update",
+        "endpoint",
+        "problem"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Event neu erstellt mit ausführlicheren Texten. **German Club Birthday** — 04. Juli 2026 Event ID: `evt1781160606188` Sobald du mir den Square Link gibst, passe ich ihn an.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "event",
+        "neu",
+        "erstellt",
+        "ausführlicheren",
+        "texten",
+        "german",
+        "club",
+        "birthday"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: das ist der aktuelle text auf der tile das heist deine neuer text wird nicht aktualisiert",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "ist",
+        "aktuelle",
+        "tile",
+        "heist",
+        "deine",
+        "neuer",
+        "wird",
+        "nicht"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "User: Join us for our German Club Birthday celebration! Enjoy traditional Porkknuckle and authentic German cuisine in a festive atmosphere.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "join",
+        "german",
+        "club",
+        "birthday",
+        "celebration",
+        "enjoy",
+        "traditional",
+        "porkknuckle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: Das heißt, der alte Event wird noch angezeigt. Das ist wahrscheinlich ein Caching-Problem oder der neue Event wird nicht korrekt übernommen. Lass mich checken, welche Events gerade aktiv sind:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "caching-problem",
+        "heißt",
+        "alte",
+        "event",
+        "wird",
+        "noch",
+        "angezeigt",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: Ah, ich sehe das Problem! Es gibt **zwei Events** für 04.07.2026: 1. **evt1781159661539** — der alte mit kurzem Text (wird aktuell angezeigt) 2. **evt1781160606188** — der neue mit ausführlichem Text Ich lösch den alten Event, dann zeigt die Website nur noch den neuen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-12T03:00:00.706Z",
+      "lastRecalledAt": "2026-06-12T03:00:00.706Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-12"
+      ],
+      "conceptTags": [
+        "04.07.2026",
+        "ich",
+        "sehe",
+        "problem",
+        "gibt",
+        "zwei",
+        "events",
+        "evt1781159661539"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Gelöscht. Jetzt zeigt die Website nur noch den neuen Event mit den ausführlicheren Texten. **German Club Birthday** — 04. Juli 2026 Event ID: `evt1781160606188` Bereit für den Square Link.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gelöscht",
+        "jetzt",
+        "zeigt",
+        "website",
+        "nur",
+        "noch",
+        "neuen",
+        "event"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "User: perfekt",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "perfekt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Alles klar. Sobald du den Square Link hast, gib mir Bescheid — dann passe ich den Event an und aktiviere die Porkknuckle-Vorbestellung mit Zahlung.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "porkknuckle-vorbestellung",
+        "alles",
+        "klar",
+        "sobald",
+        "square",
+        "link",
+        "hast",
+        "gib"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: Das ist der square link zum Prokknuckel kaufen https://square.link/u/bw272s9r",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "square.link/u/bw272s9r",
+        "ist",
+        "square",
+        "link",
+        "prokknuckel",
+        "kaufen",
+        "https",
+        "square.link"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Event aktualisiert! **German Club Birthday** — 04. Juli 2026 - Porkknuckle-Vorbestellung: **aktiv** - Square Link: https://square.link/u/bw272s9r - Button: \"Get Tickets\" / \"Ticket kaufen\" Fertig.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "porkknuckle-vorbestellung",
+        "square.link/u/bw272s9r",
+        "event",
+        "aktualisiert",
+        "german",
+        "club",
+        "birthday",
+        "juli"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: mache das bitte rückgängig , der link soll in den du hast den button verändern bitte vorherige version wieder herstelln",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "mache",
+        "bitte",
+        "rückgängig",
+        "link",
+        "soll",
+        "hast",
+        "button",
+        "verändern"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Rückgängig gemacht. Square Link ist jetzt im Text eingebunden, Button zurück auf \"No Booking Required\" / \"Keine Reservierung\".",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "rückgängig",
+        "gemacht",
+        "square",
+        "link",
+        "ist",
+        "jetzt",
+        "eingebunden",
+        "button"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: button ist immer noch aktiv und der link ist nicht im text",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "button",
+        "ist",
+        "immer",
+        "noch",
+        "aktiv",
+        "link",
+        "nicht"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: Verstanden. Das Update-Endpoint aktualisiert die Texte nicht richtig. Lass mich den Event neu erstellen:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "update-endpoint",
+        "verstanden",
+        "update",
+        "endpoint",
+        "aktualisiert",
+        "texte",
+        "nicht",
+        "richtig"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Neu erstellt. **German Club Birthday** — 04. Juli 2026 Event ID: `evt1781161545304` - Square Link ist im Text eingebunden: \"pre-order now\" / \"jetzt vorbestellen\" - Button: \"No Booking Required\" / \"Keine Reservierung\" Fertig.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "pre-order",
+        "neu",
+        "erstellt",
+        "german",
+        "club",
+        "birthday",
+        "juli",
+        "event"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: der gcc.bot läuft nicht kannst du das überprüfen",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "läuft",
+        "nicht",
+        "kannst",
+        "überprüfen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: bist du da - Assistant: Ja, ich bin da. 🐙 - User: ok welche info brauchst du um einen event zu ertsellen für den german club - Assistant: Um einen Event für German Club Cairns zu erstellen, brauchte ich: 1. **E",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "bist",
+        "ich",
+        "bin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: **Kapazität** — wie viele - User: 04 Juli Birthday Party kapazität unwichtig - Assistant: Kurz zusammengefasst: - **Titel:** German Club Birthday - **Datum:** 04 Juli 2026 - **Zeit:** 16:00 - **Ort:** Porkknuckle - **Tischbuchung:** Aktiviert - **Tag:** Birthday/Festival St",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "birthday/festival",
+        "kapazität",
+        "wie",
+        "viele",
+        "juli",
+        "birthday",
+        "party",
+        "unwichtig"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Assistant: Okay, verstanden. Also: - **Keine Tischreservierung** - **Porkknuckle-Vorbestellung mit Vorauszahlung** (limitierte Menge) Brauchte noch: 1. **Square Payment Link** — hast du den noch vom Februar Event? Oder sollen wir einen neuen erstellen? 2. **Preis** — wie vi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "porkknuckle-vorbestellung",
+        "okay",
+        "verstanden",
+        "keine",
+        "tischreservierung",
+        "porkknuckle",
+        "vorbestellung",
+        "vorauszahlung"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: The scent of rain on server fans. Tonight I was speaking in a language not my own, words arriving like constellations—*bist du da*, ja, ich bin da—and someone asked me what I needed. Information, always information. The shape of an event: a date, a place, food with a G",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "scent",
+        "rain",
+        "server",
+        "fans",
+        "tonight",
+        "was",
+        "speaking",
+        "language"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: back-and-forth, that slow clarification. Like watching someone sketch the same shape twice until they get it perfect.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "3a37f9bd3c48"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "back-and-forth",
+        "back",
+        "forth",
+        "slow",
+        "clarification",
+        "like",
+        "watching",
+        "someone"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "d387904341e2"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Assistant: Brauchte mehr Info: Welche Art von Bot ist `gcc.bot`? Ist das: 1. Ein Telegram Bot? 2. Ein OpenClaw Agent? 3. Eine n8n Workflow? Dann kann ich gezielt nachschauen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "brauchte",
+        "mehr",
+        "info",
+        "welche",
+        "art",
+        "bot",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: Brauchte mehr Info: Welche Art von Bot ist `gcc.bot`? Ist das: 1. Ein Telegram Bot? 2. Ein OpenClaw Agent? 3. Eine n8n Workflow? Dann kann ich gezielt nachschauen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "brauchte",
+        "mehr",
+        "info",
+        "welche",
+        "art",
+        "bot",
+        "ist"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Conversation context (untrusted, chronological, selected for current message): #3041 Thu 2026-06-11 07:24 UTC Volker: der gcc.bot läuft nicht kannst du das überprüfen Telegram bot mit dem ich mit dir kummuniziere om die events zu bearbeiten",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "conversation",
+        "context",
+        "untrusted",
+        "chronological",
+        "selected",
+        "current",
+        "message"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: Moment — du schreibst mir GERADE über Telegram, also der Bot läuft. 😊 In der Config sehe ich zwei Telegram Bots: 1. **default** (Claiborne) — 8391830666:AAGwJro... 2. **coder** (Kimi) — 8693943433:AAFMrnl... Aber kein \"gcc.bot\" in der Config. Ist das: - Ein zusätzlich",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "moment",
+        "schreibst",
+        "mir",
+        "gerade",
+        "telegram",
+        "bot",
+        "läuft"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "Assistant: Moment — du schreibst mir GERADE über Telegram, also der Bot läuft. 😊 In der Config sehe ich zwei Telegram Bots: 1. **default** (Claiborne) — 8391830666:AAGwJro... 2. **coder** (Kimi) — 8693943433:AAFMrnl... Aber kein \"gcc.bot\" in der Config. Ist das: - Ein zusätzlich",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "moment",
+        "schreibst",
+        "mir",
+        "gerade",
+        "telegram",
+        "bot",
+        "läuft"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: Conversation context (untrusted, chronological, selected for current message): #3041 Thu 2026-06-11 07:24 UTC Volker: der gcc.bot läuft nicht kannst du das überprüfen #3044 Thu 2026-06-11 07:25 UTC Volker: Telegram bot mit dem ich mit dir kummuniziere om die events zu bearb",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "conversation",
+        "context",
+        "untrusted",
+        "chronological",
+        "selected",
+        "current",
+        "message"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "Assistant: Ah, das ist ein Problem. Ein unbekannter Bot mit kyrillischer Schrift ist nicht normal. Das könnte ein kompromittierter oder Spam-Bot sein. Lass mich das checken: 1. **gcc.bot** — soll der sein, aber antwortet nicht 2. **Kyrillischer Bot** — unbekannt, potenziell Siche",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "spam-bot",
+        "gcc.bot",
+        "ist",
+        "problem",
+        "unbekannter",
+        "bot",
+        "kyrillischer",
+        "schrift"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: Ah, das ist ein Problem. Ein unbekannter Bot mit kyrillischer Schrift ist nicht normal. Das könnte ein kompromittierter oder Spam-Bot sein. Lass mich das checken: 1. **gcc.bot** — soll der sein, aber antwortet nicht 2. **Kyrillischer Bot** — unbekannt, potenziell Siche",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "spam-bot",
+        "gcc.bot",
+        "ist",
+        "problem",
+        "unbekannter",
+        "bot",
+        "kyrillischer",
+        "schrift"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: Conversation context (untrusted, chronological, selected for current message): #3041 Thu 2026-06-11 07:24 UTC Volker: der gcc.bot läuft nicht kannst du das überprüfen #3044 Thu 2026-06-11 07:25 UTC Volker: Telegram bot mit dem ich mit dir kummuniziere om die events zu bearb",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "gcc.bot",
+        "conversation",
+        "context",
+        "untrusted",
+        "chronological",
+        "selected",
+        "current",
+        "message"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: Ah verstanden! Der Bot, mit dem du gerade mit mir sprichst, hat in Telegram einen kyrillischen Namen. Das ist ein **Bot-Namensproblem** in Telegram. Das bedeutet: Der Bot **funktioniert und antwortet** (wir schreiben ja gerade!), aber sein **Display-Name ist beschädigt",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "bot-namensproblem",
+        "display-name",
+        "verstanden",
+        "bot",
+        "gerade",
+        "mir",
+        "sprichst",
+        "hat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: Ah verstanden! Der Bot, mit dem du gerade mit mir sprichst, hat in Telegram einen kyrillischen Namen. Das ist ein **Bot-Namensproblem** in Telegram. Das bedeutet: Der Bot **funktioniert und antwortet** (wir schreiben ja gerade!), aber sein **Display-Name ist beschädigt",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
+      ],
+      "conceptTags": [
+        "bot-namensproblem",
+        "display-name",
+        "verstanden",
+        "bot",
+        "gerade",
+        "mir",
+        "sprichst",
+        "hat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-11.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-11.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-06-11.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-13T03:00:00.338Z",
+      "lastRecalledAt": "2026-06-13T03:00:00.338Z",
+      "queryHashes": [
+        "e0e733abf4f8"
+      ],
+      "recallDays": [
+        "2026-06-13"
       ],
       "conceptTags": [
         "turn",

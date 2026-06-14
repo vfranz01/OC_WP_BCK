@@ -123,3 +123,8 @@ Skills laden: `read workspace/skills/<name>/SKILL.md`
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-01.md:1:1 -->
 - Improved WooCommerce API key rotation by adding a script to document the process and generate new keys. Modified TOOLS.md to include the script reference. [score=0.836 recalls=3 avg=0.658 source=memory/2026-06-01.md:1-1]
+
+## Promoted From Short-Term Memory (2026-06-12)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-27.md:1:16 -->
+- --- date: 2026-05-27 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] summary: Automated daily health check summary. --- ## Was heute passiert ist - Status checks performed. ## Actions Taken - Checked system health. ## Notes - System status logged. [score=0.889 recalls=4 avg=0.542 source=memory/2026-05-27.md:1-16]
