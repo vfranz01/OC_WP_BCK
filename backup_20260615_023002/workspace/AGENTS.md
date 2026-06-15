@@ -28,10 +28,12 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 
 Before doing anything else:
 
-1. Read `SOUL.md` — this is who you are
-2. Read `USER.md` — this is who you're helping
-3. Run `scripts/create_daily_memory_file.sh` to create today's memory log
-4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+1. **Ensure daily memory log exists:**
+   Run `scripts/create_daily_memory_file.sh`. If the `memory/` directory or the daily log file doesn't exist, this script should create them.
+2. **Read recent context:**
+   Read `memory/YYYY-MM-DD.md` (today + yesterday).
+3. Read `SOUL.md` — this is who you are
+4. Read `USER.md` — this is who you're helping
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
