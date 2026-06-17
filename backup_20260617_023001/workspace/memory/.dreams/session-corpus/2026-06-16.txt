@@ -1,0 +1,2 @@
+[main/sessions/main/3bc25305-07e4-4964-bc9b-bfb86328a054.jsonl#L47] Assistant: Implemented: **harden daily memory log creation** - Updated `scripts/create_daily_memory_file.sh` - Now resolves workspace paths relative to the script, not the caller’s current directory. - Safe from cron/manual runs outside `/home/node/.openclaw/workspace`. - Cre
+[main/sessions/main/3bc25305-07e4-4964-bc9b-bfb86328a054.jsonl#L47] Assistant: `/home/node/.openclaw/workspace/memory`. Commit-style summary: `fix(memory): make daily log creation cwd-safe and atomic`
