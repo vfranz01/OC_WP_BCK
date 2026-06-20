@@ -1,0 +1,1 @@
+[main/sessions/main/a6f9d852-c109-49ca-9dce-544040c78095.jsonl#L56] Assistant: fix(scripts): repair T-ShirtBull workflow script and remove misleading publish claims - Fixed `scripts/create_tshirtbull_blog_post.sh` shell syntax (`eseac` → valid `esac` via rewrite). - Added safer workspace/memory path handling and ensured the daily memory file 
