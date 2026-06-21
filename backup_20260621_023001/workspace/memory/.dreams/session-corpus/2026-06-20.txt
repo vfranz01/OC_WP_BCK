@@ -1,0 +1,1 @@
+[main/sessions/main/01be2365-7077-4114-909c-4829b64a53f3.jsonl#L34] Assistant: commit: keep MEMORY.md curated under target - Added `scripts/compact-memory-promotions.sh` - Archived raw `## Promoted From Short-Term Memory` blocks from `MEMORY.md` into `memory/promoted-memory-archive.md` - Created safety backup: `MEMORY.pre-compact.202606200001
