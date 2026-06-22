@@ -1,0 +1,2 @@
+[main/sessions/main/0857880e-4f4d-484e-ad65-e6474333159b.jsonl#L34] Assistant: feat(daily-status): make health summaries failure-aware - Updated `scripts/daily-status-summary.sh` - Captures `health-quick-check.sh` exit status instead of discarding it. - Saves latest full quick-check output to `memory/.last-health-quick-check.log`. - Logs inci
+[main/sessions/main/0857880e-4f4d-484e-ad65-e6474333159b.jsonl#L34] Assistant: warnings appear.
