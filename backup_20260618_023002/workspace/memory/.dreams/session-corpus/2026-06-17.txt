@@ -1,1 +1,0 @@
-[main/sessions/main/ab96fcdf-52dd-44b9-b468-9fdab3533b9b.jsonl#L54] Assistant: Implemented: **harden memory frontmatter repair + clear validator backlog** - Repaired 8 legacy memory files missing YAML frontmatter: - 7 dated files via existing fixer - `memory/daily_self_improvement.md` via new undated-file fallback - Improved `scripts/fix-memo
