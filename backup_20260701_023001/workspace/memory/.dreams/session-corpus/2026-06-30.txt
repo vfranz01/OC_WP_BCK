@@ -1,1 +1,0 @@
-[main/sessions/main/bdbb9a22-a839-4082-b922-54088cc350a1.jsonl#L8] Assistant: feat: Orchestrate and log daily heartbeat flow Created `scripts/run_daily_heartbeat.sh` to automate and centralize the execution and logging of the daily heartbeat checks as described in AGENTS.md. This script now calls `health-quick-check.sh` and `daily-status-summ
