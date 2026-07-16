@@ -99,45 +99,6 @@ Skills laden: `read workspace/skills/<name>/SKILL.md`
 ## Archived Auto-Promotions
 Raw auto-promoted short-term memory blocks were archived to `memory/promoted-memory-archive.md` so MEMORY.md stays curated and under the 5000-character target. Restore only distilled learnings here.
 
-## Promoted From Short-Term Memory (2026-06-20)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-16.md:2:5 -->
-- date: 2026-06-16 title: Daily Log tags: [daily] projects: [] [score=0.851 recalls=0 avg=0.620 source=memory/2026-06-16.md:2-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-16.md:6:6 -->
-- summary: Daily activity log [score=0.831 recalls=0 avg=0.620 source=memory/2026-06-16.md:6-6]
-
-## Promoted From Short-Term Memory (2026-06-21)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-17.md:2:5 -->
-- date: 2026-06-17 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.861 recalls=0 avg=0.620 source=memory/2026-06-17.md:2-5]
-
-## Promoted From Short-Term Memory (2026-06-22)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-17.md:6:6 -->
-- summary: Automated daily health check summary. [score=0.868 recalls=0 avg=0.620 source=memory/2026-06-17.md:6-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-18.md:2:5 -->
-- date: 2026-06-18 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.861 recalls=0 avg=0.620 source=memory/2026-06-18.md:2-5]
-
-## Promoted From Short-Term Memory (2026-06-25)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-19.md:2:5 -->
-- date: 2026-06-19 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.908 recalls=0 avg=0.620 source=memory/2026-06-19.md:2-5]
-
-## Promoted From Short-Term Memory (2026-06-26)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-20.md:2:5 -->
-- date: 2026-06-20 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.908 recalls=0 avg=0.620 source=memory/2026-06-20.md:2-5]
-
-## Promoted From Short-Term Memory (2026-06-27)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-21.md:2:5 -->
-- date: 2026-06-21 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.908 recalls=0 avg=0.620 source=memory/2026-06-21.md:2-5]
-
-## Promoted From Short-Term Memory (2026-06-28)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-21.md:25:25 -->
-- No new blog post published today. [score=0.914 recalls=0 avg=0.620 source=memory/2026-06-21.md:25-25]
-
 ## Promoted From Short-Term Memory (2026-06-29)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:2:5 -->
@@ -158,3 +119,41 @@ Raw auto-promoted short-term memory blocks were archived to `memory/promoted-mem
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:6:6 -->
 - summary: Automated daily health check summary. [score=0.888 recalls=0 avg=0.620 source=memory/2026-06-29.md:6-6]
+
+## Promoted From Short-Term Memory (2026-07-08)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:22:24 -->
+- Status Check — 00:00 UTC: **[00:00 UTC]** ⚠️ OpenClaw Gateway status unclear; **[00:00 UTC]** ✅ Last Snapshot: Snapshot completed on: 2026-06-29 00:00 UTC; **[00:00 UTC]** System degraded at 2026-06-29 00:00 UTC — review /home/node/.openclaw/workspace/memory/.last-health-quick-check.log and /home/node/.openclaw/workspace/memory/backup_incidents.log [score=0.986 recalls=0 avg=0.620 source=memory/2026-06-29.md:22-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:10:10 -->
+- Was heute passiert ist: Status checks performed. [score=0.963 recalls=0 avg=0.620 source=memory/2026-06-29.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:18:21 -->
+- Status Check — 00:00 UTC: **[00:00 UTC]** ⚠️ Quick health check found issues (exit 1); details saved to /home/node/.openclaw/workspace/memory/.last-health-quick-check.log; **[00:00 UTC]** ✅ Backup valid; **[00:00 UTC]** ⚠️ curl allowedDomains may be missing — WARNING: curl allowedDomains is missing. Please check /opt/openclaw-snapshots/v2026.3.28/NOTES.md for the fix.; **[00:00 UTC]** ✅ All critical files present [score=0.963 recalls=0 avg=0.620 source=memory/2026-06-29.md:18-21]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:13:13 -->
+- Actions Taken: Checked system health. [score=0.892 recalls=0 avg=0.620 source=memory/2026-06-29.md:13-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:16:16 -->
+- Notes: System status logged. [score=0.872 recalls=0 avg=0.620 source=memory/2026-06-29.md:16-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:10:10 -->
+- Was heute passiert ist: Status checks performed. [score=0.854 recalls=0 avg=0.620 source=memory/2026-06-22.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:13:13 -->
+- Actions Taken: Checked system health. [score=0.834 recalls=0 avg=0.620 source=memory/2026-06-22.md:13-13]
+
+## Promoted From Short-Term Memory (2026-07-09)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:16:16 -->
+- Notes: System status logged. [score=0.808 recalls=0 avg=0.620 source=memory/2026-06-22.md:16-16]
+
+## Promoted From Short-Term Memory (2026-07-13)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:13:16 -->
+- Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:13-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:3:5 -->
+- Session: 2026-07-09 14:24:34 UTC: **Session Key**: agent:main:main; **Session ID**: 6f39281a-c3d2-4bd0-868a-bc021b8d5563; **Source**: webchat [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:3-5]
+
+## Promoted From Short-Term Memory (2026-07-14)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:17:20 -->
+- Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:17-20]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:21:23 -->
+- Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:21-23]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:9:12 -->
+- Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:9-12]
