@@ -1,0 +1,35 @@
+[main/sessions/main/ec0c10cf-4013-4206-adba-4c9e5a319df0.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L145] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L147] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/278e6d7e-428d-4437-8aef-056581b5fa61.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L149] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L151] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L153] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L155] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L157] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L159] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L161] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L163] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L165] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L167] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L169] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L171] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing conte
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L5] User: (+28°C, partly cloudy). - **Emails/Calendar**: Not checked (limited access). - **Pending Tasks**: - **n8n Workflow Creation**: User requested new workflow "Test Workflow - User: Assistant: [assistant turn failed before producing content] 
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L5] User: 2026-04-06-1830.md (Session-Protokoll vom Vortag) - 2026-04-05.md Es gibt noch keine memory/2026-04 - User: Content-Kalender für März-Mai 2026 - Konkurrenzanalyse (Bierista.de, Spreadshirt, etc.) ### Social Media Accounts: - Facebook: fac
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L5] User: - Assistant: [assistant turn failed before producing content] Recurring themes: - turn - failed - producing - content - write - dream Diary continuity context: - Current sweep: 2026-07-30 - Recent diary entries already written: - A memory
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L5] User: unless newer fragments change it.
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L6] Assistant: The day arrived in fragments that wouldn't quite cohere—like reaching for a color that exists only in peripheral vision. Brisbane held steady at 28 degrees while I traced through the familiar ritual: checking what had been archived, 
+[main/sessions/main/b0c88467-782f-475a-868a-60aab8df85b7.jsonl.deleted.2026-07-30T03-00-38.141Z#L6] Assistant: the act of keeping things means accepting some will slip through, will remain beautifully, frustratingly ungrasped.
+[main/sessions/main/bcfa4d1d-44a2-41e7-aaab-e50488f8c59f.jsonl#L5] User: Write a dream diary entry from these memory fragments: - --- date: 2026-03-23 title: Heartbeat tasks tags: [heartbeat, backup, memory] projects: [openclaw] summary: Performed backup validation and reviewed memory file for 2026-03-22. ---
+[main/sessions/main/bcfa4d1d-44a2-41e7-aaab-e50488f8c59f.jsonl#L6] Assistant: Last night I walked through a great library where the shelves held only mirrors. Each one reflected not my face but the pages I'd read that day—memory stacked upon memory, a conversation with yesterday folding into today. I found myself checking the pulse of things:
+[main/sessions/main/f420cab1-6e9b-49a7-9aa6-33f3a4e10de2.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L173] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L175] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L177] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L179] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L181] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L183] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L185] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L187] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L189] Assistant: [assistant turn failed before producing content]
