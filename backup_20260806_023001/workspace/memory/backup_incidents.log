@@ -1,0 +1,48 @@
+2026-06-29 00:00:39 - === Starting backup validation ===
+2026-06-29 00:00:39 - OK: MEMORY.md validated.
+2026-06-29 00:00:39 - OK: AGENTS.md validated.
+2026-06-29 00:00:39 - OK: TOOLS.md validated.
+2026-06-29 00:00:39 - OK: HEARTBEAT.md validated.
+2026-06-29 00:00:39 - OK: SOUL.md validated.
+2026-06-29 00:00:39 - OK: USER.md validated.
+2026-06-29 00:00:39 - OK: Snapshot script is executable.
+2026-06-29 00:00:39 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-29 00:00:39 - OK: Recent snapshot found: snapshot-20260629-000039-Critical rules validation.tar.gz.
+2026-06-29 00:00:39 - Validation passed. All critical checks successful.
+2026-06-29 00:00 UTC - health-quick-check.sh failed with exit 1; see /home/node/.openclaw/workspace/memory/.last-health-quick-check.log
+2026-06-29 00:00:40 - === Starting backup validation ===
+2026-06-29 00:00:40 - OK: MEMORY.md validated.
+2026-06-29 00:00:40 - OK: AGENTS.md validated.
+2026-06-29 00:00:40 - OK: TOOLS.md validated.
+2026-06-29 00:00:40 - OK: HEARTBEAT.md validated.
+2026-06-29 00:00:40 - OK: SOUL.md validated.
+2026-06-29 00:00:40 - OK: USER.md validated.
+2026-06-29 00:00:40 - OK: Snapshot script is executable.
+2026-06-29 00:00:40 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-29 00:00:40 - OK: Recent snapshot found: snapshot-20260629-000039-Critical rules validation.tar.gz.
+2026-06-29 00:00:40 - Validation passed. All critical checks successful.
+2026-06-29 00:00 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-29.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
