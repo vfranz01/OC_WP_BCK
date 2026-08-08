@@ -99,44 +99,6 @@ Skills laden: `read workspace/skills/<name>/SKILL.md`
 ## Archived Auto-Promotions
 Raw auto-promoted short-term memory blocks were archived to `memory/promoted-memory-archive.md` so MEMORY.md stays curated and under the 5000-character target. Restore only distilled learnings here.
 
-## Promoted From Short-Term Memory (2026-06-29)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:2:5 -->
-- date: 2026-06-22 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.926 recalls=0 avg=0.620 source=memory/2026-06-22.md:2-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:6:6 -->
-- summary: Automated daily health check summary. [score=0.906 recalls=0 avg=0.620 source=memory/2026-06-22.md:6-6]
-
-## Promoted From Short-Term Memory (2026-07-04)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:2:5 -->
-- date: 2026-06-29 title: Daily Status Summary tags: [heartbeat, status, automation] projects: [infrastructure] [score=0.888 recalls=0 avg=0.620 source=memory/2026-06-29.md:2-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:25:26 -->
-- File "/home/node/.openclaw/workspace/scripts/check_blog_posts.py", line 19 TODAY=$(date +%Y-%m-%d) [score=0.888 recalls=0 avg=0.620 source=memory/2026-06-29.md:25-26]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:28:28 -->
-- SyntaxError: invalid syntax [score=0.888 recalls=0 avg=0.620 source=memory/2026-06-29.md:28-28]
-
-## Promoted From Short-Term Memory (2026-07-05)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:6:6 -->
-- summary: Automated daily health check summary. [score=0.888 recalls=0 avg=0.620 source=memory/2026-06-29.md:6-6]
-
-## Promoted From Short-Term Memory (2026-07-08)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:22:24 -->
-- Status Check — 00:00 UTC: **[00:00 UTC]** ⚠️ OpenClaw Gateway status unclear; **[00:00 UTC]** ✅ Last Snapshot: Snapshot completed on: 2026-06-29 00:00 UTC; **[00:00 UTC]** System degraded at 2026-06-29 00:00 UTC — review /home/node/.openclaw/workspace/memory/.last-health-quick-check.log and /home/node/.openclaw/workspace/memory/backup_incidents.log [score=0.986 recalls=0 avg=0.620 source=memory/2026-06-29.md:22-24]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:10:10 -->
-- Was heute passiert ist: Status checks performed. [score=0.963 recalls=0 avg=0.620 source=memory/2026-06-29.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:18:21 -->
-- Status Check — 00:00 UTC: **[00:00 UTC]** ⚠️ Quick health check found issues (exit 1); details saved to /home/node/.openclaw/workspace/memory/.last-health-quick-check.log; **[00:00 UTC]** ✅ Backup valid; **[00:00 UTC]** ⚠️ curl allowedDomains may be missing — WARNING: curl allowedDomains is missing. Please check /opt/openclaw-snapshots/v2026.3.28/NOTES.md for the fix.; **[00:00 UTC]** ✅ All critical files present [score=0.963 recalls=0 avg=0.620 source=memory/2026-06-29.md:18-21]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:13:13 -->
-- Actions Taken: Checked system health. [score=0.892 recalls=0 avg=0.620 source=memory/2026-06-29.md:13-13]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-29.md:16:16 -->
-- Notes: System status logged. [score=0.872 recalls=0 avg=0.620 source=memory/2026-06-29.md:16-16]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:10:10 -->
-- Was heute passiert ist: Status checks performed. [score=0.854 recalls=0 avg=0.620 source=memory/2026-06-22.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:13:13 -->
-- Actions Taken: Checked system health. [score=0.834 recalls=0 avg=0.620 source=memory/2026-06-22.md:13-13]
-
 ## Promoted From Short-Term Memory (2026-07-09)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-22.md:16:16 -->
@@ -157,3 +119,18 @@ Raw auto-promoted short-term memory blocks were archived to `memory/promoted-mem
 - Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:21-23]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-09-1424.md:9:12 -->
 - Conversation Summary: user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] user: [OpenClaw heartbeat poll] assistant: [assistant turn failed before producing content] [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-09-1424.md:9-12]
+
+## Promoted From Short-Term Memory (2026-08-04)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-03-18.md:1:65 -->
+- --- date: 2026-03-18 title: # 2026-03-18 — Log tags: [heartbeat, backup] projects: [openclaw, tshirtbull] summary: # 2026-03-18 — Log --- # 2026-03-18 — Log ## 🛍️ Shopify Performance Optimization (t-shirtbull.de) ### Apps entfernt: - ❌ WhatsApp Button (EazeApps) - ❌ GetSiteControl Countdown Timer - ❌ Hextom Ultimate Sales Boost ### Apps behalten: - ✅ Stock Pulse (Liefertage) - ✅ EasySlider (Produkt-Darstellung) - ✅ Judge.me (Bewertungen) - ✅ Klaviyo (Email Marketing) ### Ergebnis: - HTML: 307 KB → 296 KB (-11 KB, -3.6%) - Ladezeit: 1.14s → 1.09s - TTFB: 41ms → 34ms (-17%) - jQuery entfernt (kam von Hextom) --- ## 🤖 Telegram Bots... [score=0.829 recalls=4 avg=0.670 source=memory/2026-03-18.md:1-65]
+
+## Promoted From Short-Term Memory (2026-08-05)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-22-tshirtbull-Montag.md:1:39 -->
+- --- date: 2026-06-22 title: T-ShirtBull Monday Blog Post Published tags: [tshirtbull, shopify, blog, seo] projects: [T-ShirtBull] summary: Published Monday Product Showcase post for T-ShirtBull using Zum Wohl Bier T-Shirt. --- ## Was heute passiert ist - Montag-Post für T-ShirtBull Blog `news` veröffentlicht. - Thema: Produkt Showcase nach Sektion 6. - Produktrotation beachtet: letzter Freitag war Bierhorn Bier T-Shirt; gewählt wurde heute Zum Wohl Bier T-Shirt. - Produktverfügbarkeit geprüft über öffentliche Shopify Product JSON (`/products/zum-wohl-standard-shirt.js`): `available: true`.... [score=0.801 recalls=4 avg=0.577 source=memory/2026-06-22-tshirtbull-Montag.md:1-39]
+
+## Promoted From Short-Term Memory (2026-08-06)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-03-23.md:1:7 -->
+- --- date: 2026-03-23 title: Heartbeat tasks tags: [heartbeat, backup, memory] projects: [openclaw] summary: Performed backup validation and reviewed memory file for 2026-03-22. --- [score=0.814 recalls=3 avg=0.587 source=memory/2026-03-23.md:1-7]
