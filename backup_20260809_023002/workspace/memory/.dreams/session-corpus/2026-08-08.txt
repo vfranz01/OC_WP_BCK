@@ -1,0 +1,3 @@
+[main/sessions/main/11cde264-16cf-41dc-a2d7-f298230a3a71.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L577] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L579] Assistant: [assistant turn failed before producing content]
