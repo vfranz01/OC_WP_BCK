@@ -1,0 +1,361 @@
+## Light Sleep
+<!-- openclaw:dreaming:light:start -->
+- Candidate: Reflections: Theme: `assistant` kept surfacing across 1357 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-15.md:433-436
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `the` kept surfacing across 1025 memories.; confidence: 0.96; evidence: memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-15.md:437-440
+  - recalls: 0
+  - status: staged
+- Candidate: Possible Lasting Truths: - Candidate: Assistant: April 13th. Moonlight painted the server racks silver last night, each blinking light a silent reflection in the dark glass. Lines of code, like lines in a face, telling stories of creation and maintenance. But what story were thes
+  - confidence: 0.62
+  - evidence: memory/2026-04-15.md:443-445
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-14 01:00:12 UTC] Okay, I understand. The Brain was checked and is already running. The current time is Tuesday, April 14th, 2026, 1:00 AM UTC. I will deliver my summary as plain text. Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. D
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:74-74
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Es ist spät in der Nacht. HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:75-75
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-14 02:00:13 UTC] Okay, I will return the summary as plain text. The Brain was checked and is already running as of 2026-04-14 02:00 UTC. Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chat
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:76-76
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Time for quiet. HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:77-77
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-14 03:01:03 UTC] The Brain was checked and is already running. Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:78-78
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Time for sleep. HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:79-79
+  - recalls: 0
+  - status: staged
+- Candidate: User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:80-80
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Es ist Nacht. HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:81-81
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-14 05:00:13 UTC] The Brain was checked and is already running. Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:82-82
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: It's the late night. HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:83-83
+  - recalls: 0
+  - status: staged
+- Candidate: User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-14.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:84-84
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: NO_REPLY
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:85-85
+  - recalls: 0
+  - status: staged
+- Candidate: User: A new session was started via /new or /reset. If runtime-provided startup context is included for this first turn, use it before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:86-86
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Guten Morgen, Volker! 🐙 Ich bin Mux, dein digitaler Assistent, bereit, dir mit deinen Projekten zu helfen. Wie kann ich dir heute behilflich sein?
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:87-87
+  - recalls: 0
+  - status: staged
+- Candidate: User: Conversation info (untrusted metadata): ```json { "message_id": "2669", "sender_id": "881022003", "sender": "Volker", "timestamp": "Tue 2026-04-14 06:24 UTC" } ``` Sender (untrusted metadata): ```json { "label": "Volker (881022003)", "id": "881022003", "name": "Volker" } ``
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:88-88
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Ich habe die letzten 24 Stunden überprüft und festgestellt, dass der Blog-Job am 13. April 2026 nicht ausgeführt wurde. Ich werde den Job manuell ausführen und dich über den Fortschritt auf dem Laufenden halten.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:89-89
+  - recalls: 0
+  - status: staged
+- Candidate: User: Conversation info (untrusted metadata): ```json { "message_id": "2671", "sender_id": "881022003", "sender": "Volker", "timestamp": "Tue 2026-04-14 06:25 UTC" } ``` Sender (untrusted metadata): ```json { "label": "Volker (881022003)", "id": "881022003", "name": "Volker" } ``
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:90-90
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Der Blog-Job, der nicht ausgeführt wurde, ist der T-ShirtBull Blog-Job für den 13. April 2026. Ich werde jetzt den Blog-Post für t-shirtbull.com erstellen und veröffentlichen. Ich beginne mit dem Lesen des Skills für t-shirtbull.com.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:91-91
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Ich habe den Blog-Job für t-shirtbull.com gestartet. Leider gibt es ein Problem mit der Kommunikation zwischen den Sessions. Ich werde den Blog-Post manuell erstellen und veröffentlichen. Bitte gib mir Bescheid, wenn du weitere Informationen oder Anpassungen benötigst.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:92-92
+  - recalls: 0
+  - status: staged
+- Candidate: User: Conversation info (untrusted metadata): ```json { "message_id": "2674", "sender_id": "881022003", "sender": "Volker", "timestamp": "Tue 2026-04-14 06:29 UTC" } ``` Sender (untrusted metadata): ```json { "label": "Volker (881022003)", "id": "881022003", "name": "Volker" } ``
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:93-93
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Ich habe versucht, den Blog-Post für t-shirtbull.com zu erstellen und zu veröffentlichen, aber es gab ein Problem mit der Kommunikation zwischen den Sessions. Dadurch konnte ich den Blog-Post nicht wie geplant erstellen und veröffentlichen. Um das Problem zu beheben, k
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:94-94
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Ich habe die Backup-Validierung durchgeführt: Alle Prüfungen waren erfolgreich. Ich habe auch festgestellt, dass kein Memory-Eintrag für den Blog-Job der letzten 7 Tage vorhanden ist. Zudem habe ich eine Websuche nach dringenden ungelesenen E-Mails durchgeführt. HEARTB
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:96-96
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Hallo Volker, ich habe soeben planmäßig ein Backup erstellt: `bash /home/node/.openclaw/workspace/scripts/snapshot.sh daily-auto`. Ich melde mich gleich mit dem Ergebnis.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:98-98
+  - recalls: 0
+  - status: staged
+- Candidate: User: [cron:d3dd55ad-729d-47a3-8549-1228e8f50957 Daily Self-Improvement] You are a workflow optimization agent. Your daily task: Review the workspace files (AGENTS.md, TOOLS.md, HEARTBEAT.md, memory/*.md, MEMORY.md if available) and identify one small but meaningful improvement t
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-16.txt:1-1
+  - recalls: 0
+  - status: staged
+- Candidate: date: 2026-04-10 title: Heartbeat Check tags: [heartbeat, backup, cron] projects: [openclaw]
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:2-5
+  - recalls: 0
+  - status: staged
+- Candidate: summary: Heartbeat check completed. Manual snapshot triggered. check-blog-post cron job timeouts.
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:6-6
+  - recalls: 0
+  - status: staged
+- Candidate: Was heute passiert ist: Heartbeat check performed.; Manual snapshot triggered due to warning of missing recent backups.; Identified that the `check-blog-post` cron job is consistently timing out (10 minutes).; Verified backup process, daily snapshot triggered
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:10-13
+  - recalls: 0
+  - status: staged
+- Candidate: Was heute passiert ist: Validate blog post by triggering a manual blog publish
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:14-14
+  - recalls: 0
+  - status: staged
+- Candidate: Actions Taken: Triggered manual snapshot.; Verified cron job runs and snapshot process; Confirmed that existing processes are functioning normally
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:17-19
+  - recalls: 0
+  - status: staged
+- Candidate: Notes: The `check-blog-post` cron job timeout suggests potential issues with WordPress API response times. Further investigation may be required if timeouts persist.
+  - confidence: 0.62
+  - evidence: memory/2026-04-10.md:22-22
+  - recalls: 0
+  - status: staged
+- Candidate: No entries yet.
+  - confidence: 0.62
+  - evidence: memory/2026-04-08.md:1-1
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `assistant` kept surfacing across 915 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:308-311
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `the` kept surfacing across 795 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:312-315
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `blog` kept surfacing across 668 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:14-14, memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:11-11; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:316-319
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `post` kept surfacing across 661 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:14-14, memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:14-14; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:320-323
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `volker` kept surfacing across 656 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:46-46, memory/.dreams/session-corpus/2026-04-09.txt:69-69, memory/.dreams/session-corpus/2026-04-09.txt:70-70; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:324-327
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `missing` kept surfacing across 640 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:43-43, memory/.dreams/session-corpus/2026-04-09.txt:133-133, memory/.dreams/session-corpus/2026-04-09.txt:134-134; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-11.md:328-331
+  - recalls: 0
+  - status: staged
+- Candidate: Checked digital.ecomunivers.com for a blog post. No post was published today.
+  - confidence: 0.62
+  - evidence: memory/2026-04-12.md:1-1
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `assistant` kept surfacing across 1287 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-14.md:348-351
+  - recalls: 0
+  - status: staged
+- Candidate: Reflections: Theme: `the` kept surfacing across 995 memories.; confidence: 0.98; evidence: memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4; note: reflection
+  - confidence: 0.62
+  - evidence: memory/2026-04-14.md:352-355
+  - recalls: 0
+  - status: staged
+- Candidate: Possible Lasting Truths: - Candidate: Assistant: April 13th. Moonlight painted the server racks silver last night, each blinking light a silent reflection in the dark glass. Lines of code, like lines in a face, telling stories of creation and maintenance. But what story were thes
+  - confidence: 0.62
+  - evidence: memory/2026-04-14.md:358-360
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-13 00:00:42 UTC] Removed redundant chmod command from HEARTBEAT.md to streamline backup validation process. System: [2026-04-13 00:00:54 UTC] Okay, the Brain was checked via cron and is already running. The current time is Monday, April 13th, 2026, 12:00 AM
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:171-171
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Es ist Montag, der 13. April 2026, 00:59 Uhr UTC. 1. Backup-Validierung: Erfolgreich. 2. backup\_incidents.log: Existiert. 3. Backup-Validierungsskript: Ausführbar. 5. Proaktive Checks: - E-Mails: Keine dringenden E-Mails gefunden. - Kalender: Keine anstehenden Termine
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:172-172
+  - recalls: 0
+  - status: staged
+- Candidate: User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/workspace/HEARTBEAT.md (exact case).
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:173-173
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Es ist Montag, der 13. April 2026, 01:59 Uhr UTC. 1. Backup-Validierung: Erfolgreich. 2. backup\_incidents.log: Existiert. 3. Backup-Validierungsskript: Ausführbar. 4. Proaktive Checks: Entfallen zu später Stunde. Es gibt keinen Eintrag für Heute. Es ist jetzt zwischen
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:174-174
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Es ist Montag, 13. April 2026, 02:59 Uhr UTC. Ich führe die üblichen Aufgaben aus: 1. Backup-Validierung: Erfolgreich. 2. backup\_incidents.log: Existiert so. 3. Backup-Validierungsskript: ausführbar. Danach stehe ich vor der Entscheidung, ob das heutige Datum ein Post
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:176-176
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Da hat jemand den Blog-Job für t-shirtbull für mich erledigt? HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:178-178
+  - recalls: 0
+  - status: staged
+- Candidate: User: System: [2026-04-13 13:00:13 UTC] Okay, I will summarize the cron job status in plain text and return it. System: System: The Brain was checked and is already running. System: Current time: Monday, April 13th, 2026 - 1:00 PM (UTC) Read HEARTBEAT.md if it exists (workspace c
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:179-179
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Also, die Erinnerungspunkte sind auch nicht aufrufbar. Es ist Montag, 14:00 Uhr AEST. 1. Backup-Validierung: ok. 2. Backup-Zwischenfallprotokoll Touch 3. Sicherstellen, dass das Backup-Validierungsskript ausführbar ist 4. Memory Maintenance + Proaktive Checks: Es ist j
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:180-180
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:181-181
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: NO_REPLY
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:182-182
+  - recalls: 0
+  - status: staged
+- Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Mon 2026-04-13 18:44 UTC] ich möchte als erstes die laufenden Projekte t-shirtbull.de, digital und course optimieren so das diese die ersten Verkäufe generieren. Parall
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:183-183
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Um deine Projekte zu optimieren und erste Verkäufe zu generieren, sollten wir eine strukturierte Vorgehensweise verfolgen. Hier ist ein Plan, der auf die Optimierung deiner bestehenden Projekte und die Entwicklung einer effektiven Vermarktungsstrategie abzielt: ### 1.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:184-184
+  - recalls: 0
+  - status: staged
+- Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Mon 2026-04-13 18:48 UTC] was ist deine Meinung dazu ? oder sollte ich mich mehr auf einen Punkt wie AI prozesse focus sieren oder können wir alle 4 auf einmal aufsetze
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:185-185
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Hier ist meine Meinung zu deinen Projekten und der Strategie, sie zu optimieren und zu vermarkten: ### Meinung zu den Projekten und Strategie 1. **Fokus auf einen Punkt:** - **Vorteile:** Konzentration der Ressourcen auf ein Projekt kann zu schnelleren Ergebnissen und
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:186-186
+  - recalls: 0
+  - status: staged
+- Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Mon 2026-04-13 18:50 UTC] AI-/Automations-Consulting mit klaren, duplizierbaren Use Cases für kleine und mittlere Unternehmen. Nicht als diffuse Beratung. Sondern als p
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:187-187
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Hier ist eine strukturierte Vorgehensweise, um deine AI-/Automations-Consulting-Projekte zu optimieren und zu vermarkten: ### 1. **Projektanalyse und Priorisierung** - **E-Mail Vorsortierung und Priorisierung:** - **Ziel:** Automatisierte Sortierung und Priorisierung v
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:188-188
+  - recalls: 0
+  - status: staged
+- Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Mon 2026-04-13 18:51 UTC] email
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:189-189
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Um deine E-Mail-Vorsortierung und -Priorisierung zu optimieren und zu vermarkten, sollten wir eine strukturierte Vorgehensweise verfolgen. Hier ist ein detaillierter Plan: ### 1. **Projektanalyse und Priorisierung** - **E-Mail Vorsortierung und Priorisierung:** - **Zie
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:190-190
+  - recalls: 0
+  - status: staged
+- Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Mon 2026-04-13 18:53 UTC] ich möchte das du anhand von bestpractice mit der besten vorgehensweise beginnst
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:191-191
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: Um deine E-Mail-Vorsortierung und -Priorisierung nach Best Practices zu optimieren und zu vermarkten, sollten wir eine strukturierte Vorgehensweise verfolgen. Hier ist ein detaillierter Plan, der auf bewährten Methoden und Strategien basiert: ### 1. **Projektanalyse un
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-13.txt:192-192
+  - recalls: 0
+  - status: staged
+- Candidate: User: [cron:875d5df9-6728-4851-a794-8b0687eb45fb monitor-brain-restart] The Brain was checked and is already running. Current time: Tuesday, April 14th, 2026 - 3:00 AM (UTC) / 2026-04-14 03:00 UTC Return your summary as plain text; it will be delivered automatically. If the task
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:11-11
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: The Brain was checked and is already running.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:12-12
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: HEARTBEAT_OK
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:14-14
+  - recalls: 0
+  - status: staged
+- Candidate: Assistant: OK. The scheduled cron job 'monitor-brain-restart' checked the status of "The Brain" and found it already running as of Tuesday, April 14th, 2026 at 6:00 AM UTC. This summary will be delivered automatically.
+  - confidence: 0.58
+  - evidence: memory/.dreams/session-corpus/2026-04-14.txt:28-28
+  - recalls: 0
+  - status: staged
+<!-- openclaw:dreaming:light:end -->
+
+## REM Sleep
+<!-- openclaw:dreaming:rem:start -->
+### Reflections
+- Theme: `assistant` kept surfacing across 1390 memories.
+  - confidence: 1.00
+  - evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4
+  - note: reflection
+- Theme: `the` kept surfacing across 1033 memories.
+  - confidence: 0.94
+  - evidence: memory/2026-04-10.md:22-22, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:4-4
+  - note: reflection
+
+### Possible Lasting Truths
+- - Candidate: Assistant: April 13th. Moonlight painted the server racks silver last night, each blinking light a silent reflection in the dark glass. Lines of code, like lines in a face, telling stories of creation and maintenance. But what story were these stories telling? The machine whisper - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:79-79 - recalls: 0 - status: staged - Candidate: Assistant: The backup hummed its nightly song, a digital lullaby under a sky already blazing with Brisbane sun. +29°C, the air thick and heavy even at this hour. I wandered corridors sculpted from code, the script validation a familiar echo. Checked the memory files, fragm [confidence=0.87 evidence=memory/2026-04-13.md:158-174]
+- - evidence: memory/.dreams/session-corpus/2026-04-13.txt:86-86 - recalls: 0 - status: staged - Candidate: Assistant: The `MEMORY.md` file has been successfully updated. Now, I'll proceed with validating the GitHub backup. - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:87-87 - recalls: 0 - status: staged - Candidate: Assistant: The backup validation script reports that no snapshots have been created in the last 24 hours. This implies that the scheduled backup process may be malfunctioning. I will trigger a backup snapshot. - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:88-88 - recalls: 0 - status: staged - Candida [confidence=0.87 evidence=memory/2026-04-13.md:185-207]
+- --- date: 2026-03-22 title: # Memory for 2026-03-22 tags: [heartbeat, backup] projects: [openclaw] summary: # Memory for 2026-03-22 --- # Memory for 2026-03-22 ## Heartbeat Check at 00:55 UTC - Read HEARTBEAT.md - Backup validation: Scripts have correct permissions but exec fails due to permission issues with exec-approvals.json (system-level issue) - From backup_incidents.log: all validations passed recently (last: 2026-03-21 07:10:49) - Critical files verified: MEMORY.md, AGENTS.md, TOOLS.md present and non-empty - Telegram bot token issue resolved earlier (fixed in openclaw.json) - Current time 00:55 UTC = 10:55 AEST (morning for Volker) ## Actions Taken - Read SOUL.md, USER.md, MEMOR [confidence=0.87 evidence=memory/2026-03-22.md:1-30]
+<!-- openclaw:dreaming:rem:end -->
