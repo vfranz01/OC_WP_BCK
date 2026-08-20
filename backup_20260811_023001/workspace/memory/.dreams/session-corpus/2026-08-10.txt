@@ -1,4 +1,0 @@
-[main/sessions/main/2e1fb73a-79c4-415c-95f5-e3aa27d75bf4.jsonl#L44] Assistant: **Improve memory hygiene automation** - Weekly safety audit now auto-archives raw MEMORY.md promotion blocks. - Enforces the 5,000-byte curation target and flags manual distillation when needed. - Fixed permission checks to correctly detect group/other access. - Ar
-[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L670] Assistant: **Improve memory hygiene automation** - Weekly safety audit now auto-archives raw MEMORY.md promotion blocks. - Enforces the 5,000-byte curation target and flags manual distillation when needed. - Fixed permission checks to correctly detect group/other access. - A
-[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L672] Assistant: [assistant turn failed before producing content]
-[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L674] Assistant: [assistant turn failed before producing content]
