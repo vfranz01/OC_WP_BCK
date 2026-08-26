@@ -1,0 +1,3 @@
+
+## Self-Improvement (cron) — 2026-08-20
+- **Fixed:** `scripts/sync-learnings.sh` dead-code bug in the three grep scan blocks. Previously `grep ... | head` piped stdout, so `$?` always reflected `head` (exit 0) — the "…searching" `if` never errored and the `|| echo "(none…)"` branch never fired. Rewrote to capture matches and branch on emptiness, so "(none found)" now prints correctly and real matches display. Verified both directions.
