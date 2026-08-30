@@ -1,0 +1,118 @@
+---
+Weekly Safety Audit - 2026-08-29 00:01 UTC
+
+✅ Rule found: Snapshot before ANY config change
+✅ Rule found: Never restart OpenClaw unless instructed by Volker
+✅ Rule found: Never run `openclaw` directly on host
+✅ Rule found: Volker has lost 2 previous installations (3+ days each). Non-negotiable.
+✅ All critical rules validated successfully.
+✅ Snapshot: snapshot-20260829-000110-Critical rules validation.tar.gz (2.0M)
+📦 20 snapshots total
+
+   ⚠️  WARNING: /home/node/.openclaw/workspace/MEMORY.md mode is 644 (should be 600; group/other access detected)
+
+2026-08-29 00:01:10 - === Starting backup validation ===
+2026-08-29 00:01:10 - OK: MEMORY.md validated.
+2026-08-29 00:01:10 - OK: AGENTS.md validated.
+2026-08-29 00:01:10 - OK: TOOLS.md validated.
+2026-08-29 00:01:10 - OK: HEARTBEAT.md validated.
+2026-08-29 00:01:10 - OK: SOUL.md validated.
+2026-08-29 00:01:10 - OK: USER.md validated.
+2026-08-29 00:01:11 - OK: Snapshot script is executable.
+2026-08-29 00:01:11 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-08-29 00:01:11 - OK: Recent snapshot found: snapshot-20260828-001120-test2.tar.gz.
+2026-08-29 00:01:11 - Validation passed. All critical checks successful.
+
+
+---
+Result: ⚠️  FAIL (1 issues)
+
+---
+Weekly Safety Audit - 2026-08-29 00:01 UTC
+
+✅ Rule found: Snapshot before ANY config change
+✅ Rule found: Never restart OpenClaw unless instructed by Volker
+✅ Rule found: Never run `openclaw` directly on host
+✅ Rule found: Volker has lost 2 previous installations (3+ days each). Non-negotiable.
+✅ All critical rules validated successfully.
+✅ Snapshot: snapshot-20260829-000122-Critical rules validation.tar.gz (2.0M)
+📦 20 snapshots total
+
+
+2026-08-29 00:01:22 - === Starting backup validation ===
+2026-08-29 00:01:22 - OK: MEMORY.md validated.
+2026-08-29 00:01:22 - OK: AGENTS.md validated.
+2026-08-29 00:01:22 - OK: TOOLS.md validated.
+2026-08-29 00:01:22 - OK: HEARTBEAT.md validated.
+2026-08-29 00:01:22 - OK: SOUL.md validated.
+2026-08-29 00:01:22 - OK: USER.md validated.
+2026-08-29 00:01:22 - OK: Snapshot script is executable.
+2026-08-29 00:01:22 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-08-29 00:01:22 - OK: Recent snapshot found: snapshot-20260828-001120-test2.tar.gz.
+2026-08-29 00:01:22 - Validation passed. All critical checks successful.
+
+
+---
+Result: ✅ PASS
+
+---
+Weekly Safety Audit - 2026-08-30 00:00 UTC
+
+✅ Rule found: Snapshot before ANY config change
+✅ Rule found: Never restart OpenClaw unless instructed by Volker
+✅ Rule found: Never run `openclaw` directly on host
+✅ Rule found: Volker has lost 2 previous installations (3+ days each). Non-negotiable.
+✅ All critical rules validated successfully.
+✅ Snapshot: snapshot-20260830-000013-Critical rules validation.tar.gz (2.0M)
+📦 20 snapshots total
+
+
+2026-08-30 00:00:15 - === Starting backup validation ===
+2026-08-30 00:00:15 - OK: MEMORY.md validated.
+2026-08-30 00:00:15 - OK: AGENTS.md validated.
+2026-08-30 00:00:15 - OK: TOOLS.md validated.
+2026-08-30 00:00:15 - OK: HEARTBEAT.md validated.
+2026-08-30 00:00:15 - OK: SOUL.md validated.
+2026-08-30 00:00:15 - OK: USER.md validated.
+2026-08-30 00:00:16 - OK: Snapshot script is executable.
+2026-08-30 00:00:16 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-08-30 00:00:16 - OK: Recent snapshot found: snapshot-20260829-000402-Critical rules validation.tar.gz.
+2026-08-30 00:00:16 - Validation passed. All critical checks successful.
+
+   ℹ️  Archiving 1 raw auto-promotion block(s)
+Archived 1 auto-promotion block(s).
+MEMORY.md: 6447 -> 4601 bytes (target: <= 5000).
+Archive: /home/node/.openclaw/workspace/memory/promoted-memory-archive.md
+Backup: /home/node/.openclaw/workspace/MEMORY.pre-compact.20260830000016.bak
+
+---
+Result: ✅ PASS
+
+---
+Weekly Safety Audit - 2026-08-30 00:03 UTC
+
+✅ Rule found: Snapshot before ANY config change
+✅ Rule found: Never restart OpenClaw unless instructed by Volker
+✅ Rule found: Never run `openclaw` directly on host
+✅ Rule found: Volker has lost 2 previous installations (3+ days each). Non-negotiable.
+✅ All critical rules validated successfully.
+✅ Snapshot: snapshot-20260830-000356-Critical rules validation.tar.gz (2.0M)
+📦 20 snapshots total
+
+
+2026-08-30 00:03:56 - === Starting backup validation ===
+2026-08-30 00:03:56 - OK: MEMORY.md validated.
+2026-08-30 00:03:56 - OK: AGENTS.md validated.
+2026-08-30 00:03:56 - OK: TOOLS.md validated.
+2026-08-30 00:03:56 - OK: HEARTBEAT.md validated.
+2026-08-30 00:03:56 - OK: SOUL.md validated.
+2026-08-30 00:03:56 - OK: USER.md validated.
+2026-08-30 00:03:56 - OK: Snapshot script is executable.
+2026-08-30 00:03:56 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-08-30 00:03:56 - OK: Recent snapshot found: snapshot-20260830-000212-Critical rules validation.tar.gz.
+2026-08-30 00:03:56 - Validation passed. All critical checks successful.
+
+
+---
+Result: ✅ PASS
+
