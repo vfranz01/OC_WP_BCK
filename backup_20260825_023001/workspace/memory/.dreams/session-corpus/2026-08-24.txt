@@ -1,6 +1,0 @@
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L12] Assistant: Let me check a couple more scripts to find the best target.
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L15] Assistant: The `daily-heartbeat-routine.sh` has a real gap: it only tracks 2 of 5 sub-steps and exits with `status1 + status2` (arithmetic sum), silently ignoring failures in the memory-index update, compaction, and the curl allowedDomains check. Let me fix that so a failure 
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L19] Assistant: Syntax is valid (the `grep -c` returning 0 was just my probe finding no matches — expected). Let me confirm the status captures and also verify a quick logic simulation:
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L21] Assistant: Verified. Now let me document the change in today's memory log
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L23] Assistant: Done. Here's what I improved today: **`scripts/daily-heartbeat-routine.sh` — error handling gap** The heartbeat routine ran 5 sub-steps but only tracked 2 of them (`health-check`, `status-summary`). Failures in the memory-index rebuild, MEMORY.md compaction, or the
-[main/sessions/main/4e4069cf-38d4-4b21-a94d-39acd9a051f4.jsonl#L23] Assistant: simulations (expected 0/1). Documented in `memory/2026-08-24.md`.
