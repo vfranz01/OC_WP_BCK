@@ -1,2 +1,0 @@
-[main/sessions/main/d3bbef47-7cf2-481b-aefa-8c3053a0d488.jsonl#L26] Assistant: Done. Improvement applied and committed. **What I fixed:** `memory/heartbeat-state.json` — the documented heartbeat check tracker — was completely stale (last stamped April 2026). AGENTS.md tells the agent to "track your checks" there, but nothing ever wrote to it,
-[main/sessions/main/d3bbef47-7cf2-481b-aefa-8c3053a0d488.jsonl#L26] Assistant: pass `bash -n`; state file now current (stamped 2026-08-25). Committed to git along with the self-improvement-log entry.
