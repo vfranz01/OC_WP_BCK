@@ -1,0 +1,56 @@
+2026-09-07 00:01:29 - === Starting backup validation ===
+2026-09-07 00:01:29 - OK: MEMORY.md validated.
+2026-09-07 00:01:29 - OK: AGENTS.md validated.
+2026-09-07 00:01:29 - OK: TOOLS.md validated.
+2026-09-07 00:01:29 - OK: HEARTBEAT.md validated.
+2026-09-07 00:01:29 - OK: SOUL.md validated.
+2026-09-07 00:01:29 - OK: USER.md validated.
+2026-09-07 00:01:30 - OK: Snapshot script is executable.
+2026-09-07 00:01:30 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-09-07 00:01:30 - OK: Recent snapshot found: snapshot-20260907-000129-Critical rules validation.tar.gz.
+2026-09-07 00:01:30 - Validation passed. All critical checks successful.
+2026-09-07 00:01 UTC - health-quick-check.sh failed with exit 1; see /home/node/.openclaw/workspace/memory/.last-health-quick-check.log
+2026-09-07 00:01:34 - === Starting backup validation ===
+2026-09-07 00:01:34 - OK: MEMORY.md validated.
+2026-09-07 00:01:34 - OK: AGENTS.md validated.
+2026-09-07 00:01:34 - OK: TOOLS.md validated.
+2026-09-07 00:01:34 - OK: HEARTBEAT.md validated.
+2026-09-07 00:01:34 - OK: SOUL.md validated.
+2026-09-07 00:01:34 - OK: USER.md validated.
+2026-09-07 00:01:35 - OK: Snapshot script is executable.
+2026-09-07 00:01:35 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-09-07 00:01:35 - OK: Recent snapshot found: snapshot-20260907-000129-Critical rules validation.tar.gz.
+2026-09-07 00:01:35 - Validation passed. All critical checks successful.
+2026-09-08 00:02:28 - === Starting backup validation ===
+2026-09-08 00:02:28 - OK: MEMORY.md validated.
+2026-09-08 00:02:28 - OK: AGENTS.md validated.
+2026-09-08 00:02:28 - OK: TOOLS.md validated.
+2026-09-08 00:02:28 - OK: HEARTBEAT.md validated.
+2026-09-08 00:02:28 - OK: SOUL.md validated.
+2026-09-08 00:02:28 - OK: USER.md validated.
+2026-09-08 00:02:29 - OK: Snapshot script is executable.
+2026-09-08 00:02:29 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-09-08 00:02:29 - OK: Recent snapshot found: snapshot-20260908-000228-Critical rules validation.tar.gz.
+2026-09-08 00:02:29 - Validation passed. All critical checks successful.
+2026-09-08 00:02:54 - === Starting backup validation ===
+2026-09-08 00:02:54 - OK: MEMORY.md validated.
+2026-09-08 00:02:54 - OK: AGENTS.md validated.
+2026-09-08 00:02:54 - OK: TOOLS.md validated.
+2026-09-08 00:02:54 - OK: HEARTBEAT.md validated.
+2026-09-08 00:02:54 - OK: SOUL.md validated.
+2026-09-08 00:02:54 - OK: USER.md validated.
+2026-09-08 00:02:55 - OK: Snapshot script is executable.
+2026-09-08 00:02:55 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-09-08 00:02:55 - OK: Recent snapshot found: snapshot-20260908-000254-Critical rules validation.tar.gz.
+2026-09-08 00:02:55 - Validation passed. All critical checks successful.
+2026-09-10 00:01:11 - === Starting backup validation ===
+2026-09-10 00:01:11 - OK: MEMORY.md validated.
+2026-09-10 00:01:11 - OK: AGENTS.md validated.
+2026-09-10 00:01:11 - OK: TOOLS.md validated.
+2026-09-10 00:01:11 - OK: HEARTBEAT.md validated.
+2026-09-10 00:01:11 - OK: SOUL.md validated.
+2026-09-10 00:01:11 - OK: USER.md validated.
+2026-09-10 00:01:11 - OK: Snapshot script is executable.
+2026-09-10 00:01:11 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-09-10 00:01:11 - OK: Recent snapshot found: snapshot-20260910-000111-Critical rules validation.tar.gz.
+2026-09-10 00:01:11 - Validation passed. All critical checks successful.
