@@ -1,0 +1,1 @@
+[main/sessions/main/b9b3043f-0432-42ed-be54-a03a352091ba.jsonl#L45] Assistant: **chore: harden memory frontmatter validation** - Fixed `scripts/validate-memory-files.sh` incorrectly accepting unterminated YAML frontmatter because it matched the opening `---` as the closing delimiter. - Removed the fixed line-5 body assumption; body length and
