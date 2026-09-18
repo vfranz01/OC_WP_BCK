@@ -1,1 +1,0 @@
-[main/sessions/main/d3207fae-6d03-4856-a386-931475570917.jsonl#L45] Assistant: **chore: harden daily memory bootstrap — `4a8b30c`** - Updated `scripts/ensure_daily_memory.sh`: - Enabled `set -euo pipefail` - Resolves workspace paths relative to the script instead of hardcoded paths - Fails immediately if daily memory creation fails - Verified

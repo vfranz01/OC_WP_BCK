@@ -1,1 +1,0 @@
-[main/sessions/main/62fbb945-5f61-4881-a061-be3df9d4f20c.jsonl#L62] Assistant: **Improvement implemented — self-healing memory frontmatter** - Extended `scripts/fix-memory-frontmatter.sh` to repair malformed `tags: [...]` YAML, not just missing frontmatter. - Preserves backups before modifying files and leaves valid frontmatter unchanged. - C

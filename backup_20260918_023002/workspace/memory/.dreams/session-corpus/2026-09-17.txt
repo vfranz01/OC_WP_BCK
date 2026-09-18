@@ -1,0 +1,1 @@
+[main/sessions/main/506999c3-41ed-497a-a676-13231fd3902e.jsonl#L48] Assistant: **chore: make snapshot failures actionable** - Hardened `scripts/snapshot.sh` so tar failures: - Produce a clear diagnostic even with `set -e` - Return a reliable non-zero status - Remove incomplete backup archives - Documented the improvement in `AGENTS.md` and `m
