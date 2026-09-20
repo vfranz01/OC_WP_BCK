@@ -1,0 +1,1 @@
+2026-04-25: Added script to check curl allowedDomains after OpenClaw updates and integrated it into the heartbeat checks.
