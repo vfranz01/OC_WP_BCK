@@ -1,0 +1,30 @@
+# Session: 2026-04-09 14:48:12 UTC
+
+- **Session Key**: agent:main:main
+- **Session ID**: ff111976-4bc4-47c3-87f1-3d0115b97bdf
+- **Source**: telegram
+
+## Conversation Summary
+
+user: A new session was started via /new or /reset. Run your Session Startup sequence - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model differs from default_model in the system prompt, mention the default model. Do not mention internal steps, files, tools, or reasoning.
+Current time: Thursday, April 9th, 2026 - 2:44 PM (UTC) / 2026-04-09 14:44 UTC
+user: Conversation info (untrusted metadata):
+```json
+{
+  "message_id": "2465",
+  "sender_id": "881022003",
+  "sender": "Volker",
+  "timestamp": "Thu 2026-04-09 14:47 UTC"
+}
+```
+
+Sender (untrusted metadata):
+```json
+{
+  "label": "Volker (881022003)",
+  "id": "881022003",
+  "name": "Volker"
+}
+```
+
+Bist du da ?
