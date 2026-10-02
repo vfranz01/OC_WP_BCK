@@ -1,0 +1,1 @@
+Snapshot completed on: 2026-10-02 00:00 UTC (label: Critical rules validation)

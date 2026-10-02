@@ -1,2 +1,0 @@
-- `scripts/daily-status-summary.sh`: Modified to use `memory/template.md` and generate the daily log file with correct frontmatter.
-- `memory/template.md`: Created a template file for daily memory logs with necessary frontmatter.
