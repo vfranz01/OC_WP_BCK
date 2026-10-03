@@ -1,0 +1,34 @@
+2026-10-03 00:00:19 - Log rotated. Archived: backup_incidents-20261003-000019.log (was 509 lines)
+2026-10-03 00:00:19 - === Starting backup validation ===
+2026-10-03 00:00:19 - OK: MEMORY.md validated.
+2026-10-03 00:00:19 - OK: AGENTS.md validated.
+2026-10-03 00:00:19 - OK: TOOLS.md validated.
+2026-10-03 00:00:19 - OK: HEARTBEAT.md validated.
+2026-10-03 00:00:19 - OK: SOUL.md validated.
+2026-10-03 00:00:19 - OK: USER.md validated.
+2026-10-03 00:00:19 - OK: Snapshot script is executable.
+2026-10-03 00:00:19 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-03 00:00:19 - OK: Recent snapshot found: snapshot-20261003-000012-daily_auto_snapshot.tar.gz.
+2026-10-03 00:00:19 - Validation passed. All critical checks successful.
+2026-10-03 00:00:39 - === Starting backup validation ===
+2026-10-03 00:00:39 - OK: MEMORY.md validated.
+2026-10-03 00:00:39 - OK: AGENTS.md validated.
+2026-10-03 00:00:39 - OK: TOOLS.md validated.
+2026-10-03 00:00:39 - OK: HEARTBEAT.md validated.
+2026-10-03 00:00:39 - OK: SOUL.md validated.
+2026-10-03 00:00:39 - OK: USER.md validated.
+2026-10-03 00:00:39 - OK: Snapshot script is executable.
+2026-10-03 00:00:39 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-03 00:00:39 - OK: Recent snapshot found: snapshot-20261003-000012-daily_auto_snapshot.tar.gz.
+2026-10-03 00:00:39 - Validation passed. All critical checks successful.
+2026-10-03 00:00:44 - === Starting backup validation ===
+2026-10-03 00:00:44 - OK: MEMORY.md validated.
+2026-10-03 00:00:44 - OK: AGENTS.md validated.
+2026-10-03 00:00:44 - OK: TOOLS.md validated.
+2026-10-03 00:00:44 - OK: HEARTBEAT.md validated.
+2026-10-03 00:00:44 - OK: SOUL.md validated.
+2026-10-03 00:00:44 - OK: USER.md validated.
+2026-10-03 00:00:45 - OK: Snapshot script is executable.
+2026-10-03 00:00:45 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-03 00:00:45 - OK: Recent snapshot found: snapshot-20261003-000012-daily_auto_snapshot.tar.gz.
+2026-10-03 00:00:45 - Validation passed. All critical checks successful.

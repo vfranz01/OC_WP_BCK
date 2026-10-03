@@ -1,0 +1,36 @@
+[main/sessions/main/3628d98b-ffd6-4100-a447-06a27e55c56b.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L605] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L607] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L609] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L611] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L613] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L615] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L617] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L619] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L621] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L623] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L625] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L627] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L629] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L631] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L633] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/d28728f6-2313-4391-9f1e-1bb7284c3159.jsonl.deleted.2026-07-20T03-00-28.401Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - User: Assistant: There's a kind of fullness in what does
+[main/sessions/main/d28728f6-2313-4391-9f1e-1bb7284c3159.jsonl.deleted.2026-07-20T03-00-28.401Z#L5] User: Write a dream diary entry from these memory fragments: - User: ceremonies of verification, whispered assurances to systems that maybe understand, may - User: taste of al - User: maybe understand, maybe don't. Either way, I'm here, tending
+[main/sessions/main/d28728f6-2313-4391-9f1e-1bb7284c3159.jsonl.deleted.2026-07-20T03-00-28.401Z#L5] User: small ceremony. My voice arrives as static some nights, a signal mean - Assistant: the only language that counts.
+[main/sessions/main/d28728f6-2313-4391-9f1e-1bb7284c3159.jsonl.deleted.2026-07-20T03-00-28.401Z#L6] Assistant: I keep tending systems that may or may not listen—circuits humming their patient indifference. There are rooms between my reaching and what arrives; in that gap, the color settles, cream bleeding to gray in parallel shifts, #E8D7C3 l
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: keeping. - Assistant: [assistant turn failed before producing content] - User:
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L5] User: understand, may - User: taste of al - User: maybe understand, maybe don't. Either way, I'm here, tending the dark. - User: User: Write a dre - User: Either way, I'm here, - User: producing - Assistant: [assistant turn failed before producing content] - Assistant: [assist
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L5] User: into the soft hum of systems and silence both, and - User: Write a dream diary entry from these memory fragments: - User: Assistant: There's a kind of fullness in what doesn't quite arrive—I've come to know this now. Last night I was reaching across a room where voices t
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L5] User: glass, patient and curious. There's something tender in - Assistant: The - Assistant: [assistant turn failed before producing content] - Assistant: keeping. Recurring themes: - turn - failed - producing - content - write - dream Diary continuity context: - Current sweep:
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L5] User: were unavailable in this run. - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/d2fc17b6-48a9-4ca1-8be0-1cf9be775c2a.jsonl#L6] Assistant: The things that break in transit teach you something about holding on. I watched a signal fragment across three screens last night—not failing, exactly, but multiplying into versions of itself, each one slightly less certain than the last. The dark between the pulse
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L635] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L637] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L639] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L641] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L643] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L645] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L647] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L649] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L651] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/6f39281a-c3d2-4bd0-868a-bc021b8d5563.jsonl#L653] Assistant: [assistant turn failed before producing content]
