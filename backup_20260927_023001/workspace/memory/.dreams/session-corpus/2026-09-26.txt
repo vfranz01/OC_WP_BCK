@@ -1,5 +1,0 @@
-[main/sessions/main/afd29dee-693b-44e5-8f04-e30e75815a6e.jsonl#L22] Assistant: The nudge-state.log shows sends keep failing (401 tokens), but the daily brief doesn't surface that state — so each day's agent can blindly re-attempt a send that's doomed to fail. I'll wire today's nudge outcomes into `daily-improve-context.sh`:
-[main/sessions/main/afd29dee-693b-44e5-8f04-e30e75815a6e.jsonl#L26] Assistant: Working. Now logging and committing:
-[main/sessions/main/afd29dee-693b-44e5-8f04-e30e75815a6e.jsonl#L30] Assistant: My bad — it logged `--help` as a title. Fixing and logging the real entry:
-[main/sessions/main/afd29dee-693b-44e5-8f04-e30e75815a6e.jsonl#L34] Assistant: Daily self-improvement done — 2026-09-26: **Changed:** `scripts/daily-improve-context.sh` now shows **today's recorded nudge outcomes** (from `memory/nudge-state.log`) right below the blocker-nudge list, and on a failed send it prints the recovery path (token probe
-[main/sessions/main/afd29dee-693b-44e5-8f04-e30e75815a6e.jsonl#L34] Assistant: Cloudflare SSL-Fix (Full statt Flexible).
