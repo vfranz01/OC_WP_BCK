@@ -1,5 +1,0 @@
-
-## Daily self-improvement (00:15 UTC)
-
-- **Telegram outage escalation + recovery tracking (check_telegram_token.sh):** Both bot tokens dead since 09-23 and Telegram is the ONLY comms channel — Volker sees nothing, including this warning. Added outage-state tracking (memory/telegram-outage.state): fail streak counts max once per UTC day; day 3+ escalates from ⚠️ to 🚨 CRITICAL with outage duration and full fix path (BotFather → openclaw.json → gateway restart, env TELEGRAM_BOT_TOKEN overrides config). On recovery (fail→pass), prints a reminder to flush nudges that recorded 'failed' during the outage (nudge-state.log). Seeded state with true outage start: day 5, since 2026-09-23. Verified: escalation fires, same-day reruns don't inflate, recovery branch prints backlog-flush reminder.
-- **Nudge attempt:** recorded 'failed' — Telegram still down (day 5).
