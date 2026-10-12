@@ -1,0 +1,426 @@
+2026-05-04 00:01:04 - Log rotated. Archived: backup_incidents-20260504-000104.log (was 2630 lines)
+2026-05-04 00:01:04 - === Starting backup validation ===
+2026-05-04 00:01:04 - OK: MEMORY.md validated.
+2026-05-04 00:01:04 - OK: AGENTS.md validated.
+2026-05-04 00:01:04 - OK: TOOLS.md validated.
+2026-05-04 00:01:04 - OK: HEARTBEAT.md validated.
+2026-05-04 00:01:04 - OK: SOUL.md validated.
+2026-05-04 00:01:04 - OK: USER.md validated.
+2026-05-04 00:01:28 - OK: Snapshot script is executable.
+2026-05-04 00:01:28 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:01:28 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:01:28 - Validation passed. All critical checks successful.
+2026-05-04 00:01:41 - === Starting backup validation ===
+2026-05-04 00:01:41 - OK: MEMORY.md validated.
+2026-05-04 00:01:41 - OK: AGENTS.md validated.
+2026-05-04 00:01:41 - OK: TOOLS.md validated.
+2026-05-04 00:01:41 - OK: HEARTBEAT.md validated.
+2026-05-04 00:01:41 - OK: SOUL.md validated.
+2026-05-04 00:01:41 - OK: USER.md validated.
+2026-05-04 00:01:57 - OK: Snapshot script is executable.
+2026-05-04 00:01:57 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:01:57 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:01:57 - Validation passed. All critical checks successful.
+2026-05-04 00:02:51 - === Starting backup validation ===
+2026-05-04 00:02:51 - OK: MEMORY.md validated.
+2026-05-04 00:02:51 - OK: AGENTS.md validated.
+2026-05-04 00:02:51 - OK: TOOLS.md validated.
+2026-05-04 00:02:51 - OK: HEARTBEAT.md validated.
+2026-05-04 00:02:51 - OK: SOUL.md validated.
+2026-05-04 00:02:51 - OK: USER.md validated.
+2026-05-04 00:03:07 - OK: Snapshot script is executable.
+2026-05-04 00:03:07 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-04 00:03:07 - OK: Recent snapshot found: snapshot-20260503-120105-daily-auto.tar.gz.
+2026-05-04 00:03:07 - Validation passed. All critical checks successful.
+2026-05-12 00:00:42 - === Starting backup validation ===
+2026-05-12 00:00:42 - OK: MEMORY.md validated.
+2026-05-12 00:00:42 - OK: AGENTS.md validated.
+2026-05-12 00:00:42 - OK: TOOLS.md validated.
+2026-05-12 00:00:42 - OK: HEARTBEAT.md validated.
+2026-05-12 00:00:42 - OK: SOUL.md validated.
+2026-05-12 00:00:42 - OK: USER.md validated.
+2026-05-12 00:00:42 - OK: Snapshot script is executable.
+2026-05-12 00:00:42 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-12 00:00:42 - OK: Recent snapshot found: snapshot-20260512-000042-Critical rules validation.tar.gz.
+2026-05-12 00:00:42 - Validation passed. All critical checks successful.
+2026-05-12 00:01:41 - === Starting backup validation ===
+2026-05-12 00:01:41 - OK: MEMORY.md validated.
+2026-05-12 00:01:41 - OK: AGENTS.md validated.
+2026-05-12 00:01:41 - OK: TOOLS.md validated.
+2026-05-12 00:01:41 - OK: HEARTBEAT.md validated.
+2026-05-12 00:01:41 - OK: SOUL.md validated.
+2026-05-12 00:01:41 - OK: USER.md validated.
+2026-05-12 00:01:41 - OK: Snapshot script is executable.
+2026-05-12 00:01:41 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-12 00:01:41 - OK: Recent snapshot found: snapshot-20260512-000042-Critical rules validation.tar.gz.
+2026-05-12 00:01:41 - Validation passed. All critical checks successful.
+2026-05-12 23:02:04 - === Starting backup validation ===
+2026-05-12 23:02:04 - OK: MEMORY.md validated.
+2026-05-12 23:02:04 - OK: AGENTS.md validated.
+2026-05-12 23:02:04 - OK: TOOLS.md validated.
+2026-05-12 23:02:04 - OK: HEARTBEAT.md validated.
+2026-05-12 23:02:04 - OK: SOUL.md validated.
+2026-05-12 23:02:04 - OK: USER.md validated.
+2026-05-12 23:02:04 - OK: Snapshot script is executable.
+2026-05-12 23:02:04 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-12 23:02:04 - OK: Recent snapshot found: snapshot-20260512-000042-Critical rules validation.tar.gz.
+2026-05-12 23:02:04 - Validation passed. All critical checks successful.
+⚠️  Last Snapshot: No record found. Run   manually.
+2026-05-17 00:00:54 - === Starting backup validation ===
+2026-05-17 00:00:54 - OK: MEMORY.md validated.
+2026-05-17 00:00:54 - OK: AGENTS.md validated.
+2026-05-17 00:00:54 - OK: TOOLS.md validated.
+2026-05-17 00:00:54 - OK: HEARTBEAT.md validated.
+2026-05-17 00:00:54 - OK: SOUL.md validated.
+2026-05-17 00:00:54 - OK: USER.md validated.
+2026-05-17 00:00:55 - OK: Snapshot script is executable.
+2026-05-17 00:00:55 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-17 00:00:55 - OK: Recent snapshot found: snapshot-20260517-000054-Critical rules validation.tar.gz.
+2026-05-17 00:00:55 - Validation passed. All critical checks successful.
+2026-05-17 00:01:11 - === Starting backup validation ===
+2026-05-17 00:01:11 - OK: MEMORY.md validated.
+2026-05-17 00:01:11 - OK: AGENTS.md validated.
+2026-05-17 00:01:11 - OK: TOOLS.md validated.
+2026-05-17 00:01:11 - OK: HEARTBEAT.md validated.
+2026-05-17 00:01:11 - OK: SOUL.md validated.
+2026-05-17 00:01:11 - OK: USER.md validated.
+2026-05-17 00:01:11 - OK: Snapshot script is executable.
+2026-05-17 00:01:11 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-17 00:01:11 - OK: Recent snapshot found: snapshot-20260517-000111-Critical rules validation.tar.gz.
+2026-05-17 00:01:11 - Validation passed. All critical checks successful.
+2026-05-18 00:01:45 - === Starting backup validation ===
+2026-05-18 00:01:45 - OK: MEMORY.md validated.
+2026-05-18 00:01:45 - OK: AGENTS.md validated.
+2026-05-18 00:01:45 - OK: TOOLS.md validated.
+2026-05-18 00:01:45 - OK: HEARTBEAT.md validated.
+2026-05-18 00:01:45 - OK: SOUL.md validated.
+2026-05-18 00:01:45 - OK: USER.md validated.
+2026-05-18 00:01:45 - OK: Snapshot script is executable.
+2026-05-18 00:01:45 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 00:01:45 - OK: Recent snapshot found: snapshot-20260518-000145-Critical rules validation.tar.gz.
+2026-05-18 00:01:45 - Validation passed. All critical checks successful.
+2026-05-18 00:01:59 - === Starting backup validation ===
+2026-05-18 00:01:59 - OK: MEMORY.md validated.
+2026-05-18 00:01:59 - OK: AGENTS.md validated.
+2026-05-18 00:01:59 - OK: TOOLS.md validated.
+2026-05-18 00:01:59 - OK: HEARTBEAT.md validated.
+2026-05-18 00:01:59 - OK: SOUL.md validated.
+2026-05-18 00:01:59 - OK: USER.md validated.
+2026-05-18 00:02:00 - OK: Snapshot script is executable.
+2026-05-18 00:02:00 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 00:02:00 - OK: Recent snapshot found: snapshot-20260518-000145-Critical rules validation.tar.gz.
+2026-05-18 00:02:00 - Validation passed. All critical checks successful.
+2026-05-18 08:58:37 - === Starting backup validation ===
+2026-05-18 08:58:37 - OK: MEMORY.md validated.
+2026-05-18 08:58:37 - OK: AGENTS.md validated.
+2026-05-18 08:58:37 - OK: TOOLS.md validated.
+2026-05-18 08:58:37 - OK: HEARTBEAT.md validated.
+2026-05-18 08:58:37 - OK: SOUL.md validated.
+2026-05-18 08:58:37 - OK: USER.md validated.
+2026-05-18 08:58:37 - OK: Snapshot script is executable.
+2026-05-18 08:58:37 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 08:58:37 - OK: Recent snapshot found: snapshot-20260518-000145-Critical rules validation.tar.gz.
+2026-05-18 08:58:37 - Validation passed. All critical checks successful.
+2026-05-18 09:58:29 - === Starting backup validation ===
+2026-05-18 09:58:29 - OK: MEMORY.md validated.
+2026-05-18 09:58:29 - OK: AGENTS.md validated.
+2026-05-18 09:58:29 - OK: TOOLS.md validated.
+2026-05-18 09:58:29 - OK: HEARTBEAT.md validated.
+2026-05-18 09:58:29 - OK: SOUL.md validated.
+2026-05-18 09:58:29 - OK: USER.md validated.
+2026-05-18 09:58:29 - OK: Snapshot script is executable.
+2026-05-18 09:58:29 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 09:58:29 - OK: Recent snapshot found: snapshot-20260518-095829-Critical rules validation.tar.gz.
+2026-05-18 09:58:29 - Validation passed. All critical checks successful.
+2026-05-18 10:58:29 - === Starting backup validation ===
+2026-05-18 10:58:29 - OK: MEMORY.md validated.
+2026-05-18 10:58:29 - OK: AGENTS.md validated.
+2026-05-18 10:58:29 - OK: TOOLS.md validated.
+2026-05-18 10:58:29 - OK: HEARTBEAT.md validated.
+2026-05-18 10:58:29 - OK: SOUL.md validated.
+2026-05-18 10:58:29 - OK: USER.md validated.
+2026-05-18 10:58:29 - OK: Snapshot script is executable.
+2026-05-18 10:58:29 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 10:58:29 - OK: Recent snapshot found: snapshot-20260518-095829-Critical rules validation.tar.gz.
+2026-05-18 10:58:29 - Validation passed. All critical checks successful.
+2026-05-18 11:58:29 - === Starting backup validation ===
+2026-05-18 11:58:29 - OK: MEMORY.md validated.
+2026-05-18 11:58:29 - OK: AGENTS.md validated.
+2026-05-18 11:58:29 - OK: TOOLS.md validated.
+2026-05-18 11:58:29 - OK: HEARTBEAT.md validated.
+2026-05-18 11:58:29 - OK: SOUL.md validated.
+2026-05-18 11:58:29 - OK: USER.md validated.
+2026-05-18 11:58:29 - OK: Snapshot script is executable.
+2026-05-18 11:58:29 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-18 11:58:29 - OK: Recent snapshot found: snapshot-20260518-095829-Critical rules validation.tar.gz.
+2026-05-18 11:58:29 - Validation passed. All critical checks successful.
+2026-05-21 17:36:08 - === Starting backup validation ===
+2026-05-21 17:36:08 - OK: MEMORY.md validated.
+2026-05-21 17:36:08 - OK: AGENTS.md validated.
+2026-05-21 17:36:08 - OK: TOOLS.md validated.
+2026-05-21 17:36:08 - OK: HEARTBEAT.md validated.
+2026-05-21 17:36:08 - OK: SOUL.md validated.
+2026-05-21 17:36:08 - OK: USER.md validated.
+2026-05-21 17:36:09 - OK: Snapshot script is executable.
+2026-05-21 17:36:09 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-05-21 17:36:09 - OK: Recent snapshot found: snapshot-20260521-173608-Critical rules validation.tar.gz.
+2026-05-21 17:36:09 - Validation passed. All critical checks successful.
+2026-06-17 00:03:18 - === Starting backup validation ===
+2026-06-17 00:03:18 - OK: MEMORY.md validated.
+2026-06-17 00:03:18 - OK: AGENTS.md validated.
+2026-06-17 00:03:18 - OK: TOOLS.md validated.
+2026-06-17 00:03:18 - OK: HEARTBEAT.md validated.
+2026-06-17 00:03:18 - OK: SOUL.md validated.
+2026-06-17 00:03:18 - OK: USER.md validated.
+2026-06-17 00:03:19 - OK: Snapshot script is executable.
+2026-06-17 00:03:19 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-17 00:03:19 - OK: Recent snapshot found: snapshot-20260617-000318-Critical rules validation.tar.gz.
+2026-06-17 00:03:19 - Validation passed. All critical checks successful.
+2026-06-18 00:01:13 - === Starting backup validation ===
+2026-06-18 00:01:13 - OK: MEMORY.md validated.
+2026-06-18 00:01:13 - OK: AGENTS.md validated.
+2026-06-18 00:01:13 - OK: TOOLS.md validated.
+2026-06-18 00:01:13 - OK: HEARTBEAT.md validated.
+2026-06-18 00:01:13 - OK: SOUL.md validated.
+2026-06-18 00:01:13 - OK: USER.md validated.
+2026-06-18 00:01:13 - OK: Snapshot script is executable.
+2026-06-18 00:01:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-18 00:01:13 - OK: Recent snapshot found: snapshot-20260617-000318-Critical rules validation.tar.gz.
+2026-06-18 00:01:13 - Validation passed. All critical checks successful.
+2026-06-18 00:01:14 - === Starting backup validation ===
+2026-06-18 00:01:14 - OK: MEMORY.md validated.
+2026-06-18 00:01:14 - OK: AGENTS.md validated.
+2026-06-18 00:01:14 - OK: TOOLS.md validated.
+2026-06-18 00:01:14 - OK: HEARTBEAT.md validated.
+2026-06-18 00:01:14 - OK: SOUL.md validated.
+2026-06-18 00:01:14 - OK: USER.md validated.
+2026-06-18 00:01:14 - OK: Snapshot script is executable.
+2026-06-18 00:01:14 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-18 00:01:14 - OK: Recent snapshot found: snapshot-20260617-000318-Critical rules validation.tar.gz.
+2026-06-18 00:01:14 - Validation passed. All critical checks successful.
+2026-06-18 00:01 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-18.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+⚠️  Last Snapshot: No record found. Run   manually.
+2026-06-18 00:01:58 - === Starting backup validation ===
+2026-06-18 00:01:58 - OK: MEMORY.md validated.
+2026-06-18 00:01:58 - OK: AGENTS.md validated.
+2026-06-18 00:01:58 - OK: TOOLS.md validated.
+2026-06-18 00:01:58 - OK: HEARTBEAT.md validated.
+2026-06-18 00:01:58 - OK: SOUL.md validated.
+2026-06-18 00:01:58 - OK: USER.md validated.
+2026-06-18 00:01:59 - OK: Snapshot script is executable.
+2026-06-18 00:01:59 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-18 00:01:59 - OK: Recent snapshot found: snapshot-20260617-000318-Critical rules validation.tar.gz.
+2026-06-18 00:01:59 - Validation passed. All critical checks successful.
+2026-06-18 00:01:59 - === Starting backup validation ===
+2026-06-18 00:01:59 - OK: MEMORY.md validated.
+2026-06-18 00:01:59 - OK: AGENTS.md validated.
+2026-06-18 00:01:59 - OK: TOOLS.md validated.
+2026-06-18 00:01:59 - OK: HEARTBEAT.md validated.
+2026-06-18 00:01:59 - OK: SOUL.md validated.
+2026-06-18 00:01:59 - OK: USER.md validated.
+2026-06-18 00:02:00 - OK: Snapshot script is executable.
+2026-06-18 00:02:00 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-18 00:02:00 - OK: Recent snapshot found: snapshot-20260617-000318-Critical rules validation.tar.gz.
+2026-06-18 00:02:00 - Validation passed. All critical checks successful.
+2026-06-18 00:02 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-18.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+⚠️  Last Snapshot: No record found. Run   manually.
+2026-06-19 00:00:43 - === Starting backup validation ===
+2026-06-19 00:00:43 - OK: MEMORY.md validated.
+2026-06-19 00:00:43 - OK: AGENTS.md validated.
+2026-06-19 00:00:43 - OK: TOOLS.md validated.
+2026-06-19 00:00:43 - OK: HEARTBEAT.md validated.
+2026-06-19 00:00:43 - OK: SOUL.md validated.
+2026-06-19 00:00:43 - OK: USER.md validated.
+2026-06-19 00:00:43 - OK: Snapshot script is executable.
+2026-06-19 00:00:43 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-19 00:00:43 - OK: Recent snapshot found: snapshot-20260618-000114-Critical rules validation.tar.gz.
+2026-06-19 00:00:43 - Validation passed. All critical checks successful.
+2026-06-21 00:01:02 - === Starting backup validation ===
+2026-06-21 00:01:02 - OK: MEMORY.md validated.
+2026-06-21 00:01:02 - OK: AGENTS.md validated.
+2026-06-21 00:01:02 - OK: TOOLS.md validated.
+2026-06-21 00:01:02 - OK: HEARTBEAT.md validated.
+2026-06-21 00:01:02 - OK: SOUL.md validated.
+2026-06-21 00:01:02 - OK: USER.md validated.
+2026-06-21 00:01:02 - OK: Snapshot script is executable.
+2026-06-21 00:01:03 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:01:03 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:01:03 - Validation passed. All critical checks successful.
+2026-06-21 00:01:04 - === Starting backup validation ===
+2026-06-21 00:01:04 - OK: MEMORY.md validated.
+2026-06-21 00:01:04 - OK: AGENTS.md validated.
+2026-06-21 00:01:04 - OK: TOOLS.md validated.
+2026-06-21 00:01:04 - OK: HEARTBEAT.md validated.
+2026-06-21 00:01:04 - OK: SOUL.md validated.
+2026-06-21 00:01:04 - OK: USER.md validated.
+2026-06-21 00:01:04 - OK: Snapshot script is executable.
+2026-06-21 00:01:04 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:01:04 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:01:04 - Validation passed. All critical checks successful.
+2026-06-21 00:01 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-21.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+2026-06-21 00:01:34 - === Starting backup validation ===
+2026-06-21 00:01:34 - OK: MEMORY.md validated.
+2026-06-21 00:01:34 - OK: AGENTS.md validated.
+2026-06-21 00:01:34 - OK: TOOLS.md validated.
+2026-06-21 00:01:34 - OK: HEARTBEAT.md validated.
+2026-06-21 00:01:34 - OK: SOUL.md validated.
+2026-06-21 00:01:34 - OK: USER.md validated.
+2026-06-21 00:01:34 - OK: Snapshot script is executable.
+2026-06-21 00:01:34 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:01:34 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:01:34 - Validation passed. All critical checks successful.
+2026-06-21 00:01:35 - === Starting backup validation ===
+2026-06-21 00:01:35 - OK: MEMORY.md validated.
+2026-06-21 00:01:35 - OK: AGENTS.md validated.
+2026-06-21 00:01:35 - OK: TOOLS.md validated.
+2026-06-21 00:01:35 - OK: HEARTBEAT.md validated.
+2026-06-21 00:01:35 - OK: SOUL.md validated.
+2026-06-21 00:01:35 - OK: USER.md validated.
+2026-06-21 00:01:35 - OK: Snapshot script is executable.
+2026-06-21 00:01:35 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:01:35 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:01:35 - Validation passed. All critical checks successful.
+2026-06-21 00:01 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-21.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+2026-06-21 00:02:13 - === Starting backup validation ===
+2026-06-21 00:02:13 - OK: MEMORY.md validated.
+2026-06-21 00:02:13 - OK: AGENTS.md validated.
+2026-06-21 00:02:13 - OK: TOOLS.md validated.
+2026-06-21 00:02:13 - OK: HEARTBEAT.md validated.
+2026-06-21 00:02:13 - OK: SOUL.md validated.
+2026-06-21 00:02:13 - OK: USER.md validated.
+2026-06-21 00:02:13 - OK: Snapshot script is executable.
+2026-06-21 00:02:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:02:13 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:02:13 - Validation passed. All critical checks successful.
+2026-06-21 00:02:14 - === Starting backup validation ===
+2026-06-21 00:02:14 - OK: MEMORY.md validated.
+2026-06-21 00:02:14 - OK: AGENTS.md validated.
+2026-06-21 00:02:14 - OK: TOOLS.md validated.
+2026-06-21 00:02:14 - OK: HEARTBEAT.md validated.
+2026-06-21 00:02:14 - OK: SOUL.md validated.
+2026-06-21 00:02:14 - OK: USER.md validated.
+2026-06-21 00:02:14 - OK: Snapshot script is executable.
+2026-06-21 00:02:14 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-06-21 00:02:14 - OK: Recent snapshot found: snapshot-20260621-000102-Critical rules validation.tar.gz.
+2026-06-21 00:02:14 - Validation passed. All critical checks successful.
+2026-06-21 00:02 UTC - OpenClaw gateway status unclear: Service: systemd user (disabled)
+File logs: /tmp/openclaw/openclaw-2026-06-21.log
+
+Config (cli): ~/.openclaw/openclaw.json
+Config (service): ~/.openclaw/openclaw.json
+
+Gateway: bind=loopback (127.0.0.1), port=18789 (env/config)
+Probe target: ws://127.0.0.1:18789
+Dashboard: http://127.0.0.1:18789/
+Probe note: Loopback-only gateway; only local clients can connect.
+
+CLI version: 2026.5.12 (/usr/local/bin/openclaw)
+Gateway version: 2026.5.12
+
+Runtime: unknown (systemctl not available; systemd user services are required on Linux.)
+Connectivity probe: ok
+Capability: admin-capable
+
+systemd user services unavailable.
+systemd user services are unavailable; install/enable systemd or run the gateway under your supervisor.
+If you're in a container, run the gateway in the foreground instead of `openclaw gateway`.
+
+Listening: *:18789
+Troubles: run openclaw status
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
