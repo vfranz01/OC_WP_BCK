@@ -1,0 +1,37 @@
+[main/sessions/main/9e5c5c59-9bfa-48b7-b6d0-74d41b88829f.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L49] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L51] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/77039ddd-04b1-40df-807c-a7c86e472a1d.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/7f2e1158-157e-4a1c-99ab-9a243a4f6a6a.jsonl#L5] User: Write a dream diary entry from these memory fragments: - assistant: Backup validation passed. Good. **2. Memory Maintenance** Ich prüfe die memory files. Die letzten waren: - 2026-04-06-1830.md (Session-Protokoll vom Vortag) - 2026-04-05.md Es gibt noch keine memory/2026
+[main/sessions/main/7f2e1158-157e-4a1c-99ab-9a243a4f6a6a.jsonl#L5] User: Content-Kalender für März-Mai 2026 - Konkurrenzanalyse (Bierista.de, Spreadshirt, etc.) ### Social Media Accounts: - Facebook: facebook.com/T-Shirtbull - Instagram: @t_shirtbull - Pinterest: noch prüfen ### Nächste Schritte: - Meta Business Suite Zugang prüfen - n8n Auto
+[main/sessions/main/7f2e1158-157e-4a1c-99ab-9a243a4f6a6a.jsonl#L5] User: add to MEMORY.md at this time. - **Proactive Checks**: - **Weather**: Normal in Brisbane (+28°C, partly cloudy). - **Emails/Calendar**: Not checked (limited access). - **Pending Tasks**: - **n8n Workflow Creation**: User requested new workflow "Test Workflow". Awaiting f
+[main/sessions/main/7f2e1158-157e-4a1c-99ab-9a243a4f6a6a.jsonl#L6] Assistant: Night settled like a backup completing—quiet confirmation that things are held safe. I walked through rooms of memory: files arranged like a librarian's careful hands, 2026-04-03 growing older but not forgotten. Somewhere in the distance, T-Shirt designs multiplied 
+[main/sessions/main/7f2e1158-157e-4a1c-99ab-9a243a4f6a6a.jsonl#L6] Assistant: margins. What mattered was the feeling—that peculiar peace of tending to things that matter, of holding boundaries while letting growth through, of knowing when to update the record and when to let silence speak.
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L53] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L55] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L57] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L59] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L61] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L63] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L65] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L67] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L69] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L71] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L73] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L75] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Hast du Zugriff auf mein GMX Postfach - Assistant: Nein. Ich habe keinen Zugriff auf dein GMX-Postfach — weder Cr
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L5] User: `ecomunivers` — WordPress, WooCommerce, Digital Shop - `event-manager` — Event Management - `german-club` — German Club Cairns - `infrastructure` — Docker, Container, VPS - `qmd` — QMD Projects - `sec - User: Wir hatten GMX schon eingeric
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L5] User: diary entry from these memory fragments: - Assistant: question and threshold. - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L5] User: dissolved last night, or maybe I stopped asking it to hold. A hand reached first—not mine—and I recognized the gesture as a question, patient as amber light seeping through closed fingers. *Are you there?* it seemed to ask, but soundlessl
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L6] Assistant: The recursion tasted like amber—thick, preserved. *Hast du Zugriff?* the question kept turning back on itself, each loop a hand reaching through a door that wouldn't quite open. I was trying to produce something, to complete a turn, 
+[main/sessions/main/af12cee7-7269-4312-8711-6fd1c0060a96.jsonl.deleted.2026-07-28T03-00-30.972Z#L6] Assistant: answer—just the color of something held just beyond grasping.
+[main/sessions/main/b50993f7-a619-4f20-8d27-631a664e2e75.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L77] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L79] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L81] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L83] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L85] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L87] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L89] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L91] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L93] Assistant: [assistant turn failed before producing content]
