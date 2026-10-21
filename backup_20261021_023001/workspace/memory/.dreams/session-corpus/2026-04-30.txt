@@ -1,0 +1,1 @@
+[main/sessions/81aa582d-1de4-4691-aecb-d08eaa51ba5c.jsonl#L7418] User: A scheduled reminder has been triggered. The reminder content is: Bitte führe einen Snapshot durch: bash /home/node/.openclaw/workspace/scripts/snapshot.sh daily-auto. Berichte kurz das Ergebnis. Please relay this reminder to the user in a helpful and friendly way. Current

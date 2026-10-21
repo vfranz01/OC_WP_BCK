@@ -1,0 +1,67 @@
+2026-10-19 00:00:07 - Log rotated. Archived: backup_incidents-20261019-000007.log (was 507 lines)
+2026-10-19 00:00:07 - === Starting backup validation ===
+2026-10-19 00:00:07 - OK: MEMORY.md validated.
+2026-10-19 00:00:07 - OK: AGENTS.md validated.
+2026-10-19 00:00:07 - OK: TOOLS.md validated.
+2026-10-19 00:00:07 - OK: HEARTBEAT.md validated.
+2026-10-19 00:00:07 - OK: SOUL.md validated.
+2026-10-19 00:00:07 - OK: USER.md validated.
+2026-10-19 00:00:08 - OK: Snapshot script is executable.
+2026-10-19 00:00:08 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-19 00:00:08 - OK: Recent snapshot found: snapshot-20261019-000007-Critical rules validation.tar.gz.
+2026-10-19 00:00:08 - Validation passed. All critical checks successful.
+2026-10-19 00:00:21 - === Starting backup validation ===
+2026-10-19 00:00:21 - OK: MEMORY.md validated.
+2026-10-19 00:00:21 - OK: AGENTS.md validated.
+2026-10-19 00:00:21 - OK: TOOLS.md validated.
+2026-10-19 00:00:21 - OK: HEARTBEAT.md validated.
+2026-10-19 00:00:21 - OK: SOUL.md validated.
+2026-10-19 00:00:21 - OK: USER.md validated.
+2026-10-19 00:00:22 - OK: Snapshot script is executable.
+2026-10-19 00:00:22 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-19 00:00:22 - OK: Recent snapshot found: snapshot-20261019-000007-Critical rules validation.tar.gz.
+2026-10-19 00:00:22 - Validation passed. All critical checks successful.
+2026-10-20 00:00:08 - === Starting backup validation ===
+2026-10-20 00:00:08 - OK: MEMORY.md validated.
+2026-10-20 00:00:08 - OK: AGENTS.md validated.
+2026-10-20 00:00:08 - OK: TOOLS.md validated.
+2026-10-20 00:00:08 - OK: HEARTBEAT.md validated.
+2026-10-20 00:00:08 - OK: SOUL.md validated.
+2026-10-20 00:00:08 - OK: USER.md validated.
+2026-10-20 00:00:10 - OK: Snapshot script is executable.
+2026-10-20 00:00:10 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-20 00:00:10 - OK: Recent snapshot found: snapshot-20261019-000021-Critical rules validation.tar.gz.
+2026-10-20 00:00:10 - Validation passed. All critical checks successful.
+2026-10-20 00:02:36 - === Starting backup validation ===
+2026-10-20 00:02:36 - OK: MEMORY.md validated.
+2026-10-20 00:02:36 - OK: AGENTS.md validated.
+2026-10-20 00:02:36 - OK: TOOLS.md validated.
+2026-10-20 00:02:36 - OK: HEARTBEAT.md validated.
+2026-10-20 00:02:36 - OK: SOUL.md validated.
+2026-10-20 00:02:36 - OK: USER.md validated.
+2026-10-20 00:02:36 - OK: Snapshot script is executable.
+2026-10-20 00:02:36 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-20 00:02:36 - OK: Recent snapshot found: snapshot-20261020-000236-Critical rules validation.tar.gz.
+2026-10-20 00:02:36 - Validation passed. All critical checks successful.
+2026-10-20 00:02:56 - === Starting backup validation ===
+2026-10-20 00:02:56 - OK: MEMORY.md validated.
+2026-10-20 00:02:56 - OK: AGENTS.md validated.
+2026-10-20 00:02:56 - OK: TOOLS.md validated.
+2026-10-20 00:02:56 - OK: HEARTBEAT.md validated.
+2026-10-20 00:02:56 - OK: SOUL.md validated.
+2026-10-20 00:02:56 - OK: USER.md validated.
+2026-10-20 00:02:57 - OK: Snapshot script is executable.
+2026-10-20 00:02:57 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-20 00:02:57 - OK: Recent snapshot found: snapshot-20261020-000236-Critical rules validation.tar.gz.
+2026-10-20 00:02:57 - Validation passed. All critical checks successful.
+2026-10-21 00:00:06 - === Starting backup validation ===
+2026-10-21 00:00:06 - OK: MEMORY.md validated.
+2026-10-21 00:00:06 - OK: AGENTS.md validated.
+2026-10-21 00:00:06 - OK: TOOLS.md validated.
+2026-10-21 00:00:06 - OK: HEARTBEAT.md validated.
+2026-10-21 00:00:06 - OK: SOUL.md validated.
+2026-10-21 00:00:06 - OK: USER.md validated.
+2026-10-21 00:00:08 - OK: Snapshot script is executable.
+2026-10-21 00:00:08 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-10-21 00:00:08 - OK: Recent snapshot found: snapshot-20261020-000236-Critical rules validation.tar.gz.
+2026-10-21 00:00:08 - Validation passed. All critical checks successful.
