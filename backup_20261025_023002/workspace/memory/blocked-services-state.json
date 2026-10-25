@@ -1,0 +1,14 @@
+{
+ "woo_rest": {
+  "status": "redirected",
+  "since": "2026-10-25T00:03:32Z"
+ },
+ "cf_ssl": {
+  "status": "redirected",
+  "since": "2026-10-25T00:03:32Z"
+ },
+ "wp_rest": {
+  "status": "redirected",
+  "since": "2026-10-25T00:03:32Z"
+ }
+}
