@@ -1,0 +1,18 @@
+{
+ "woo_rest": {
+  "status": "auth_dead",
+  "since": "2026-10-26T00:01:09Z"
+ },
+ "cf_ssl": {
+  "status": "ok",
+  "since": "2026-10-26T00:01:09Z"
+ },
+ "wp_rest": {
+  "status": "ok",
+  "since": "2026-10-26T00:01:09Z"
+ },
+ "wp_publish_auth": {
+  "status": "no_creds",
+  "since": "2026-10-26T00:01:09Z"
+ }
+}
