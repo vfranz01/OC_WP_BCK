@@ -1,5 +1,0 @@
-
-## Daily Self-Improvement (cron)
-- **2026-08-24** Fixed error handling in `scripts/daily-heartbeat-routine.sh`:
-  - Now captures exit codes for ALL 5 sub-steps (health check, status summary, memory-index, compaction, curl allowedDomains) instead of only 2.
-  - Replaced arithmetic-sum exit (`status1+status2`, could wrap past 255 / conflate failures) with a logical-OR aggregate → exits 1 if any step fails.
