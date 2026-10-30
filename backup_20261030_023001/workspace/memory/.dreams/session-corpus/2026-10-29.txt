@@ -1,0 +1,3 @@
+[main/sessions/main/632dd80c-5f52-47ff-8827-864354e6b973.jsonl#L10] Assistant: Context brief is in. Clear drift found: AGENTS.md "Recent Improvements" is stale (13 bullets vs 12 expected). Running the sync script, then committing.
+[main/sessions/main/632dd80c-5f52-47ff-8827-864354e6b973.jsonl#L12] Assistant: Done — daily improvement applied and committed. **Summary:** ``` 34f6d87 AGENTS.md: sync Recent Improvements with .learnings log (drift fix 2026-10-29) ``` **What changed:** - AGENTS.md "Recent Improvements" had drifted (13 bullets vs 12 expected; newest entry was 
+[main/sessions/main/632dd80c-5f52-47ff-8827-864354e6b973.jsonl#L12] Assistant: `WP_USER=`/`WP_APP_PASSWORD=*** under `### WordPress Publishing`.
