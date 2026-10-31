@@ -1,4 +1,0 @@
-[main/sessions/main/76003186-49bb-4ce0-b68a-a3a4e0caeb42.jsonl#L15] Assistant: The brief flags one concrete item: `flush-all-queues.sh` (created yesterday) is missing from `scripts/README.md` — daily docs-drift. I'll document it properly in the Telegram delivery tooling section.
-[main/sessions/main/76003186-49bb-4ce0-b68a-a3a4e0caeb42.jsonl#L19] Assistant: Drift cleared. Logging the improvement and committing:
-[main/sessions/main/76003186-49bb-4ce0-b68a-a3a4e0caeb42.jsonl#L23] Assistant: **Daily improvement done — docs-drift fix (2026-10-22)** - **Found:** `flush-all-queues.sh` (created yesterday as the one-command outage-recovery tool) was missing from `scripts/README.md` — flagged daily by `check-scripts-doc.sh`. - **Fixed:** Added a full README 
-[main/sessions/main/76003186-49bb-4ce0-b68a-a3a4e0caeb42.jsonl#L23] Assistant: queued but safe — recoverable in one command once the bot token works.

@@ -1,2 +1,0 @@
-[main/sessions/main/8dd7465c-580e-4a02-abd8-8d52a5ea3848.jsonl#L6] Assistant: I'll start with the context script as directed.
-[main/sessions/main/8dd7465c-580e-4a02-abd8-8d52a5ea3848.jsonl#L50] Assistant: Now wiring the combined recovery command into the daily brief and health check.
