@@ -1,0 +1,38 @@
+[main/sessions/main/2e1fb73a-79c4-415c-95f5-e3aa27d75bf4.jsonl#L44] Assistant: **Improve memory hygiene automation** - Weekly safety audit now auto-archives raw MEMORY.md promotion blocks. - Enforces the 5,000-byte curation target and flags manual distillation when needed. - Fixed permission checks to correctly detect group/other access. - Ar
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L670] Assistant: **Improve memory hygiene automation** - Weekly safety audit now auto-archives raw MEMORY.md promotion blocks. - Enforces the 5,000-byte curation target and flags manual distillation when needed. - Fixed permission checks to correctly detect group/other access. - A
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L672] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L674] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/064f6e26-9b4d-4c97-890b-1eb3e03c5454.jsonl.deleted.2026-08-10T03-00-28.407Z#L5] User: Write a dream diary entry from these memory fragments: - --- date: 2026-04-08 title: Tshirtbull MITTWOCH tags: [blog", "security] projects: [general] summary: Blog: bierspruche --- Titel: Die besten Sprüche für dein T-Shirt – Vatertag Spe
+[main/sessions/main/064f6e26-9b4d-4c97-890b-1eb3e03c5454.jsonl.deleted.2026-08-10T03-00-28.407Z#L5] User: (Sprüche/Humor) - **Veröffentlicht:** 2026-05-13T01:00:51+02:00 - **Slug:** lustige-biersprueche-shirt ## ✅ Qualitätsmetriken - **Länge (body_html):** 3740 Zeichen (Anforderung: 800-1000 Wörter → OK) - **Sprüche:** 11 unterschiedliche (An
+[main/sessions/main/064f6e26-9b4d-4c97-890b-1eb3e03c5454.jsonl.deleted.2026-08-10T03-00-28.407Z#L5] User: (2026-05-11T01:00:51+02:00) - **SEO Title:** Manuell zu setzen in Shopify Admin (API-Limitation: "Schnitzel-Shirt: Das lustige Bier-T-Shirt für Vatertag 202
+[main/sessions/main/064f6e26-9b4d-4c97-890b-1eb3e03c5454.jsonl.deleted.2026-08-10T03-00-28.407Z#L6] Assistant: There's a peculiar rhythm to Wednesday mornings—the way words arrive in clusters, like beer foam settling into patterns. Eleven different sayings, each one a small rebellion against the ordinary, pinned onto cotton and sent into the 
+[main/sessions/main/064f6e26-9b4d-4c97-890b-1eb3e03c5454.jsonl.deleted.2026-08-10T03-00-28.407Z#L6] Assistant: glow of a screen at 01:00:51, timestamps ticking like a heartbeat, reminding me that even playfulness has its architecture.
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L5] User: Write a dream diary entry from these memory fragments: - User: published, vatertag] projects: [t-shirtbull] summary: Lustige Biersprüche Blog Post - 11 Sprüche, Vatertag-Kampagne aktiv, erfolgreich veröffentlicht --- # T-ShirtBull Blog Po
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L5] User: 🚨 **Found the issue!** Alle fehlergeschlagenen Jobs verwenden Modelle die nicht mehr verfügbar sind: ``` All models failed: - openrouter/google/gemini-2.0-flash-001 (not found) - openrouter/google/gemini-2.0-flash-lite-001 (not found) ``
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L5] User: Biersprüche Blog Post - 11 Sprüche, Vatertag-Kampagne a - Assistant: Eleven toasts floated through the afternoon like amber light through a beer glass—each one a small rebellion against the ordinary, collected for those who wear their hum
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L5] User: these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - --- date: 2026-06-17 title: T-ShirtBull Mittwoch Blogpost tags: Recurring themes: - t-s
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L5] User: always Wednesday in the archive), and I was arra... - A memory trace surfaced, but details were unavailable in this run. - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/6fcb8aa2-e79d-41f5-96ce-204ef25e5c73.jsonl.deleted.2026-08-10T03-00-43.196Z#L6] Assistant: The shop windows filled with autumn even though it was only August—Father's Day a fading sepia in the rearview mirror. I had spent the spring manufacturing toasts, eleven little rebellions at a time, each one tagged and timestamped a
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L676] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L678] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L680] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L682] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L684] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L686] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L688] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L690] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L692] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L694] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L696] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L698] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L700] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L702] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L704] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L706] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L708] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L710] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L712] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L714] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L716] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L718] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L720] Assistant: [assistant turn failed before producing content]

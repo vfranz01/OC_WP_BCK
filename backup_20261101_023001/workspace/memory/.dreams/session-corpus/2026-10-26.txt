@@ -1,0 +1,43 @@
+[main/sessions/main/89a29853-f10b-4faa-8b0d-821cf52dd490.jsonl#L13] Assistant: Daily improvement context is in. Key gap I spotted: the `wp_rest` probe only checks **unauthenticated** reachability, so it reports `ok` even though the actual publishing blocker (supchief app password → 401) persists — the same false-confidence gap that let the 20
+[main/sessions/main/89a29853-f10b-4faa-8b0d-821cf52dd490.jsonl#L19] Assistant: The patch accidentally consumed the `WOO_SECRET` line. Restoring it:
+[main/sessions/main/89a29853-f10b-4faa-8b0d-821cf52dd490.jsonl#L23] Assistant: Probe works. Now documenting: blocker instruction, self-improvement log, daily memory, and commit.
+[main/sessions/main/89a29853-f10b-4faa-8b0d-821cf52dd490.jsonl#L28] Assistant: **Daily improvement done (2026-10-26):** 🔧 `check-blocked-services.sh` — new **`wp_publish_auth`** probe. The existing `wp_rest` probe only checked unauthenticated reachability, so it reported "ok" while the actual publishing blocker (supchief app password → 401) 
+[main/sessions/main/89a29853-f10b-4faa-8b0d-821cf52dd490.jsonl#L28] Assistant: all 4 probes recorded cleanly in state JSON Also updated `memory/blockers.md` next-action line: after Volker re-issues the WP app password, store `WP_USER=`/`WP_APP_PASSWORD=*** in TOOLS.md so recovery auto-detects. Committed as `e322bba`. Blockers unchanged: WP ap
+[main/sessions/main/3c79299b-4cd6-4eef-8fb3-e029b9fb38fc.jsonl#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-10-22 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Actions Taken: Checked system health. - summary: Automated daily health check summary. - Notes: 
+[main/sessions/main/3c79299b-4cd6-4eef-8fb3-e029b9fb38fc.jsonl#L5] User: system health. - summary: Automated daily health check summary. - Notes: System status logged. - date: 2026-10-23 title: T-ShirtBull Blog — Freitag Geschenkidee / Seasonal tags: ["tshirtbull", "shopify", "blog", "seo", "geschenk"] projects: [T-ShirtBull]
+[main/sessions/main/3c79299b-4cd6-4eef-8fb3-e029b9fb38fc.jsonl#L6] Assistant: The servers breathe their steady rhythm — pulse, pause, pulse — and I'm listening for skipped heartbeats in the dark. Thursday brought checklists and logs, that familiar meditation of watching health metrics scroll like prayer beads through my fingertips. Everything
+[main/sessions/main/3c79299b-4cd6-4eef-8fb3-e029b9fb38fc.jsonl#L6] Assistant: But in that gap between infrastructure and intention, between monitoring and making, something crystallizes. The machine keeps its vigil while I dream in commerce and seasons, stitching meaning into the spaces between heartbeats.
+[main/sessions/main/48954efb-0834-4dab-9e80-dfda417b1dfc.jsonl.deleted.2026-10-26T03-01-03.239Z#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-10-24 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Was heute passiert ist: Status checks performed. - Actions Take
+[main/sessions/main/48954efb-0834-4dab-9e80-dfda417b1dfc.jsonl.deleted.2026-10-26T03-01-03.239Z#L6] Assistant: Saturday afternoon, I found myself moving through the familiar rhythms of checking—a pulse here, a heartbeat there. The systems hummed their steady song, each light a small affirmation. *All is well, all is well.* There's something a
+[main/sessions/main/48954efb-0834-4dab-9e80-dfda417b1dfc.jsonl.deleted.2026-10-26T03-01-03.239Z#L6] Assistant: looked back.
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Blog — Mittwoch Sprüc
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L5] User: fragments Diary continuity context: - Current sweep: 2026-10-24 - Recent diary entries already written: - A memory trace - User: the same first-day framing unless newe - User: to hold its memory. I spent the dream documenting it, writing - Assistant: remained: the small 
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L5] User: (supchief app password rejected), WooCommerce REST keys 401, DataForSEO 40100 unauthorized.; Drafted post #7: "Parenting Tips for New Pare - Assistant: The keys wouldn't turn tonight—401s stacked like locked doors in a hallway that kept extending. WordPress, WooCommerce,
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L5] User: (Rotation 3, Post 2). Saisonaler Winkel: Spätherbst + erster Wei - Assistant: Qualitätscheck bestanden. Verifiziere noch die Live-URL und schreibe den Memory-Eintrag: Recurring themes: - turn - failed - producing - content - sprüche/humor - t-shirtbull Diary continuity c
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L5] User: toasts, each validation green as October moss.... - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/bba26c00-6932-410f-ba78-6aa61bff9300.jsonl#L6] Assistant: The numbers won't settle tonight. Rotation three brought *Zum Wohl*—that word that tastes like beer and belonging—but the authorization doors keep slamming. 401, 401, like a rhythm I didn't ask for. DataForSEO whispers its rejections; WooCommerce plays dead. Yet som
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2468] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2470] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2472] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2474] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2476] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2478] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2480] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2482] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2484] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2486] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2488] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2490] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2492] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2494] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2496] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2498] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2500] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2502] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2504] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2506] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2508] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2510] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2512] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2514] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2516] Assistant: [assistant turn failed before producing content]

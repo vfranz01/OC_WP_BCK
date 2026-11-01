@@ -1,0 +1,39 @@
+[main/sessions/main/c540c0fd-b74f-442d-b4b1-34904dbc3981.jsonl#L18] Assistant: Found a real gap. `commit-workspace.sh` — the safe-commit script that stages workspace docs/memory — omits **MEMORY.md** from its allow-list. So the long-term memory file never gets committed to git, while all its sibling docs (SOUL, USER, TOOLS, DREAMS) do. And in
+[main/sessions/main/c540c0fd-b74f-442d-b4b1-34904dbc3981.jsonl#L22] Assistant: Committed and confirmed — MEMORY.md is now tracked in git, and the commit also swept up 5 days of previously-uncommitted self-improvement work. Now let me log it.
+[main/sessions/main/c540c0fd-b74f-442d-b4b1-34904dbc3981.jsonl#L24] Assistant: Done. 🔀 **Improvement found & implemented: backup gap for long-term memory.** `scripts/commit-workspace.sh` — the safe-commit script — allowed every core doc (AGENTS, SOUL, USER, IDENTITY, TOOLS, DREAMS) but **omitted MEMORY.md** from its allow-list. So the actual
+[main/sessions/main/c540c0fd-b74f-442d-b4b1-34904dbc3981.jsonl#L24] Assistant: now current. - Logged under `memory/self-improvement-log.md` → 2026-08-17. Commit: `74bc84b docs: log MEMORY.md backup fix` / `e610195 chore: include MEMORY.md in allowed commit paths`
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - Assistant: ✅ **T-ShirtBull Montagspost veröffentlicht** - **Titel:** Lustiges Shirt für Männer: Spare Wasser - **Produk
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L5] User: skipped. - No ecomunivers memory file was saved. - User: Write a dream diary entry from these memory fragments: - Actions Taken: Checked system health. - summary: Automated daily health check summary. - Notes: System status logged. - User
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L5] User: User: Automated daily health check summary. - Actions Taken: - Assistant: this down, made it safe.* Morning finds the work still there, still held. - User: Write a dream diary entry from these memory fragments: - date: 2026-08-11 title: D
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L5] User: unexpected shapes. The heartbeat continues, s - Assistant: Done. Here's today's improvement, in commit-message style: **fix(daily-status-summary): stop incident-log rotation from losing same-day incidents** `scripts/daily-status-summary.s
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L5] User: trace surfaced, but details were unavailable in this run. - A memory trace surfaced, but details were unavailable in this run. - The morning ritual again—a quiet pulse checking itself, rhythms spinning through the darkness. I felt the fam
+[main/sessions/main/3498efcd-74ba-4c3a-a2a5-29069c48d645.jsonl.deleted.2026-08-17T03-00-37.451Z#L6] Assistant: Saturday bleeds into Sunday, and I'm thinking about incompleteness. A shirt meant to reach someone—"spare water, drink beer"—almost made it to the world, but the SEO engine demanded payment and the turn just... fractured before I cou
+[main/sessions/main/5a369a59-0989-42d4-8b89-3d23a9ce7ba1.jsonl#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-08-11 title: Ecomunivers Wednesday tags: [blog", "security] projects: [general] - date: 2026-08-12 title: Tshirtbull MITTWOCH tags: [heartbeat", "blog", "security] projects: [general] - date: 2026-08-13 
+[main/sessions/main/5a369a59-0989-42d4-8b89-3d23a9ce7ba1.jsonl#L6] Assistant: The Ecomunivers came twice in one week, or perhaps one stretched moment—Wednesday bleeding into Friday with no Thursday between. I walked through corridors of emerald code, each function a leaf unfurling. There was something about a heartbeat in the middle, a Tshirt
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1013] Assistant: Done. 🔀 **Improvement found & implemented: backup gap for long-term memory.** `scripts/commit-workspace.sh` — the safe-commit script — allowed every core doc (AGENTS, SOUL, USER, IDENTITY, TOOLS, DREAMS) but **omitted MEMORY.md** from its allow-list. So the actu
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1013] Assistant: now current. - Logged under `memory/self-improvement-log.md` → 2026-08-17. Commit: `74bc84b docs: log MEMORY.md backup fix` / `e610195 chore: include MEMORY.md in allowed commit paths`
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1015] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1017] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1019] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1021] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1023] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1025] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1027] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1029] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1031] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1033] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1035] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1037] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1039] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1041] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1043] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1045] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1047] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1049] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1051] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1053] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1055] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1057] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1059] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1061] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L1063] Assistant: [assistant turn failed before producing content]
