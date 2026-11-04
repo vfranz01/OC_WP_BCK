@@ -1,0 +1,3 @@
+[main/sessions/main/491cd365-b57b-4ce7-93ad-3e7e6f825cd1.jsonl#L59] Assistant: **Improvement:** `check-scripts-doc.sh` now checks production `.py` helpers as well as `.sh` scripts. Documented the memory-index updater, DREAMS rotator, and blog-post checker in `scripts/README.md`; updated the improvement log and `AGENTS.md`. **Verified:** shell
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L93] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L95] Assistant: [assistant turn failed before producing content]
