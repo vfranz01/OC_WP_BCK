@@ -1,0 +1,4 @@
+[main/sessions/main/67ac6f04-3a72-40e0-92b7-298c795875cc.jsonl#L36] Assistant: `fix(outbox): Doppelveröffentlichungen bei erneutem Lauf verhindern` - Nach erfolgreicher Veröffentlichung werden jetzt alle Formatvarianten eines Entwurfs archiviert — keine übrig gebliebene HTML-Datei wird später erneut gepostet. - Fehlerhafte Mehrfach-Entwurfsan
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L235] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L237] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L239] Assistant: [assistant turn failed before producing content]
