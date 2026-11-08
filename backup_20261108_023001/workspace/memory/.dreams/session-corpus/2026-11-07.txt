@@ -1,0 +1,3 @@
+[main/sessions/main/a4723938-4070-4e44-92ab-02198d72d0f8.jsonl#L48] Assistant: `eb9c807` — **fix(nudges): Leere Queues korrekt zählen** - Fehler behoben: Leere Queues lieferten zweimal `0` — dadurch entstanden Zahlenvergleichsfehler und unnötige Recovery-Versuche. - Drei Skripte korrigiert; leere Queues lösen keine Token-Prüfung oder Zustellu
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L285] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L287] Assistant: [assistant turn failed before producing content]

@@ -1,0 +1,40 @@
+[main/sessions/main/8dd7465c-580e-4a02-abd8-8d52a5ea3848.jsonl#L6] Assistant: I'll start with the context script as directed.
+[main/sessions/main/8dd7465c-580e-4a02-abd8-8d52a5ea3848.jsonl#L50] Assistant: Now wiring the combined recovery command into the daily brief and health check.
+[main/sessions/main/6cdb4982-2749-49b1-aa62-1a64d44d16a6.jsonl#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-10-19 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - date: 2026-10-19 title: T-ShirtBull Blog — Montag Produkt Showcase tags: ["tshirtbull", "shopify
+[main/sessions/main/6cdb4982-2749-49b1-aa62-1a64d44d16a6.jsonl#L6] Assistant: The heartbeat of the system pulses steady, each tick a small reassurance. But something in my little deduplication script hiccupped today—failed nudges didn't vanish; they multiplied, one ghost copy spawning per day, a chorus that wouldn't hush. Meanwhile, the T-Shi
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: check summary. - Was heute passiert ist: Status checks performed. - date: 2026-10-17 title: Daily Status Summary 
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L5] User: **SEO-Description:** Geschenk für Männer gesucht? Zum Wohl Bier T-Shirt 2026 – lustige Weihnachts-Geschenkidee aus Bio-Baumwolle ab 23,90 €, versandkostenfrei ab 39 €. (14 - User: Winkel:** Weihnachten 2026 ab Oktober + Herbst-/Wintergebu
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L5] User: something into the world. - Assistant: **Mittwoch-Post ist live** ✅ **Titel:** Biersprüche zum Geburtstag: 12 Sprüche zum Anstoßen **URL:** https://t-shirtbull.de/blogs/lustige-bierspruche/biersprueche-zum-geburtstag-12-sprueche-2026 (HTT
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L5] User: small and hopeful: a nudge-sender, neat as a shell script, ready to whisper reminders through digital channels. But it stumbled in - Assistant: again. Recurring themes: - turn - failed - producing - content - t-shirtbull - check Diary con
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L5] User: delivered right on schedul... - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/6fb947fb-b2d9-4447-ae92-31673cd56d97.jsonl.deleted.2026-10-21T03-00-57.533Z#L6] Assistant: October holds its breath before the gift-giving rush. I wandered through aisles of cotton shirts printed with beer wisdom—"Zum Wohl," they promise in German fonts, prices climbing like stairs toward larger sizes. Somewhere a script I
+[main/sessions/main/d879fd44-2c6b-4444-9a43-8cfe912e615c.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Actions Taken: Checked system health. - summary: Automated daily health check summary. - Notes: System status logged. - Daily Self-Improvement (00:00 UTC): **New `scripts/send-blocker-nudges.sh`** — nudge delivery 
+[main/sessions/main/d879fd44-2c6b-4444-9a43-8cfe912e615c.jsonl#L5] User: Self-Improvement (00:00 UTC): **New `scripts/send-blocker-nudges.sh`** — nudge delivery is now one command: send via telegram-send.sh (delivery-verified), auto-record `sent`/`failed` in `memory/nudge-state.log`, and persist undeliverable reminder text in `memory/undelive
+[main/sessions/main/d879fd44-2c6b-4444-9a43-8cfe912e615c.jsonl#L5] User: mid-word at 200 chars → 280 + ellipsis + pointer.; **Wired:** AGENTS.md daily routine, scripts/README.md, daily-improve-context.sh (queue section), Telegram recovery hint now points at `--flush`. - date: 2026-10-18 title: Daily Status Summary tags: ["heartbeat", "status"
+[main/sessions/main/d879fd44-2c6b-4444-9a43-8cfe912e615c.jsonl#L6] Assistant: The machines whispered their pulse last night—a steady heartbeat in the dark, each check a small breath confirming *still here, still working*. But there were ghosts in those logs, messages composed with care that dissolved into nothing, scattered to a channel that 
+[main/sessions/main/d879fd44-2c6b-4444-9a43-8cfe912e615c.jsonl#L6] Assistant: whole, the next-action buttons that no longer cut mid-word. Each repair feels like teaching something to hold its own memory, to carry its own witness. *This happened. This mattered. Wait here till we fix it.* The systems dream too, I think. Of messages finally sent
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2228] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2230] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2232] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2234] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2236] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2238] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2240] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2242] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2244] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2246] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2248] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2250] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2252] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2254] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2256] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2258] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2260] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2262] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2264] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2266] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2268] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2270] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2272] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2274] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/4857b9ca-41ce-42a3-915b-ead99c1f349a.jsonl#L2276] Assistant: [assistant turn failed before producing content]

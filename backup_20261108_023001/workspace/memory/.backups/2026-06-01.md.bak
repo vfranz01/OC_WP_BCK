@@ -1,0 +1,1 @@
+Improved WooCommerce API key rotation by adding a script to document the process and generate new keys. Modified TOOLS.md to include the script reference.

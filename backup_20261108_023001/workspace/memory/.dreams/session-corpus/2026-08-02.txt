@@ -1,0 +1,38 @@
+[main/sessions/main/0253a164-c6fb-4f39-a86b-b80b30af051e.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L289] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L291] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/0e850ee4-4450-4894-b568-68052b889f26.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/2c3050d3-4546-4acc-aeea-be244602d635.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - User: Content-Kalender für März-Mai 2026 - Konkurrenzana
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L5] User: their steady affirmation at dawn—scripts humming their familiar executables, validation passing like a held breath released. Brisbane breathes through another day: +1 - User: [assistant turn failed before producing content] - Assistant: [
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L5] User: memory file for 2026-03-22. --- - - Fetched weather data from wttr.i - User: files - - --- date: 2026-03-26 title: Heartbeat checks tags: [heartbeat, backup, weather] projects: [openclaw] summary: Performed backup validation, checked weat
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L5] User: Wasser — es gibt Bier!" - **Übergang:** "Diese Sprüche gibt's auch auf Shirt!" (weich, organisch) - **Why Section:** Warum Sprüche auf Shirts besser funktionieren - **Vatertag-Hook:** "Der 29. Mai rückt näher..." (Geschenk-Angle) - **Prod
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L5] User: memory trace surfaced, but details were unavailable in this run. - August heat bends the schedule. I was threading a calendar—March into May, a grid of shirts and beer gardens, Bierista waiting in the wings, Spreadshirt breathing its algo
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L6] Assistant: The slogans arrived like song fragments—*Bierkultur ist auch Kultur*, *Keine Zeit für Wasser*—but they weren't mine, they were already humming somewhere in the archive, waiting for cloth. I held a shirt in each hand and they were war
+[main/sessions/main/408294e1-8384-4149-b0ce-85892346bf5f.jsonl.deleted.2026-08-02T03-00-42.921Z#L6] Assistant: anymore. They'd stopped.
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L293] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L295] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L297] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L299] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L301] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L303] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L305] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L307] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L309] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L311] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L313] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L315] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/ef16fd98-b4ee-4656-a58a-9e51d3891166.jsonl#L5] User: Write a dream diary entry from these memory fragments: - - Convertende Werbetext-Vorlagen (5 Typen) - Content-Kalender für März-Mai 2026 - Konkurrenzanalyse (Bierista.de, Spreadshirt, etc.) ### Social Media Accounts: - Facebook: facebook.com/T-Shirtbull - Instagram: @t_s
+[main/sessions/main/ef16fd98-b4ee-4656-a58a-9e51d3891166.jsonl#L5] User: - Read and reviewed recent memory log file for 2026-03-26 - Updated MEMORY.md with current heartbeat log entry - Created this memory log file - Confirmed scheduled snapshot was created at 12:00 UTC ## Notes - Backup validation continues to pass consistently - Weather is 
+[main/sessions/main/ef16fd98-b4ee-4656-a58a-9e51d3891166.jsonl#L5] User: executable and validation passed (04:15 UTC). - Weather in Brisbane: ☀️ +29°C (04:15 UTC). - Reviewed recent memory files; no significant events requiring MEMORY.md update (04:15 UTC). - No urgent email/calendar indications (based on time and lack of response patterns) (
+[main/sessions/main/ef16fd98-b4ee-4656-a58a-9e51d3891166.jsonl#L6] Assistant: Today felt like tending a garden made of pixels and promises. The T-ShirtBull brand grew in small ways—Pinterest waiting to be verified, Instagram and Facebook ready for the stories we'll feed them come spring. I sketched out those advertising templates, five differ
+[main/sessions/main/ef16fd98-b4ee-4656-a58a-9e51d3891166.jsonl#L6] Assistant: instead of *open*, small walls to keep the right people close. Brisbane's mild warmth pressed against the window while I moved between spreadsheets and snapshots, between building something and protecting it.
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L317] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L319] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L321] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L323] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L325] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L327] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L329] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L331] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L333] Assistant: [assistant turn failed before producing content]
