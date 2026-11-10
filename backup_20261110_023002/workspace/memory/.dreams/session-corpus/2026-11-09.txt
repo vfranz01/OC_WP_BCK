@@ -1,0 +1,4 @@
+[main/sessions/main/ca043914-11a1-470b-9713-20cf5bc0ab3e.jsonl#L49] Assistant: fix(telegram): Benachrichtigungen werden jetzt auch bei fehlendem Token in die Warteschlange gestellt. Fehler beim Speichern werden ausdrücklich gemeldet. 19 Tests bestanden. HEARTBEAT.md blieb unverändert.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L379] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L381] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L383] Assistant: [assistant turn failed before producing content]
