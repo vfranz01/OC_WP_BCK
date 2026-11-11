@@ -1,0 +1,3 @@
+[main/sessions/main/3dbfe5c8-6cc1-4677-8465-a3e01681314e.jsonl#L32] Assistant: fix(security): WooCommerce-Rotationshelfer abgesichert - Keine nutzlosen Zufallsschlüssel und kein falsches Zurücksetzen des Rotationsdatums mehr. - Stattdessen klare Anleitung für echte Schlüsselrotation in WooCommerce. - Dokumentation korrigiert; vier Sicherheits
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L429] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L431] Assistant: [assistant turn failed before producing content]
