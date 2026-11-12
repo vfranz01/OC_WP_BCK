@@ -1,4 +1,0 @@
-[main/sessions/main/51b8e7d9-42b5-40f6-8f77-095eb863ce61.jsonl#L43] Assistant: `fix: preserve blocked-service status duration` Updated `check-blocked-services.sh` to keep each service’s `since` timestamp while its status is unchanged, resetting it only on a status change. Documented and logged the improvement. Verified with `bash -n`, status-
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L43] Assistant: [assistant turn failed before producing content]
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L45] Assistant: [assistant turn failed before producing content]
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L47] Assistant: [assistant turn failed before producing content]
