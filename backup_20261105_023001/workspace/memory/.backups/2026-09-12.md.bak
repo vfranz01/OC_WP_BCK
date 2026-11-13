@@ -1,5 +1,0 @@
-
-## Daily Self-Improvement (2026-09-12)
-- **Automatisierungs-Lücke gefunden:** Daily 02:30-UTC-Snapshot lief NIE (Host-Cron nie voll installiert). Maskiert durch self-masking loop: Jeder Health-Check erzeugte selbst einen "Critical rules validation"-Snapshot → Check immer grün.
-- **Fix:** `health-quick-check.sh` Check #9 — akzeptiert nur `daily_auto_snapshot`-labelte Snapshots ≤26h; `snapshot_log.sh` loggt jetzt das Label. Details in `memory/self-improvement-log.md`.
-- **Offen:** Daily-Job muss installiert werden — cron-Tool in Cron-Sessions gesperrt, Host-Crontab außerhalb der Container-Reichweite. Zwei Optionen stehen im Log. Health-Check flaggt es bis dahin bei jedem Lauf.

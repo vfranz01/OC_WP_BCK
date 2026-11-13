@@ -1,0 +1,3 @@
+[main/sessions/main/005cec4d-d55c-43a3-87cd-dd43da173b67.jsonl#L115] Assistant: **fix(test-isolation):** Ein Test hatte die echte Blocker-Datei, die Erinnerungshistorie und eine ausstehende Erinnerung überschrieben. Ich habe alle drei aus Git wiederhergestellt und die Testdaten archiviert. Eine falsche Testbenachrichtigung wurde entfernt; die
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L525] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L527] Assistant: [assistant turn failed before producing content]

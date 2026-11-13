@@ -1,0 +1,39 @@
+#!/bin/bash
+# Test: send-blocker-nudges.sh --flush with multiline bodies
+
+set -uo pipefail
+WORKSPACE_DIR="/home/node/.openclaw/workspace"
+QUEUE="$WORKSPACE_DIR/memory/undelivered-nudges.md"
+ARCHIVE="$WORKSPACE_DIR/memory/undelivered-nudges-archive.md"
+STATE="$WORKSPACE_DIR/memory/nudge-state.log"
+
+# Clean slate
+rm -f "$QUEUE" "$ARCHIVE" "$STATE"
+mkdir -p "$(dirname "$QUEUE")"
+touch "$STATE"
+
+# Create a queue with a MULTILINE body (the risky part)
+cat > "$QUEUE" <<'QEOF'
+<!-- undelivered-nudges.md — reminders whose delivery FAILED.
+     Written by scripts/send-blocker-nudges.sh. Do not hand-edit entries.
+     Flush after Telegram is restored: bash scripts/send-blocker-nudges.sh --flush -->
+
+## 2026-11-08 10:00 UTC — First blocker
+First message line 1
+First message line 2
+This is a long multiline message that should NOT be split
+when parsed from TSV format
+
+## 2026-11-08 11:00 UTC — Second blocker
+Second message line 1
+Second message line 2
+
+QEOF
+
+echo "Queue entries:"
+grep '^## ' "$QUEUE"
+
+echo
+echo "Testing --flush dry run (show what would be parsed)..."
+bash "$WORKSPACE_DIR/scripts/send-blocker-nudges.sh" --flush 2>&1 | head -20
+
