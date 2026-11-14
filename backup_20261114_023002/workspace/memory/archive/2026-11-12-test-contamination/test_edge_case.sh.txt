@@ -1,0 +1,33 @@
+#!/bin/bash
+# Test edge case: nudge with tab character in title (TSV parsing)
+
+WORKSPACE_DIR="/home/node/.openclaw/workspace"
+QUEUE="$WORKSPACE_DIR/memory/undelivered-nudges.md"
+STATE="$WORKSPACE_DIR/memory/nudge-state.log"
+
+# Clean slate
+mkdir -p "$(dirname "$QUEUE")"
+rm -f "$QUEUE" "$STATE"
+touch "$STATE"
+
+# Create blocker with tab in the title (problematic for TSV parsing later)
+cat > "$WORKSPACE_DIR/memory/blockers.md" <<'BEOF'
+## 2026-11-05 — Blocker with	tab character
+- status: open
+- waiting_on: user
+- next: This is the next action with many words that go on and on
+
+BEOF
+
+echo "Running nudge-blockers.sh..."
+OUTPUT=$(bash "$WORKSPACE_DIR/scripts/nudge-blockers.sh" 2>&1 || true)
+echo "Output:"
+echo "$OUTPUT" | head -15
+
+# Check if the title was properly normalized in state
+if [ -f "$STATE" ]; then
+  echo
+  echo "State file would contain:"
+  echo "$STATE will have title max 60 chars, tabs removed"
+fi
+

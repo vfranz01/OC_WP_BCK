@@ -1,0 +1,59 @@
+#!/bin/bash
+# Test the nudge parsing in send-blocker-nudges.sh
+
+WORKSPACE_DIR="/home/node/.openclaw/workspace"
+NUDGE="$WORKSPACE_DIR/scripts/nudge-blockers.sh"
+
+# Create a test blockers.md with a multiline "next:" field
+mkdir -p "$WORKSPACE_DIR/memory"
+cat > "$WORKSPACE_DIR/memory/blockers.md" <<'BEOF'
+## 2026-11-05 — WP token needs refresh
+- status: open
+- waiting_on: user
+- next: Contact Volker to run WP admin > Users > Profile > Application Passwords and regenerate the app password
+
+## 2026-11-06 — CloudFlare SSL downgrade needed
+- status: open
+- waiting_on: user
+- next: Tell Volker to check Cloudflare SSL settings and consider downgrading from Full (strict) to Full to allow cleartext internal connections
+
+BEOF
+
+echo "Running nudge-blockers.sh to collect nudges..."
+BLOCKS=$(bash "$NUDGE" 2>/dev/null | awk '
+  function keyof(line) { k=line; sub(/^## [^—]*—[[:space:]]*/, "", k); return k }
+  /^## / {
+    if (n > 0) { blocks[n]=buf; keys[n]=key }
+    n++; buf=$0 "\n"; key=keyof($0); next
+  }
+  { if (n == 0) pre = pre $0 "\n"; else buf = buf $0 "\n" }
+  END {
+    if (n > 0) { blocks[n]=buf; keys[n]=key }
+    for (i=1; i<=n; i++) last[keys[i]]=i
+    printf "%s", pre
+    for (i=1; i<=n; i++) if (last[keys[i]] == i) printf "%s", blocks[i]
+  }
+' | awk '
+    function emit() { if (title != "") print "###NUDGE###\t" title "\t" msg ; title=""; msg="" }
+    /^── NUDGE /            { emit(); inblock=1; next }
+    inblock && /^── /      { emit(); inblock=0; next }
+    inblock && /^TO: /     { next }
+    inblock && /^MSG: /    { msg=substr($0,6); title=msg; sub(/^.*open \([0-9]+h\):[[:space:]]*/,"",title); next }
+    inblock && /^[[:space:]]+[^[:space:]]/ { gsub(/^[[:space:]]+/,"",$0); msg=msg "\x1f" $0; next }
+    END { emit() }
+  ')
+
+echo "Parsed nudges (raw):"
+echo "$BLOCKS" | cat -A
+
+echo
+echo "Testing TSV parsing with unit separator in message body:"
+while IFS=$'\t' read -r _marker title msg; do
+  echo "  Marker: [$_marker]"
+  echo "  Title:  [$title]"
+  echo "  Msg (raw): $(printf '%s' "$msg" | od -c | head -c 80)"
+  msg=$(printf '%s' "$msg" | tr '\037' '\n')
+  echo "  Msg (reconstructed lines):"
+  printf '%s\n' "$msg" | sed 's/^/    > /'
+done <<< "$BLOCKS"
+
