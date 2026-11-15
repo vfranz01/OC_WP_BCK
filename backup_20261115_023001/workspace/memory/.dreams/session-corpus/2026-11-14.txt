@@ -1,0 +1,3 @@
+[main/sessions/main/cf5bd908-e66b-44eb-95c9-0de2fc41d29a.jsonl#L38] Assistant: **fix(daily-context):** Datumsfilter zeigt Verbesserungen jetzt auch nach dem Jahreswechsel an. Sechs isolierte Tests bestanden; `HEARTBEAT.md` blieb unverändert.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L621] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L623] Assistant: [assistant turn failed before producing content]
