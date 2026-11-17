@@ -1,0 +1,25 @@
+#!/bin/bash
+# Test send-blocker-nudges.sh --flush with a valid queue
+
+WORKSPACE_DIR="/home/node/.openclaw/workspace"
+QUEUE="$WORKSPACE_DIR/memory/undelivered-nudges.md"
+
+# Create a test queue with sample entries
+cat > "$QUEUE" <<'QEOF'
+<!-- undelivered-nudges.md — reminders whose delivery FAILED.
+     Written by scripts/send-blocker-nudges.sh. Do not hand-edit entries.
+     Flush after Telegram is restored: bash scripts/send-blocker-nudges.sh --flush -->
+
+## 2026-11-08 10:00 UTC — 2026-11-05 — WP auth token expired
+Test message 1
+
+## 2026-11-08 11:00 UTC — 2026-11-05 — WP auth token expired
+Test message 1 duplicate
+
+QEOF
+
+echo "Queue created with $(grep -c '^## ' "$QUEUE") entries"
+echo "Running dedup..."
+bash "$WORKSPACE_DIR/scripts/send-blocker-nudges.sh" --dedupe
+echo "After dedup: $(grep -c '^## ' "$QUEUE") entries"
+
