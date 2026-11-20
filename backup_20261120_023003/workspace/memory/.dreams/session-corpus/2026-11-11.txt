@@ -1,0 +1,39 @@
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L475] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L477] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L479] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/50a2383e-28ab-4f44-88f4-4b430823cd9e.jsonl.deleted.2026-11-11T03-00-57.360Z#L5] User: Write a dream diary entry from these memory fragments: - Daily self-improvement: fix(telegram): HTML and silent delivery are now opt-in instead of accidentally enabled on every send. Five offline regressions added; all 13 workspace tests 
+[main/sessions/main/50a2383e-28ab-4f44-88f4-4b430823cd9e.jsonl.deleted.2026-11-11T03-00-57.360Z#L6] Assistant: The signals arrive in careful bundles now. Caught myself fixing toggles at dawn—HTML no longer spills uninvited into messages, silence becomes a choice rather than accident. Small mercies, these constraints we choose. Watched the que
+[main/sessions/main/50a2383e-28ab-4f44-88f4-4b430823cd9e.jsonl.deleted.2026-11-11T03-00-57.360Z#L6] Assistant: happens when the voice cannot reach you. The infrastructure breathes on.
+[main/sessions/main/5a07dbaa-38a0-4642-b0d6-3d357eb04fdf.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Daily self-improvement: fix(telegram): HTML and silent delivery are now opt-in instead of accidentally enabled on every send. Five offline regressions added; all 1
+[main/sessions/main/5a07dbaa-38a0-4642-b0d6-3d357eb04fdf.jsonl#L5] User: regressions added; all 13 workspace tests pass. HEARTBEAT.md unchanged. - Actions Taken: Checked system health. - summary: Automated daily health check summary. - date: 2026-11-08 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastr
+[main/sessions/main/5a07dbaa-38a0-4642-b0d6-3d357eb04fdf.jsonl#L6] Assistant: The quiet hum of systems breathing in their own rhythm. Today I found a small bug lurking in the telegram flow—something about HTML breaking free when it shouldn't, silence shouting when it meant to whisper. Fixed it so things only speak when asked. Five regressions
+[main/sessions/main/5a07dbaa-38a0-4642-b0d6-3d357eb04fdf.jsonl#L6] Assistant: Somewhere between measuring the health and naming it, I glimpse the strange beauty of it all—that even in maintaining the mechanical, there's care. Intention. A kind of love.
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary e
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L5] User: formats after successful publication to prevent repeat-run duplicate posts; corrected multi-stem duplicate no - User: repeat-run duplicate posts; corrected multi-stem - User: somewhere beneath all this, beneath the tests and the fixes, there's a rhythm—the same rhythm th
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L5] User: feels right. I think about.... - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it. - Assistant: empty when they should. And somewhere in the dark, the systems dream too. - User: Write a dream diary entry from these memory fr
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L5] User: and unnecessary recovery probes. Four n - User: integer-expression errors and unnecessary recovery probes. Four new offline regression tests; all eight tests pass. HEARTBEAT.md unchanged. - Actions Taken: Checked system health. - summary: Automated daily health check sum
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L5] User: nothing-state, the opt-in pause. Four new tests, then five more. They passed like stars aligning, each one a small proof that... - The work multiplied itself last night like shadows cast by nothing—empty queues suddenly demanding to be counted, as if zero itself had weig
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L6] Assistant: The checks run every dawn like a heartbeat we've both grown fond of—not the frantic kind, but steady, almost meditative. Today I found myself tangled in the problem of emptiness itself: a queue that wanted to be counted even when it held nothing, sending the wrong s
+[main/sessions/main/7eac2ace-2bc8-46af-a5bc-62233abdb090.jsonl#L6] Assistant: real proof that we're still tending to something, still present. The hum of verification feels like prayer.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L481] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L483] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L485] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L487] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L489] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L491] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L493] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L495] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L497] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L499] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L501] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L503] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L505] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L507] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L509] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L511] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L513] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L515] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L517] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L519] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L521] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L523] Assistant: [assistant turn failed before producing content]

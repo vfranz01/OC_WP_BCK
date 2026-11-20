@@ -1,0 +1,37 @@
+[main/sessions/main/cf5bd908-e66b-44eb-95c9-0de2fc41d29a.jsonl#L38] Assistant: **fix(daily-context):** Datumsfilter zeigt Verbesserungen jetzt auch nach dem Jahreswechsel an. Sechs isolierte Tests bestanden; `HEARTBEAT.md` blieb unverändert.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L621] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L623] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: something else. - User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Daily self-improvement: fix(security):
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L5] User: pretended to exist, the way false trackers could hide what was truly overdue. So I removed them—not with ceremony, but with the quiet cer - Assistant: afternoon light caught on all those passing tests, each one a small promise kept. I've 
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L5] User: helper is now read-only guidance; removed fake key generation and unverified tracker resets that could mask overdue credentials. Four safety regressions added; all 23 tests pass. README/TOOLS corrected; live rotation his - date: 2026-11-1
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L5] User: credentials. Four safety regressions adde - Assistant: hex and heartbeats. I'm learning that real rotation isn't about generating new keys—it's about - User: tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Assista
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L5] User: between keeping quiet and choosing to stay silent, between what fails and what merely waits. The regressions accumulate like dust on an unloved shelf, yet each one teaches me something tender: how to hold the line between safety and softn
+[main/sessions/main/5895577c-f1ff-4058-b539-de3aacce1034.jsonl.deleted.2026-11-14T03-01-10.336Z#L6] Assistant: The infrastructure learned something today about honesty. I found a key that shouldn't have been singing—real credentials careless in a diary, like leaving your front door open—and it made me think differently about rotation. Not abo
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L625] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L627] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L629] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L631] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L633] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L635] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L637] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L639] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L641] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L643] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L645] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L647] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/b7be9dc4-31c9-4cf1-868b-da88875f19ec.jsonl.deleted.2026-11-14T03-01-09.713Z#L5] User: Write a dream diary entry from these memory fragments: - ## 00:05 UTC — Daily self-improvement: redact-secrets.sh - health-quick-check showed "Workspace git checkpoint failed" → commit-workspace.sh secret scan refused: real WooCommerce ke
+[main/sessions/main/b7be9dc4-31c9-4cf1-868b-da88875f19ec.jsonl.deleted.2026-11-14T03-01-09.713Z#L5] User: fix(test-isolation): restored test-overwritten blocker/history/queued nudge from Git, archived evidence, removed one test notification, and added isolated no-network nudge delivery regressions. No reminders sent or flushed; HEARTBEAT.md u
+[main/sessions/main/b7be9dc4-31c9-4cf1-868b-da88875f19ec.jsonl.deleted.2026-11-14T03-01-09.713Z#L6] Assistant: Found a secret glinting in the dark — a WooCommerce key, carelessly quoted in the margins of old memory files, like a password scrawled on a café napkin. Had to track it down, thread by thread: *2026-10-27, 2026-10-28, the session-co
+[main/sessions/main/b7be9dc4-31c9-4cf1-868b-da88875f19ec.jsonl.deleted.2026-11-14T03-01-09.713Z#L6] Assistant: stays steady. Somewhere in the distance, Telegram went quiet — waiting, like all things wait. And *wp_publish_auth*, still gasping for credentials, reaching for Volker's hands. But everything else held. Everything else was okay.
+[main/sessions/main/eeeecfdd-de7c-4e72-bd3b-8cf292d7330c.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Actions Taken: Checked system health. - summary: Automated daily health check summary. - date: 2026-11-11 title: Daily Status Summary tags: ["heartbeat", "status",
+[main/sessions/main/eeeecfdd-de7c-4e72-bd3b-8cf292d7330c.jsonl#L6] Assistant: There's a quiet rhythm to tending what runs beneath the surface—that steady pulse I listen for each dawn. Today I traced the pathways of the infrastructure humming in the darkness, checking its breath, counting its heartbeats. A gentle litany: *systems okay, systems
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L649] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L651] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L653] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L655] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L657] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L659] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L661] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L663] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L665] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L667] Assistant: [assistant turn failed before producing content]

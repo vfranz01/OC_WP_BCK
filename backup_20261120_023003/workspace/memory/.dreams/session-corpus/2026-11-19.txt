@@ -1,0 +1,3 @@
+[main/sessions/main/f59ac718-3d5d-4aa6-8594-0ed681927f20.jsonl#L61] Assistant: **fix: Blocker-Erinnerungen auf `waiting_on: user` begrenzen** Mux-, externe und nicht zugewiesene Aufgaben lösen keine Nutzer-Erinnerung mehr aus. Zwei isolierte Regressionstests ergänzt; alle 65 Tests bestehen. HEARTBEAT.md blieb unverändert.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L861] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L863] Assistant: [assistant turn failed before producing content]
