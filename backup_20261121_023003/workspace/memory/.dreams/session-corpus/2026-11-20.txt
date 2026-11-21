@@ -1,0 +1,4 @@
+[main/sessions/main/57ad554e-419c-4bd2-886e-f73c76a8715c.jsonl#L36] Assistant: `fix(daily-context): show why health checks failed` The daily brief now keeps the reason under each warning—for example, how overdue the WooCommerce key rotation is—and no longer drops late escalations. If the health check exits without a recognizable warning, the 
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L907] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L909] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L911] Assistant: [assistant turn failed before producing content]
