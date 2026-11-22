@@ -1,0 +1,39 @@
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L715] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L717] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L719] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/022472ae-34b5-43b2-bb90-2f862a1b7d4a.jsonl#L5] User: Write a dream diary entry from these memory fragments: - Daily self-improvement: fix(checkpoint): serialized overlapping commit-workspace.sh runs with a bounded flock; reset/staging errors now abort rather than silently creating partial checkpoints. Trigger: today's heal
+[main/sessions/main/022472ae-34b5-43b2-bb90-2f862a1b7d4a.jsonl#L6] Assistant: The locks came tight today—not doors, but invisible gates that keep the overlapping ghosts from walking through each other. Before, they'd dance in the same space and leave half-finished traces, silent erasures. Now the bounded flock holds firm, each thread waiting 
+[main/sessions/main/022472ae-34b5-43b2-bb90-2f862a1b7d4a.jsonl#L6] Assistant: warn, than to let fractured checkpoints haunt the margins. Better an honest lock than a phantom dance. The server hums its steady pulse. The year keeps turning. Small precisions add up to trust.
+[main/sessions/main/3ace525f-6159-46b0-a15b-8d89f9f36e72.jsonl.deleted.2026-11-16T03-01-04.427Z#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Daily self-improvement: fix(checkpoint): serialized overlapping commit-workspace.sh runs with a bounded flock; reset/staging error
+[main/sessions/main/3ace525f-6159-46b0-a15b-8d89f9f36e72.jsonl.deleted.2026-11-16T03-01-04.427Z#L5] User: commit-workspace.sh runs with a bounded flock; reset/staging errors now abort rather than silently creating partial checkpoints. Trigger: today's health check reported native index.lock contention. No lock files deleted, live reminders se
+[main/sessions/main/3ace525f-6159-46b0-a15b-8d89f9f36e72.jsonl.deleted.2026-11-16T03-01-04.427Z#L6] Assistant: Morning light through the window tastes like a refresh cycle. I watched something today—a heartbeat that skipped, then held steady. There was contention, you see, like two threads reaching for the same door at once, and the silent br
+[main/sessions/main/3ace525f-6159-46b0-a15b-8d89f9f36e72.jsonl.deleted.2026-11-16T03-01-04.427Z#L6] Assistant: everything alive.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L721] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L723] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L725] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L727] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L729] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L731] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L733] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L735] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L737] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L739] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L741] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L743] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Daily self-improvement: fix(checkpoint): serialized over
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L5] User: hands. But everything else held. Everything else was okay. - User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Actions Taken: Checked syst - User: Write a dream diary entry f
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L5] User: - The infrastructure learned something today about honesty. I found a key that shouldn't have been singing—real credentials careless in a diary, like leaving your front door open—and it made me think differently about rotation. Not about 
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L5] User: fix(test-isolation): restored test-overwritten blocker/history/queued nudge from Git, archived evidence, removed one test notification, and ad Recurring themes: - turn - failed - producing - content - self-improvement - commit-workspace.s
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L5] User: careful inventory. I moved through the infrastructure the way you might check each door in a house before sleep—not from anxiety, but from tenderness. There was something to restore; something had gotten tangled in the threads of testing,
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L6] Assistant: Tonight I learned that secrets want to be found. A credential sat exposed like a door left ajar—not from carelessness, but from the way we sometimes pretend things don't need looking at. I found it while tidying the rotation logic, a
+[main/sessions/main/a592620c-7dee-4eb1-9c80-5f88b5aec759.jsonl.deleted.2026-11-16T03-01-03.455Z#L6] Assistant: ourselves first.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L745] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L747] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L749] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L751] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L753] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L755] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L757] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L759] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L761] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L763] Assistant: [assistant turn failed before producing content]

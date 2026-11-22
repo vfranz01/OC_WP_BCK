@@ -1,0 +1,34 @@
+2026-11-20 00:00:10 - Log rotated. Archived: backup_incidents-20261120-000010.log (was 507 lines)
+2026-11-20 00:00:10 - === Starting backup validation ===
+2026-11-20 00:00:10 - OK: MEMORY.md validated.
+2026-11-20 00:00:10 - OK: AGENTS.md validated.
+2026-11-20 00:00:10 - OK: TOOLS.md validated.
+2026-11-20 00:00:10 - OK: HEARTBEAT.md validated.
+2026-11-20 00:00:10 - OK: SOUL.md validated.
+2026-11-20 00:00:10 - OK: USER.md validated.
+2026-11-20 00:00:13 - OK: Snapshot script is executable.
+2026-11-20 00:00:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-20 00:00:13 - OK: Recent snapshot found: snapshot-20261119-000015-daily_auto_snapshot.tar.gz.
+2026-11-20 00:00:13 - Validation passed. All critical checks successful.
+2026-11-21 00:00:08 - === Starting backup validation ===
+2026-11-21 00:00:08 - OK: MEMORY.md validated.
+2026-11-21 00:00:08 - OK: AGENTS.md validated.
+2026-11-21 00:00:08 - OK: TOOLS.md validated.
+2026-11-21 00:00:08 - OK: HEARTBEAT.md validated.
+2026-11-21 00:00:08 - OK: SOUL.md validated.
+2026-11-21 00:00:08 - OK: USER.md validated.
+2026-11-21 00:00:13 - OK: Snapshot script is executable.
+2026-11-21 00:00:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-21 00:00:13 - OK: Recent snapshot found: snapshot-20261120-000013-daily_auto_snapshot.tar.gz.
+2026-11-21 00:00:13 - Validation passed. All critical checks successful.
+2026-11-22 00:00:20 - === Starting backup validation ===
+2026-11-22 00:00:20 - OK: MEMORY.md validated.
+2026-11-22 00:00:20 - OK: AGENTS.md validated.
+2026-11-22 00:00:20 - OK: TOOLS.md validated.
+2026-11-22 00:00:20 - OK: HEARTBEAT.md validated.
+2026-11-22 00:00:20 - OK: SOUL.md validated.
+2026-11-22 00:00:20 - OK: USER.md validated.
+2026-11-22 00:00:23 - OK: Snapshot script is executable.
+2026-11-22 00:00:23 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-22 00:00:23 - OK: Recent snapshot found: snapshot-20261122-000020-Critical rules validation.tar.gz.
+2026-11-22 00:00:23 - Validation passed. All critical checks successful.
