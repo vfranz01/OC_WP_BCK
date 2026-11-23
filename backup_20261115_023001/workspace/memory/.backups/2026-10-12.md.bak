@@ -1,7 +1,0 @@
-
-## Ecomunivers Monday post: PUBLISH BLOCKED (day 22)
-- Cron 90cc0dab Monday 23:00 UTC run. Topic "make money with digital products" (fresh — not in last 3 posts). Article fully written: 1843 words, keyword in title/H2s/meta, FAQ, 2 real product links, Forbes+HubSpot sources.
-- Publish blocked: WP REST supchief → 401 (users/me: rest_not_logged_in); WooCommerce cron+TOOLS keys → 401; Cloudflare https→http 301 persists; DataForSEO 40200.
-- NEW workaround: product data via public Store API /wp-json/wc/store/v1/products?category=39|46 (not product_cat param).
-- Post queued: outbox/eco-2026-10-12-how-to-make-money-with-digital-products.{html,json} (JSON ready: category 212, rank_math meta set).
-- Per cron rules: no ecomunivers-monday memory file written (no HTTP 201). Blockers.md updated with re-check.
