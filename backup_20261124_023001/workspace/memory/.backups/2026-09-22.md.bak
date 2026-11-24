@@ -1,0 +1,7 @@
+
+## Incident: Ecomunivers Wednesday post BLOCKED (23:00 UTC / Wed 9:00 AEST)
+- Same blocker as Mon 09-21: WP REST supchief → 401 not logged in (https + http origin); WooCommerce keys (cron ck_bf47..., TOOLS ck_ff62...) → 401 rest_cannot_view (https + http)
+- https://digital.ecomunivers.com → 301 → http:// (Cloudflare SSL/siteurl misconfig still unfixed)
+- DataForSEO: 40200 Payment Required (recurring)
+- Topic planned: "how to reduce stress naturally" (Health & Fitness) — keyword research not possible live
+- STILL NEEDED FROM VOLKER: WP application password re-issue + new WooCommerce API keys + Cloudflare SSL mode fix. No post published, no post-memory file written (per cron rules).

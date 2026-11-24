@@ -1,0 +1,7 @@
+
+## Ecomunivers Friday run (23:00 UTC Oct 29 / 09:00 AEST Oct 30) — publish FAILED, draft queued
+- Duplicate check: clean (no prior ecomunivers post today).
+- WP publish auth: still 401 rest_cannot_create (tested creds from cron prompt directly — day 40). DataForSEO 40200 out-of-credits (day 40+). Woo REST ck_bf47 keys WORK (200, orderby=popularity — note: orderby=rand rejected by this WP/Woo version, 400 rest_invalid_param).
+- Post written: "AI Tools for Productivity: 7 Ways to Get Hours Back Every Week" (1684 words, cat 212, kw "ai tools for productivity", meta desc 155 chars ok, SEO title 52 chars ok). Products: AI for Productivity $4.95 / AI-Powered Profits $29.00. Sources: McKinsey Global Institute, Stanford AI Index. FAQ x3 for snippets.
+- Queued: outbox/eco-2026-10-30-ai-tools-for-productivity.{html,json} — backlog now 11 drafts.
+- No post memory file (rule: only after HTTP 201). blockers.md updated with day-40 re-check.

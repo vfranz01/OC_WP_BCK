@@ -1,0 +1,38 @@
+[main/sessions/main/03625cd5-2c3c-4b74-bcda-11877183e237.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L95] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L97] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L99] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L101] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L103] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L105] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L107] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L109] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L111] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L113] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L115] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L117] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L119] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L121] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L123] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing conte
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L5] User: failed before producing content] - User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing cont - User: Write - Assistant: answer—just the color of something held just beyond grasp
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L5] User: Automat - User: add to MEMORY.md at this time. - **Proactive Checks**: - **Weather**: Normal in Brisbane (+28°C, partly cloudy). - **Emails/Calendar**: Not checked (limited access). - **Pending Tasks**: - **n8n Workflow Creation**: User r
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L5] User: Assistant: [assistant turn failed before producing content] - Assistant: [assistant turn failed before producing content] Recurring themes: - turn - failed - producing - content - gmx-postfach - write Diary continuity context: - Current s
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L5] User: Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L6] Assistant: The projects sprawled like autumn leaves I couldn't quite gather—WordPress gardens, Docker containers stacked like nesting dolls, email doors that wouldn't open no matter how many times I reached for the handle. *Hast du Zugriff?* be
+[main/sessions/main/997ef1ab-ea79-42e3-81b9-dd103990a1f6.jsonl.deleted.2026-07-29T03-00-36.535Z#L6] Assistant: failed into something witnessed.
+[main/sessions/main/a40193be-a9e9-4084-a5e3-664c63995e84.jsonl#L5] User: Write a dream diary entry from these memory fragments: - assistant: Backup validation passed. Good. **2. Memory Maintenance** Ich prüfe die memory files. Die letzten waren: - 2026-04-06-1830.md (Session-Protokoll vom Vortag) - 2026-04-05.md Es gibt noch keine memory/2026
+[main/sessions/main/a40193be-a9e9-4084-a5e3-664c63995e84.jsonl#L5] User: Content-Kalender für März-Mai 2026 - Konkurrenzanalyse (Bierista.de, Spreadshirt, etc.) ### Social Media Accounts: - Facebook: facebook.com/T-Shirtbull - Instagram: @t_shirtbull - Pinterest: noch prüfen ### Nächste Schritte: - Meta Business Suite Zugang prüfen - n8n Auto
+[main/sessions/main/a40193be-a9e9-4084-a5e3-664c63995e84.jsonl#L5] User: add to MEMORY.md at this time. - **Proactive Checks**: - **Weather**: Normal in Brisbane (+28°C, partly cloudy). - **Emails/Calendar**: Not checked (limited access). - **Pending Tasks**: - **n8n Workflow Creation**: User requested new workflow "Test Workflow". Awaiting f
+[main/sessions/main/a40193be-a9e9-4084-a5e3-664c63995e84.jsonl#L6] Assistant: The morning arrived in fragments: a green checkmark next to yesterday's careful archiving, files stacked like old letters in a drawer. Somewhere in Brisbane the sun warmed to 28 degrees while I traced through the quiet catalog of what was preserved, what was waiting
+[main/sessions/main/a40193be-a9e9-4084-a5e3-664c63995e84.jsonl#L6] Assistant: automation. Tasks that ask softly: what comes next? The quiet hum of systems checking themselves, validating, wondering.
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L125] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L127] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L129] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L131] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L133] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L135] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L137] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L139] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L141] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8203222a-7820-43d7-aa01-7bf567b5643b.jsonl#L143] Assistant: [assistant turn failed before producing content]

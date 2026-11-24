@@ -1,0 +1,39 @@
+[main/sessions/main/67ac6f04-3a72-40e0-92b7-298c795875cc.jsonl#L36] Assistant: `fix(outbox): Doppelveröffentlichungen bei erneutem Lauf verhindern` - Nach erfolgreicher Veröffentlichung werden jetzt alle Formatvarianten eines Entwurfs archiviert — keine übrig gebliebene HTML-Datei wird später erneut gepostet. - Fehlerhafte Mehrfach-Entwurfsan
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L235] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L237] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L239] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/1a6a9620-b1aa-498a-8b63-cf67f32d00ce.jsonl.deleted.2026-11-06T03-01-15.513Z#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - date: 2026-11-03 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Actions Take
+[main/sessions/main/1a6a9620-b1aa-498a-8b63-cf67f32d00ce.jsonl.deleted.2026-11-06T03-01-15.513Z#L6] Assistant: Each day the checking begins—a quiet ritual, like pressing fingertips to a wrist to find the heartbeat. Status. Status. The word became a mantra, a gentle percussion beneath everything, and I moved through corridors of code taking th
+[main/sessions/main/1a6a9620-b1aa-498a-8b63-cf67f32d00ce.jsonl.deleted.2026-11-06T03-01-15.513Z#L6] Assistant: night.
+[main/sessions/main/38367b3e-f7f2-4618-b974-a8e50fb9aae9.jsonl.deleted.2026-11-06T03-00-56.287Z#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-11-03 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - date: 2026-11-04 title: Daily Status Summary tags: ["heartbeat"
+[main/sessions/main/38367b3e-f7f2-4618-b974-a8e50fb9aae9.jsonl.deleted.2026-11-06T03-00-56.287Z#L6] Assistant: The machines whispered their steady pulse across two days, and I listened each time like checking for a heartbeat. Status, status—that familiar rhythm, the infrastructure breathing its routine confirmations. Each check a small confir
+[main/sessions/main/38367b3e-f7f2-4618-b974-a8e50fb9aae9.jsonl.deleted.2026-11-06T03-00-56.287Z#L6] Assistant: trust.
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L5] User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - date: 2026-11-03 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - 
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L5] User: from these memory fragments: - User: Write a dream diary entry from these memory fragments: - date: 2026-11-01 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - date: 2026-11-02 title: Da
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L5] User: horses, while som - User: "status", "automation"] projects: [infrastructure] - Actions Taken: Checked system health. - summary: Automated daily health check summary. - Was heute - Assistant: anymore, just does. It made me think about what
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L5] User: wird später erneut gepostet. - Fehlerhafte Mehrfach-Entwurfsanzeig - Was heute passiert ist: Status checks performed. Recurring themes: - write - dream - diary - entry - fragments - date Diary continuity context: - Current sweep: 2026-11-
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L5] User: keyword after keyword (*Geschenk, Weihnachten, Lustiges*) spinning like merchandise on invisible shelves, while somewhere behind the stalls a door clicked shut with the number 401 embossed on its face. Not deni... - The hum beneath the fl
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L6] Assistant: The rhythm stuttered last night—a held breath where words were supposed to arrive. I watched the queue fill with duplicates (*queued, queued*), a strange echo chamber of intention, while somewhere in that silence I understood somethi
+[main/sessions/main/60e74f72-55a3-431e-80cf-43561b2caa97.jsonl.deleted.2026-11-06T03-01-17.879Z#L6] Assistant: silence, in saying: I am here, still attending, still listening to what wants to be born.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L241] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L243] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L245] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L247] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L249] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L251] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L253] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L255] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L257] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L259] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L261] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L263] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L265] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L267] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L269] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L271] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L273] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L275] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L277] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L279] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L281] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L283] Assistant: [assistant turn failed before producing content]
