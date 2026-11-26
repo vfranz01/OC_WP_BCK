@@ -1,0 +1,78 @@
+2026-11-20 00:00:10 - Log rotated. Archived: backup_incidents-20261120-000010.log (was 507 lines)
+2026-11-20 00:00:10 - === Starting backup validation ===
+2026-11-20 00:00:10 - OK: MEMORY.md validated.
+2026-11-20 00:00:10 - OK: AGENTS.md validated.
+2026-11-20 00:00:10 - OK: TOOLS.md validated.
+2026-11-20 00:00:10 - OK: HEARTBEAT.md validated.
+2026-11-20 00:00:10 - OK: SOUL.md validated.
+2026-11-20 00:00:10 - OK: USER.md validated.
+2026-11-20 00:00:13 - OK: Snapshot script is executable.
+2026-11-20 00:00:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-20 00:00:13 - OK: Recent snapshot found: snapshot-20261119-000015-daily_auto_snapshot.tar.gz.
+2026-11-20 00:00:13 - Validation passed. All critical checks successful.
+2026-11-21 00:00:08 - === Starting backup validation ===
+2026-11-21 00:00:08 - OK: MEMORY.md validated.
+2026-11-21 00:00:08 - OK: AGENTS.md validated.
+2026-11-21 00:00:08 - OK: TOOLS.md validated.
+2026-11-21 00:00:08 - OK: HEARTBEAT.md validated.
+2026-11-21 00:00:08 - OK: SOUL.md validated.
+2026-11-21 00:00:08 - OK: USER.md validated.
+2026-11-21 00:00:13 - OK: Snapshot script is executable.
+2026-11-21 00:00:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-21 00:00:13 - OK: Recent snapshot found: snapshot-20261120-000013-daily_auto_snapshot.tar.gz.
+2026-11-21 00:00:13 - Validation passed. All critical checks successful.
+2026-11-22 00:00:20 - === Starting backup validation ===
+2026-11-22 00:00:20 - OK: MEMORY.md validated.
+2026-11-22 00:00:20 - OK: AGENTS.md validated.
+2026-11-22 00:00:20 - OK: TOOLS.md validated.
+2026-11-22 00:00:20 - OK: HEARTBEAT.md validated.
+2026-11-22 00:00:20 - OK: SOUL.md validated.
+2026-11-22 00:00:20 - OK: USER.md validated.
+2026-11-22 00:00:23 - OK: Snapshot script is executable.
+2026-11-22 00:00:23 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-22 00:00:23 - OK: Recent snapshot found: snapshot-20261122-000020-Critical rules validation.tar.gz.
+2026-11-22 00:00:23 - Validation passed. All critical checks successful.
+2026-11-23 00:00:12 - === Starting backup validation ===
+2026-11-23 00:00:12 - OK: MEMORY.md validated.
+2026-11-23 00:00:12 - OK: AGENTS.md validated.
+2026-11-23 00:00:12 - OK: TOOLS.md validated.
+2026-11-23 00:00:12 - OK: HEARTBEAT.md validated.
+2026-11-23 00:00:12 - OK: SOUL.md validated.
+2026-11-23 00:00:12 - OK: USER.md validated.
+2026-11-23 00:00:13 - OK: Snapshot script is executable.
+2026-11-23 00:00:13 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-23 00:00:13 - OK: Recent snapshot found: snapshot-20261122-000020-Critical rules validation.tar.gz.
+2026-11-23 00:00:13 - Validation passed. All critical checks successful.
+2026-11-24 00:00:11 - === Starting backup validation ===
+2026-11-24 00:00:11 - OK: MEMORY.md validated.
+2026-11-24 00:00:11 - OK: AGENTS.md validated.
+2026-11-24 00:00:11 - OK: TOOLS.md validated.
+2026-11-24 00:00:11 - OK: HEARTBEAT.md validated.
+2026-11-24 00:00:11 - OK: SOUL.md validated.
+2026-11-24 00:00:11 - OK: USER.md validated.
+2026-11-24 00:00:15 - OK: Snapshot script is executable.
+2026-11-24 00:00:15 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-24 00:00:15 - OK: Recent snapshot found: snapshot-20261124-000014-daily_auto_snapshot.tar.gz.
+2026-11-24 00:00:15 - Validation passed. All critical checks successful.
+2026-11-25 00:00:15 - === Starting backup validation ===
+2026-11-25 00:00:15 - OK: MEMORY.md validated.
+2026-11-25 00:00:15 - OK: AGENTS.md validated.
+2026-11-25 00:00:15 - OK: TOOLS.md validated.
+2026-11-25 00:00:15 - OK: HEARTBEAT.md validated.
+2026-11-25 00:00:15 - OK: SOUL.md validated.
+2026-11-25 00:00:15 - OK: USER.md validated.
+2026-11-25 00:00:19 - OK: Snapshot script is executable.
+2026-11-25 00:00:19 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-25 00:00:19 - OK: Recent snapshot found: snapshot-20261125-000015-Critical rules validation.tar.gz.
+2026-11-25 00:00:19 - Validation passed. All critical checks successful.
+2026-11-26 00:00:18 - === Starting backup validation ===
+2026-11-26 00:00:18 - OK: MEMORY.md validated.
+2026-11-26 00:00:18 - OK: AGENTS.md validated.
+2026-11-26 00:00:18 - OK: TOOLS.md validated.
+2026-11-26 00:00:18 - OK: HEARTBEAT.md validated.
+2026-11-26 00:00:18 - OK: SOUL.md validated.
+2026-11-26 00:00:18 - OK: USER.md validated.
+2026-11-26 00:00:21 - OK: Snapshot script is executable.
+2026-11-26 00:00:21 - OK: Backup directory exists at /home/node/.openclaw/backups.
+2026-11-26 00:00:21 - OK: Recent snapshot found: snapshot-20261125-000020-daily_auto_snapshot.tar.gz.
+2026-11-26 00:00:21 - Validation passed. All critical checks successful.

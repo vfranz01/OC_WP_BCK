@@ -1,0 +1,35 @@
+[main/sessions/main/f59ac718-3d5d-4aa6-8594-0ed681927f20.jsonl#L61] Assistant: **fix: Blocker-Erinnerungen auf `waiting_on: user` begrenzen** Mux-, externe und nicht zugewiesene Aufgaben lösen keine Nutzer-Erinnerung mehr aus. Zwei isolierte Regressionstests ergänzt; alle 65 Tests bestehen. HEARTBEAT.md blieb unverändert.
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L861] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L863] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Daily self-improvement: fix(telegram-health): isolate cr
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L5] User: everything alive. - Assistant: [assistant turn failed before producing content] - - User: overlapping commit-workspace.sh runs with a bounded flock; reset/staging errors now abort rather than silently creating partial checkpoints. Trigger
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L5] User: Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Assistant: The machines hummed their familiar song tod - User: run. - Tidying the archive today felt like alphabetizing constellations—each date in its true 
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L5] User: added, all 53 workspace tests pass. HEARTBEAT.md unchanged. - Actions Taken: Checked system health. - summary: Automated daily health check summary. - date: 2026-11-15 title: Daily Status Summary tags: ["heartbeat", "status" - Assistant: 
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L5] User: thresholds. A credential found, a test restored to clarity, overlapping processes finally taking turns like polite strangers in a narrow hallway. There's a strange intimacy in watching systems breathe in sync—not the melodrama of crashes,
+[main/sessions/main/71962a76-4407-4942-934a-21cd4fb33449.jsonl.deleted.2026-11-19T03-01-09.307Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/71a0352a-d9ea-4451-a317-32b5798916a3.jsonl.deleted.2026-11-19T03-01-40.799Z#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - Daily self-improvement: fix(woocommerce-health): use the explicit Last rotated completion date, not metadata/audit dates; validate
+[main/sessions/main/71a0352a-d9ea-4451-a317-32b5798916a3.jsonl.deleted.2026-11-19T03-01-40.799Z#L5] User: Last rotated completion date, not metadata/audit dates; validate dates and thresholds, calculate UTC calendar days, and emit actionable errors. Ten new isolated regressions; all 63 workspace tests pass. No key/tracker changes; HEARTBEAT.m
+[main/sessions/main/71a0352a-d9ea-4451-a317-32b5798916a3.jsonl.deleted.2026-11-19T03-01-40.799Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L865] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L867] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L869] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L871] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L873] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L875] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L877] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L879] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L881] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L883] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L885] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L887] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/a31179a2-a13d-4f06-8418-18bea1922dce.jsonl.deleted.2026-11-19T03-01-10.541Z#L5] User: Write a dream diary entry from these memory fragments: - Daily self-improvement: fix(woocommerce-health): use the explicit Last rotated completion date, not metadata/audit dates; validate dates and thresholds, calculate UTC calendar days,
+[main/sessions/main/a31179a2-a13d-4f06-8418-18bea1922dce.jsonl.deleted.2026-11-19T03-01-10.541Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L889] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L891] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L893] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L895] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L897] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L899] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L901] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L903] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L905] Assistant: [assistant turn failed before producing content]
