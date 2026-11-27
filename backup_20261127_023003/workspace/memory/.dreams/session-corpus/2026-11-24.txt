@@ -1,0 +1,33 @@
+[main/sessions/main/3826cabe-7906-4743-b5d9-24cfdf029c38.jsonl#L14] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1101] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1103] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/36214240-83ad-4cf7-a142-bdfb63690deb.jsonl.deleted.2026-11-24T03-01-09.309Z#L5] User: Write a dream diary entry from these memory fragments: - date: 2026-11-21 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - date: 2026-11-22 title: Daily Status Summary tags: ["heartbeat"
+[main/sessions/main/36214240-83ad-4cf7-a142-bdfb63690deb.jsonl.deleted.2026-11-24T03-01-09.309Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/38a6583e-71de-4e62-b9cc-b74ba685af95.jsonl.deleted.2026-11-24T03-01-08.009Z#L5] User: Write a dream diary entry from these memory fragments: - Assistant: [assistant turn failed before producing content] - User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - date:
+[main/sessions/main/38a6583e-71de-4e62-b9cc-b74ba685af95.jsonl.deleted.2026-11-24T03-01-08.009Z#L5] User: [infrastructure] - summary: Automated daily health check - User: Write a dream diary entry from these memory fragments: - Actions Taken: Checked system health.; Fixe - User: [infrastructure] - Actions Taken: Checked system health. - summa
+[main/sessions/main/38a6583e-71de-4e62-b9cc-b74ba685af95.jsonl.deleted.2026-11-24T03-01-08.009Z#L5] User: date: 2026-11-20 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - date: 2026-11-21 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: - Assistant: [assista
+[main/sessions/main/38a6583e-71de-4e62-b9cc-b74ba685af95.jsonl.deleted.2026-11-24T03-01-08.009Z#L5] User: unavailable in this run. - A memory trace surfaced, but details were unavailable in this run. - Prefer a fresh angle; do not replay the same first-day framing unless newer fragments change it.
+[main/sessions/main/38a6583e-71de-4e62-b9cc-b74ba685af95.jsonl.deleted.2026-11-24T03-01-08.009Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1105] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1107] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1109] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1111] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1113] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1115] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1117] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1119] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1121] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1123] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1125] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1127] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/f0ffe30e-ba7d-4425-b1a9-11065bf982f7.jsonl.deleted.2026-11-24T03-01-08.085Z#L5] User: Write a dream diary entry from these memory fragments: - Was heute passiert ist: Status checks performed. - date: 2026-11-21 title: Daily Status Summary tags: ["heartbeat", "status", "automation"] projects: [infrastructure] - Actions Take
+[main/sessions/main/f0ffe30e-ba7d-4425-b1a9-11065bf982f7.jsonl.deleted.2026-11-24T03-01-08.085Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1129] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1131] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1133] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1135] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1137] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1139] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1141] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1143] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L1145] Assistant: [assistant turn failed before producing content]
