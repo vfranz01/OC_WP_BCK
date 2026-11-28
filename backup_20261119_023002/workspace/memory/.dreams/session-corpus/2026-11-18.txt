@@ -1,4 +1,0 @@
-[main/sessions/main/62295066-c026-45e6-a622-5307567acd3e.jsonl#L14] Assistant: fix(daily-context): Count only exact `open` statuses in the error backlog, so labels like `open-ended` don’t inflate the total. Verified shell syntax and tested four sample statuses. Logged the change; `HEARTBEAT.md` was untouched.
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L811] Assistant: [assistant turn failed before producing content]
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L813] Assistant: [assistant turn failed before producing content]
-[main/sessions/main/87f113b3-0af1-41fb-a43b-5e2238d0298f.jsonl#L815] Assistant: [assistant turn failed before producing content]
